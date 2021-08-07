@@ -1,0 +1,1628 @@
+[
+  {
+    "name": "City Terminals",
+    "number_of_CS": 1,
+    "latitude": 1.24762615,
+    "longitude": 103.6869744
+  },
+  {
+    "name": "Sentosa",
+    "number_of_CS": 31,
+    "latitude": 1.24894585,
+    "longitude": 103.8343056
+  },
+  {
+    "name": "Maritime Square",
+    "number_of_CS": 514,
+    "latitude": 1.264222,
+    "longitude": 103.8189255
+  },
+  {
+    "name": "Telok Blangah Rise",
+    "number_of_CS": 294,
+    "latitude": 1.2713635,
+    "longitude": 103.8237998
+  },
+  {
+    "name": "Faber",
+    "number_of_CS": 92,
+    "latitude": 1.271924,
+    "longitude": 103.8171752
+  },
+  {
+    "name": "Telok Blangah Drive",
+    "number_of_CS": 356,
+    "latitude": 1.2725019,
+    "longitude": 103.8118027
+  },
+  {
+    "name": "Anson",
+    "number_of_CS": 68,
+    "latitude": 1.2737957,
+    "longitude": 103.843473
+  },
+  {
+    "name": "Telok Blangah Way",
+    "number_of_CS": 228,
+    "latitude": 1.2747778,
+    "longitude": 103.8219172
+  },
+  {
+    "name": "Bukit Merah",
+    "number_of_CS": 25,
+    "latitude": 1.2748641,
+    "longitude": 103.8202761
+  },
+  {
+    "name": "Kampong Tiong Bahru",
+    "number_of_CS": 274,
+    "latitude": 1.2756728,
+    "longitude": 103.8335913
+  },
+  {
+    "name": "Pasir Panjang 1",
+    "number_of_CS": 177,
+    "latitude": 1.27620135,
+    "longitude": 103.7914758
+  },
+  {
+    "name": "Tanjong Pagar",
+    "number_of_CS": 193,
+    "latitude": 1.27660565,
+    "longitude": 103.8457793
+  },
+  {
+    "name": "Everton Park",
+    "number_of_CS": 235,
+    "latitude": 1.2771286,
+    "longitude": 103.8393679
+  },
+  {
+    "name": "Alexandra Hill",
+    "number_of_CS": 356,
+    "latitude": 1.277477,
+    "longitude": 103.8018803
+  },
+  {
+    "name": "Alexandra North",
+    "number_of_CS": 21,
+    "latitude": 1.277477,
+    "longitude": 103.8018803
+  },
+  {
+    "name": "Singapore General Hospital",
+    "number_of_CS": 35,
+    "latitude": 1.27944885,
+    "longitude": 103.8362805
+  },
+  {
+    "name": "Marina Centre",
+    "number_of_CS": 134,
+    "latitude": 1.27958235,
+    "longitude": 103.8538296
+  },
+  {
+    "name": "Cecil",
+    "number_of_CS": 197,
+    "latitude": 1.2796445,
+    "longitude": 103.8492618
+  },
+  {
+    "name": "Pasir Panjang 2",
+    "number_of_CS": 88,
+    "latitude": 1.28086725,
+    "longitude": 103.7872203
+  },
+  {
+    "name": "Depot Road",
+    "number_of_CS": 111,
+    "latitude": 1.2811537,
+    "longitude": 103.8141727
+  },
+  {
+    "name": "Henderson Hill",
+    "number_of_CS": 274,
+    "latitude": 1.28115755,
+    "longitude": 103.8210608
+  },
+  {
+    "name": "People's Park",
+    "number_of_CS": 64,
+    "latitude": 1.2831661,
+    "longitude": 103.8415181
+  },
+  {
+    "name": "China Square",
+    "number_of_CS": 85,
+    "latitude": 1.2834925,
+    "longitude": 103.8465903
+  },
+  {
+    "name": "Raffles Place",
+    "number_of_CS": 1,
+    "latitude": 1.2835417,
+    "longitude": 103.8514602
+  },
+  {
+    "name": "Chinatown",
+    "number_of_CS": 329,
+    "latitude": 1.2837372,
+    "longitude": 103.8437976
+  },
+  {
+    "name": "Pearl's Hill",
+    "number_of_CS": 205,
+    "latitude": 1.28489795,
+    "longitude": 103.8398284
+  },
+  {
+    "name": "Tiong Bahru Station",
+    "number_of_CS": 355,
+    "latitude": 1.2860113,
+    "longitude": 103.8274107
+  },
+  {
+    "name": "Boat Quay",
+    "number_of_CS": 69,
+    "latitude": 1.2861015,
+    "longitude": 103.8500076
+  },
+  {
+    "name": "Tiong Bahru",
+    "number_of_CS": 268,
+    "latitude": 1.28617925,
+    "longitude": 103.8272252
+  },
+  {
+    "name": "Bukit Ho Swee",
+    "number_of_CS": 462,
+    "latitude": 1.2879953,
+    "longitude": 103.8285644
+  },
+  {
+    "name": "Clarke Quay",
+    "number_of_CS": 74,
+    "latitude": 1.2882413,
+    "longitude": 103.8464304
+  },
+  {
+    "name": "Redhill",
+    "number_of_CS": 305,
+    "latitude": 1.2896482,
+    "longitude": 103.8167677
+  },
+  {
+    "name": "Cheng San",
+    "number_of_CS": 634,
+    "latitude": 1.2904753,
+    "longitude": 103.8520359
+  },
+  {
+    "name": "Mei Chin",
+    "number_of_CS": 385,
+    "latitude": 1.2911956,
+    "longitude": 103.8016206
+  },
+  {
+    "name": "Robertson Quay",
+    "number_of_CS": 102,
+    "latitude": 1.2917517,
+    "longitude": 103.8413036
+  },
+  {
+    "name": "Fort Canning",
+    "number_of_CS": 24,
+    "latitude": 1.2923829,
+    "longitude": 103.844242
+  },
+  {
+    "name": "City Hall",
+    "number_of_CS": 5,
+    "latitude": 1.2930272,
+    "longitude": 103.8526448
+  },
+  {
+    "name": "Boulevard",
+    "number_of_CS": 29,
+    "latitude": 1.2932394,
+    "longitude": 103.8594082
+  },
+  {
+    "name": "Kent Ridge",
+    "number_of_CS": 28,
+    "latitude": 1.2933374,
+    "longitude": 103.7844936
+  },
+  {
+    "name": "Institution Hill",
+    "number_of_CS": 86,
+    "latitude": 1.2949263,
+    "longitude": 103.8393131
+  },
+  {
+    "name": "Victoria",
+    "number_of_CS": 89,
+    "latitude": 1.29616795,
+    "longitude": 103.8500437
+  },
+  {
+    "name": "Margaret Drive",
+    "number_of_CS": 243,
+    "latitude": 1.2966609,
+    "longitude": 103.8087959
+  },
+  {
+    "name": "Bras Basah",
+    "number_of_CS": 0,
+    "latitude": 1.2968214,
+    "longitude": 103.8506658
+  },
+  {
+    "name": "Tanjong Rhu",
+    "number_of_CS": 285,
+    "latitude": 1.29734275,
+    "longitude": 103.8737643
+  },
+  {
+    "name": "Queensway",
+    "number_of_CS": 27,
+    "latitude": 1.2985188,
+    "longitude": 103.8005671
+  },
+  {
+    "name": "Bencoolen",
+    "number_of_CS": 41,
+    "latitude": 1.29860845,
+    "longitude": 103.850127
+  },
+  {
+    "name": "Oxley",
+    "number_of_CS": 41,
+    "latitude": 1.29883365,
+    "longitude": 103.8409059
+  },
+  {
+    "name": "One North",
+    "number_of_CS": 13,
+    "latitude": 1.29954015,
+    "longitude": 103.7872584
+  },
+  {
+    "name": "Dhoby Ghaut",
+    "number_of_CS": 37,
+    "latitude": 1.29955225,
+    "longitude": 103.8453375
+  },
+  {
+    "name": "Leonie Hill",
+    "number_of_CS": 69,
+    "latitude": 1.2996407,
+    "longitude": 103.8323837
+  },
+  {
+    "name": "Clementi Woods",
+    "number_of_CS": 438,
+    "latitude": 1.29980405,
+    "longitude": 103.7678731
+  },
+  {
+    "name": "Tanglin Halt",
+    "number_of_CS": 280,
+    "latitude": 1.2999069,
+    "longitude": 103.7981087
+  },
+  {
+    "name": "Bugis",
+    "number_of_CS": 304,
+    "latitude": 1.2999533,
+    "longitude": 103.8552781
+  },
+  {
+    "name": "Paterson",
+    "number_of_CS": 3,
+    "latitude": 1.30030955,
+    "longitude": 103.8306164
+  },
+  {
+    "name": "Somerset",
+    "number_of_CS": 95,
+    "latitude": 1.30038375,
+    "longitude": 103.8388285
+  },
+  {
+    "name": "Kampong Glam",
+    "number_of_CS": 194,
+    "latitude": 1.30128,
+    "longitude": 103.8599267
+  },
+  {
+    "name": "Katong",
+    "number_of_CS": 309,
+    "latitude": 1.3016238,
+    "longitude": 103.9045983
+  },
+  {
+    "name": "One Tree Hill",
+    "number_of_CS": 148,
+    "latitude": 1.30187,
+    "longitude": 103.8274901
+  },
+  {
+    "name": "Commonwealth",
+    "number_of_CS": 210,
+    "latitude": 1.3024428,
+    "longitude": 103.7983085
+  },
+  {
+    "name": "Marine Parade",
+    "number_of_CS": 720,
+    "latitude": 1.3026889,
+    "longitude": 103.9073952
+  },
+  {
+    "name": "Samulun",
+    "number_of_CS": 93,
+    "latitude": 1.302728,
+    "longitude": 103.6974283
+  },
+  {
+    "name": "Selegie",
+    "number_of_CS": 53,
+    "latitude": 1.3027586,
+    "longitude": 103.8502417
+  },
+  {
+    "name": "Tanglin",
+    "number_of_CS": 8,
+    "latitude": 1.30420465,
+    "longitude": 103.8184717
+  },
+  {
+    "name": "Mount Emily",
+    "number_of_CS": 95,
+    "latitude": 1.30462805,
+    "longitude": 103.8475524
+  },
+  {
+    "name": "Sungei Road",
+    "number_of_CS": 219,
+    "latitude": 1.3046537,
+    "longitude": 103.85153
+  },
+  {
+    "name": "Mackenzie",
+    "number_of_CS": 44,
+    "latitude": 1.30494005,
+    "longitude": 103.8488472
+  },
+  {
+    "name": "Crawford",
+    "number_of_CS": 230,
+    "latitude": 1.30558585,
+    "longitude": 103.8630877
+  },
+  {
+    "name": "Jurong Port",
+    "number_of_CS": 0,
+    "latitude": 1.30562985,
+    "longitude": 103.7212514
+  },
+  {
+    "name": "Rochor Canal",
+    "number_of_CS": 233,
+    "latitude": 1.3057009,
+    "longitude": 103.8582073
+  },
+  {
+    "name": "Kampong Bugis",
+    "number_of_CS": 60,
+    "latitude": 1.3059255,
+    "longitude": 103.8672656
+  },
+  {
+    "name": "Mountbatten",
+    "number_of_CS": 290,
+    "latitude": 1.3063254,
+    "longitude": 103.8827278
+  },
+  {
+    "name": "Nassim",
+    "number_of_CS": 178,
+    "latitude": 1.30659285,
+    "longitude": 103.8229921
+  },
+  {
+    "name": "Ridout",
+    "number_of_CS": 30,
+    "latitude": 1.3068145,
+    "longitude": 103.8066682
+  },
+  {
+    "name": "Little India",
+    "number_of_CS": 119,
+    "latitude": 1.30684265,
+    "longitude": 103.8492736
+  },
+  {
+    "name": "Cairnhill",
+    "number_of_CS": 81,
+    "latitude": 1.307056,
+    "longitude": 103.837803
+  },
+  {
+    "name": "Lavender",
+    "number_of_CS": 365,
+    "latitude": 1.30734955,
+    "longitude": 103.8631527
+  },
+  {
+    "name": "Goodwood Park",
+    "number_of_CS": 44,
+    "latitude": 1.3082222,
+    "longitude": 103.8341091
+  },
+  {
+    "name": "Monk's Hill",
+    "number_of_CS": 21,
+    "latitude": 1.3087229,
+    "longitude": 103.8403421
+  },
+  {
+    "name": "Singapore Polytechnic",
+    "number_of_CS": 3,
+    "latitude": 1.30913695,
+    "longitude": 103.7781437
+  },
+  {
+    "name": "Ghim Moh",
+    "number_of_CS": 254,
+    "latitude": 1.3093063,
+    "longitude": 103.78422
+  },
+  {
+    "name": "Holland Road",
+    "number_of_CS": 220,
+    "latitude": 1.3101133,
+    "longitude": 103.8047651
+  },
+  {
+    "name": "Holland Drive",
+    "number_of_CS": 469,
+    "latitude": 1.3112157,
+    "longitude": 103.7926426
+  },
+  {
+    "name": "Shangri-La",
+    "number_of_CS": 394,
+    "latitude": 1.3112474,
+    "longitude": 103.8267568
+  },
+  {
+    "name": "Dover",
+    "number_of_CS": 281,
+    "latitude": 1.3113893,
+    "longitude": 103.778605
+  },
+  {
+    "name": "Newton Circus",
+    "number_of_CS": 115,
+    "latitude": 1.3119894,
+    "longitude": 103.8392897
+  },
+  {
+    "name": "Frankel",
+    "number_of_CS": 776,
+    "latitude": 1.3122881,
+    "longitude": 103.9201786
+  },
+  {
+    "name": "Farrer Court",
+    "number_of_CS": 411,
+    "latitude": 1.31259105,
+    "longitude": 103.8542288
+  },
+  {
+    "name": "Farrer Park",
+    "number_of_CS": 67,
+    "latitude": 1.31259105,
+    "longitude": 103.8542288
+  },
+  {
+    "name": "Bayshore",
+    "number_of_CS": 473,
+    "latitude": 1.3128118,
+    "longitude": 103.9390329
+  },
+  {
+    "name": "Jurong River",
+    "number_of_CS": 13,
+    "latitude": 1.3135155,
+    "longitude": 103.7274968
+  },
+  {
+    "name": "Orange Grove",
+    "number_of_CS": 34,
+    "latitude": 1.31353095,
+    "longitude": 103.8266548
+  },
+  {
+    "name": "Bendemeer",
+    "number_of_CS": 994,
+    "latitude": 1.3136389,
+    "longitude": 103.8630012
+  },
+  {
+    "name": "Kampong Java",
+    "number_of_CS": 242,
+    "latitude": 1.3139715,
+    "longitude": 103.8454729
+  },
+  {
+    "name": "Kallang Bahru",
+    "number_of_CS": 5,
+    "latitude": 1.3149163,
+    "longitude": 103.864025
+  },
+  {
+    "name": "Clementi Central",
+    "number_of_CS": 309,
+    "latitude": 1.3151003,
+    "longitude": 103.7652311
+  },
+  {
+    "name": "Clementi West",
+    "number_of_CS": 351,
+    "latitude": 1.3151003,
+    "longitude": 103.7652311
+  },
+  {
+    "name": "Tyersall",
+    "number_of_CS": 119,
+    "latitude": 1.3155411,
+    "longitude": 103.8146891
+  },
+  {
+    "name": "Guilin",
+    "number_of_CS": 400,
+    "latitude": 1.31579415,
+    "longitude": 103.8899933
+  },
+  {
+    "name": "Leedon Park",
+    "number_of_CS": 141,
+    "latitude": 1.3163624,
+    "longitude": 103.7960601
+  },
+  {
+    "name": "Pandan",
+    "number_of_CS": 0,
+    "latitude": 1.3163699,
+    "longitude": 103.7813952
+  },
+  {
+    "name": "Ulu Pandan",
+    "number_of_CS": 229,
+    "latitude": 1.3163699,
+    "longitude": 103.7813952
+  },
+  {
+    "name": "Aljunied",
+    "number_of_CS": 1273,
+    "latitude": 1.3164515,
+    "longitude": 103.882909
+  },
+  {
+    "name": "Penjuru Crescent",
+    "number_of_CS": 21,
+    "latitude": 1.3165214,
+    "longitude": 103.7321354
+  },
+  {
+    "name": "West Coast",
+    "number_of_CS": 150,
+    "latitude": 1.3170586,
+    "longitude": 103.7554066
+  },
+  {
+    "name": "Bedok South",
+    "number_of_CS": 1129,
+    "latitude": 1.3172941,
+    "longitude": 103.9496814
+  },
+  {
+    "name": "Paya Lebar East",
+    "number_of_CS": 358,
+    "latitude": 1.3174795,
+    "longitude": 103.8923525
+  },
+  {
+    "name": "Paya Lebar North",
+    "number_of_CS": 0,
+    "latitude": 1.3174795,
+    "longitude": 103.8923525
+  },
+  {
+    "name": "Siglap",
+    "number_of_CS": 154,
+    "latitude": 1.3176986,
+    "longitude": 103.9185698
+  },
+  {
+    "name": "Moulmein",
+    "number_of_CS": 207,
+    "latitude": 1.3180495,
+    "longitude": 103.8501454
+  },
+  {
+    "name": "Geylang East",
+    "number_of_CS": 711,
+    "latitude": 1.3181862,
+    "longitude": 103.8870563
+  },
+  {
+    "name": "Geylang Bahru",
+    "number_of_CS": 305,
+    "latitude": 1.3190326,
+    "longitude": 103.8723174
+  },
+  {
+    "name": "Boon Keng",
+    "number_of_CS": 249,
+    "latitude": 1.31956905,
+    "longitude": 103.8617487
+  },
+  {
+    "name": "Gul Circle",
+    "number_of_CS": 335,
+    "latitude": 1.3196353,
+    "longitude": 103.6606551
+  },
+  {
+    "name": "Teban Gardens",
+    "number_of_CS": 476,
+    "latitude": 1.32089305,
+    "longitude": 103.7379342
+  },
+  {
+    "name": "Kembangan",
+    "number_of_CS": 909,
+    "latitude": 1.3210321,
+    "longitude": 103.9129269
+  },
+  {
+    "name": "Dunearn",
+    "number_of_CS": 83,
+    "latitude": 1.3210897,
+    "longitude": 103.8278673
+  },
+  {
+    "name": "Sunset Way",
+    "number_of_CS": 134,
+    "latitude": 1.3219375,
+    "longitude": 103.7701637
+  },
+  {
+    "name": "Malcolm",
+    "number_of_CS": 56,
+    "latitude": 1.3225026,
+    "longitude": 103.8264687
+  },
+  {
+    "name": "Coronation Road",
+    "number_of_CS": 142,
+    "latitude": 1.3226686,
+    "longitude": 103.8045968
+  },
+  {
+    "name": "Kallang Way",
+    "number_of_CS": 103,
+    "latitude": 1.3249544,
+    "longitude": 103.8767546
+  },
+  {
+    "name": "Tukang",
+    "number_of_CS": 48,
+    "latitude": 1.3253215,
+    "longitude": 103.7092754
+  },
+  {
+    "name": "Macpherson",
+    "number_of_CS": 702,
+    "latitude": 1.32620695,
+    "longitude": 103.889507
+  },
+  {
+    "name": "Balestier",
+    "number_of_CS": 754,
+    "latitude": 1.326226,
+    "longitude": 103.8473149
+  },
+  {
+    "name": "Mount Pleasant",
+    "number_of_CS": 14,
+    "latitude": 1.3267807,
+    "longitude": 103.8293716
+  },
+  {
+    "name": "International Business Park",
+    "number_of_CS": 141,
+    "latitude": 1.3273734,
+    "longitude": 103.7476106
+  },
+  {
+    "name": "Joo Koon",
+    "number_of_CS": 412,
+    "latitude": 1.327735,
+    "longitude": 103.6782221
+  },
+  {
+    "name": "Boon Teck",
+    "number_of_CS": 351,
+    "latitude": 1.32778935,
+    "longitude": 103.850213
+  },
+  {
+    "name": "Kian Teck",
+    "number_of_CS": 115,
+    "latitude": 1.3285109,
+    "longitude": 103.6947963
+  },
+  {
+    "name": "Xilin",
+    "number_of_CS": 112,
+    "latitude": 1.3286407,
+    "longitude": 103.9644167
+  },
+  {
+    "name": "Hillcrest",
+    "number_of_CS": 208,
+    "latitude": 1.32876475,
+    "longitude": 103.8056442
+  },
+  {
+    "name": "Clementi North",
+    "number_of_CS": 612,
+    "latitude": 1.3292738,
+    "longitude": 103.7762131
+  },
+  {
+    "name": "Kim Keat",
+    "number_of_CS": 183,
+    "latitude": 1.3294271,
+    "longitude": 103.8532782
+  },
+  {
+    "name": "Kampong Ubi",
+    "number_of_CS": 360,
+    "latitude": 1.3296421,
+    "longitude": 103.8950949
+  },
+  {
+    "name": "Tuas Bay",
+    "number_of_CS": 270,
+    "latitude": 1.3300518,
+    "longitude": 103.6395694
+  },
+  {
+    "name": "Tuas North",
+    "number_of_CS": 0,
+    "latitude": 1.3300518,
+    "longitude": 103.6395694
+  },
+  {
+    "name": "Tuas View",
+    "number_of_CS": 0,
+    "latitude": 1.3300518,
+    "longitude": 103.6395694
+  },
+  {
+    "name": "Toh Tuck",
+    "number_of_CS": 5,
+    "latitude": 1.3309244,
+    "longitude": 103.7575927
+  },
+  {
+    "name": "Potong Pasir",
+    "number_of_CS": 332,
+    "latitude": 1.3314141,
+    "longitude": 103.8691381
+  },
+  {
+    "name": "Sennett",
+    "number_of_CS": 112,
+    "latitude": 1.33198165,
+    "longitude": 103.8744792
+  },
+  {
+    "name": "Bedok North",
+    "number_of_CS": 1831,
+    "latitude": 1.3324018,
+    "longitude": 103.9193052
+  },
+  {
+    "name": "Toa Payoh Central",
+    "number_of_CS": 655,
+    "latitude": 1.3326741,
+    "longitude": 103.8505222
+  },
+  {
+    "name": "Toa Payoh West",
+    "number_of_CS": 305,
+    "latitude": 1.3346545,
+    "longitude": 103.8395038
+  },
+  {
+    "name": "Taman Jurong",
+    "number_of_CS": 822,
+    "latitude": 1.33488355,
+    "longitude": 103.7207887
+  },
+  {
+    "name": "Tai Seng",
+    "number_of_CS": 376,
+    "latitude": 1.3353828,
+    "longitude": 103.8883061
+  },
+  {
+    "name": "Joo Seng",
+    "number_of_CS": 207,
+    "latitude": 1.3355302,
+    "longitude": 103.8833207
+  },
+  {
+    "name": "Anak Bukit",
+    "number_of_CS": 627,
+    "latitude": 1.3358173,
+    "longitude": 103.7754302
+  },
+  {
+    "name": "Kaki Bukit",
+    "number_of_CS": 916,
+    "latitude": 1.3360277,
+    "longitude": 103.9018509
+  },
+  {
+    "name": "Jurong Gateway",
+    "number_of_CS": 2,
+    "latitude": 1.3364281,
+    "longitude": 103.746847
+  },
+  {
+    "name": "Pei Chun",
+    "number_of_CS": 251,
+    "latitude": 1.3370857,
+    "longitude": 103.8556799
+  },
+  {
+    "name": "Reservoir View",
+    "number_of_CS": 0,
+    "latitude": 1.3375104,
+    "longitude": 103.9289504
+  },
+  {
+    "name": "Yunnan",
+    "number_of_CS": 1510,
+    "latitude": 1.33828435,
+    "longitude": 103.6910894
+  },
+  {
+    "name": "Bidadari",
+    "number_of_CS": 0,
+    "latitude": 1.33846645,
+    "longitude": 103.8748981
+  },
+  {
+    "name": "Woodleigh",
+    "number_of_CS": 67,
+    "latitude": 1.3391943,
+    "longitude": 103.8708215
+  },
+  {
+    "name": "Jurong West Central",
+    "number_of_CS": 1609,
+    "latitude": 1.3396365,
+    "longitude": 103.7073387
+  },
+  {
+    "name": "Lorong 8 Toa Payoh",
+    "number_of_CS": 210,
+    "latitude": 1.3397792,
+    "longitude": 103.858327
+  },
+  {
+    "name": "Toh Guan",
+    "number_of_CS": 352,
+    "latitude": 1.3399884,
+    "longitude": 103.7515124
+  },
+  {
+    "name": "Braddell",
+    "number_of_CS": 229,
+    "latitude": 1.3400707,
+    "longitude": 103.8467584
+  },
+  {
+    "name": "Bedok Reservoir",
+    "number_of_CS": 541,
+    "latitude": 1.3425058,
+    "longitude": 103.9252298
+  },
+  {
+    "name": "Swiss Club",
+    "number_of_CS": 118,
+    "latitude": 1.3429964,
+    "longitude": 103.7906466
+  },
+  {
+    "name": "Simei",
+    "number_of_CS": 932,
+    "latitude": 1.3431881,
+    "longitude": 103.953371
+  },
+  {
+    "name": "Lakeside",
+    "number_of_CS": 22,
+    "latitude": 1.34425,
+    "longitude": 103.7206931
+  },
+  {
+    "name": "Yuhua East",
+    "number_of_CS": 585,
+    "latitude": 1.34495555,
+    "longitude": 103.7310153
+  },
+  {
+    "name": "Yuhua West",
+    "number_of_CS": 445,
+    "latitude": 1.34495555,
+    "longitude": 103.7310153
+  },
+  {
+    "name": "Chatsworth",
+    "number_of_CS": 122,
+    "latitude": 1.34514795,
+    "longitude": 103.7918562
+  },
+  {
+    "name": "Bukit Batok West",
+    "number_of_CS": 628,
+    "latitude": 1.3455305,
+    "longitude": 103.7397329
+  },
+  {
+    "name": "Tampines West",
+    "number_of_CS": 1664,
+    "latitude": 1.3458661,
+    "longitude": 103.9384635
+  },
+  {
+    "name": "Boon Lay Place",
+    "number_of_CS": 826,
+    "latitude": 1.34640455,
+    "longitude": 103.7122848
+  },
+  {
+    "name": "Bukit Batok Central",
+    "number_of_CS": 555,
+    "latitude": 1.34844155,
+    "longitude": 103.7463789
+  },
+  {
+    "name": "Marymount",
+    "number_of_CS": 679,
+    "latitude": 1.34860435,
+    "longitude": 103.8393926
+  },
+  {
+    "name": "Western Water Catchment",
+    "number_of_CS": 19,
+    "latitude": 1.3487577,
+    "longitude": 103.6784309
+  },
+  {
+    "name": "Bukit Batok East",
+    "number_of_CS": 425,
+    "latitude": 1.3490572,
+    "longitude": 103.7495906
+  },
+  {
+    "name": "Bukit Batok South",
+    "number_of_CS": 297,
+    "latitude": 1.3490572,
+    "longitude": 103.7495906
+  },
+  {
+    "name": "Upper Thomson",
+    "number_of_CS": 667,
+    "latitude": 1.3507896,
+    "longitude": 103.8359951
+  },
+  {
+    "name": "Lorong Chuan",
+    "number_of_CS": 179,
+    "latitude": 1.35156575,
+    "longitude": 103.8638622
+  },
+  {
+    "name": "Defu Industrial Park",
+    "number_of_CS": 0,
+    "latitude": 1.35161105,
+    "longitude": 103.892045
+  },
+  {
+    "name": "Bishan East",
+    "number_of_CS": 616,
+    "latitude": 1.3519117,
+    "longitude": 103.8489708
+  },
+  {
+    "name": "Lorong Ah Soo",
+    "number_of_CS": 734,
+    "latitude": 1.3520481,
+    "longitude": 103.8845867
+  },
+  {
+    "name": "Changi Point",
+    "number_of_CS": 17,
+    "latitude": 1.35211085,
+    "longitude": 103.9870125
+  },
+  {
+    "name": "Changi West",
+    "number_of_CS": 37,
+    "latitude": 1.35211085,
+    "longitude": 103.9870125
+  },
+  {
+    "name": "Port",
+    "number_of_CS": 3,
+    "latitude": 1.35211085,
+    "longitude": 103.9870125
+  },
+  {
+    "name": "Serangoon Central",
+    "number_of_CS": 587,
+    "latitude": 1.3535142,
+    "longitude": 103.8716164
+  },
+  {
+    "name": "Nature Reserve",
+    "number_of_CS": 82,
+    "latitude": 1.3540779,
+    "longitude": 103.7794401
+  },
+  {
+    "name": "Hong Kah",
+    "number_of_CS": 1212,
+    "latitude": 1.3553973,
+    "longitude": 103.7214297
+  },
+  {
+    "name": "Hong Kah North",
+    "number_of_CS": 604,
+    "latitude": 1.3553973,
+    "longitude": 103.7214297
+  },
+  {
+    "name": "Greenwood Park",
+    "number_of_CS": 193,
+    "latitude": 1.3554879,
+    "longitude": 103.9327917
+  },
+  {
+    "name": "Tampines East",
+    "number_of_CS": 2950,
+    "latitude": 1.35603565,
+    "longitude": 103.9551354
+  },
+  {
+    "name": "Flora Drive",
+    "number_of_CS": 295,
+    "latitude": 1.3573805,
+    "longitude": 103.9649776
+  },
+  {
+    "name": "Gombak",
+    "number_of_CS": 264,
+    "latitude": 1.3588929,
+    "longitude": 103.7518249
+  },
+  {
+    "name": "Midview",
+    "number_of_CS": 842,
+    "latitude": 1.359286,
+    "longitude": 103.8340359
+  },
+  {
+    "name": "Kovan",
+    "number_of_CS": 575,
+    "latitude": 1.3601757,
+    "longitude": 103.885112
+  },
+  {
+    "name": "Townsville",
+    "number_of_CS": 530,
+    "latitude": 1.3603771,
+    "longitude": 103.8538822
+  },
+  {
+    "name": "Upper Paya Lebar",
+    "number_of_CS": 379,
+    "latitude": 1.3611088,
+    "longitude": 103.9254612
+  },
+  {
+    "name": "Hillview",
+    "number_of_CS": 388,
+    "latitude": 1.3624042,
+    "longitude": 103.7674273
+  },
+  {
+    "name": "Tengah",
+    "number_of_CS": 0,
+    "latitude": 1.3624531,
+    "longitude": 103.7250401
+  },
+  {
+    "name": "Serangoon Garden",
+    "number_of_CS": 990,
+    "latitude": 1.3624579,
+    "longitude": 103.8660127
+  },
+  {
+    "name": "Dairy Farm",
+    "number_of_CS": 215,
+    "latitude": 1.3651581,
+    "longitude": 103.7740781
+  },
+  {
+    "name": "Chong Boon",
+    "number_of_CS": 594,
+    "latitude": 1.36820695,
+    "longitude": 103.8563604
+  },
+  {
+    "name": "Central Water Catchment",
+    "number_of_CS": 0,
+    "latitude": 1.3700592,
+    "longitude": 103.8034477
+  },
+  {
+    "name": "Hougang East",
+    "number_of_CS": 467,
+    "latitude": 1.3708011,
+    "longitude": 103.8925443
+  },
+  {
+    "name": "Hougang West",
+    "number_of_CS": 1068,
+    "latitude": 1.3708011,
+    "longitude": 103.8925443
+  },
+  {
+    "name": "Hougang Central",
+    "number_of_CS": 313,
+    "latitude": 1.3710492,
+    "longitude": 103.8943576
+  },
+  {
+    "name": "Ang Mo Kio Town Centre",
+    "number_of_CS": 107,
+    "latitude": 1.3712845,
+    "longitude": 103.8469936
+  },
+  {
+    "name": "Serangoon North",
+    "number_of_CS": 373,
+    "latitude": 1.3713383,
+    "longitude": 103.8727563
+  },
+  {
+    "name": "Serangoon North Ind Estate",
+    "number_of_CS": 0,
+    "latitude": 1.3713383,
+    "longitude": 103.8727563
+  },
+  {
+    "name": "Sembawang Hills",
+    "number_of_CS": 216,
+    "latitude": 1.3723986,
+    "longitude": 103.8290295
+  },
+  {
+    "name": "Pasir Ris Central",
+    "number_of_CS": 589,
+    "latitude": 1.372697,
+    "longitude": 103.9508369
+  },
+  {
+    "name": "Pasir Ris Drive",
+    "number_of_CS": 1406,
+    "latitude": 1.3730307,
+    "longitude": 103.949255
+  },
+  {
+    "name": "Pasir Ris West",
+    "number_of_CS": 774,
+    "latitude": 1.3730307,
+    "longitude": 103.949255
+  },
+  {
+    "name": "Loyang East",
+    "number_of_CS": 323,
+    "latitude": 1.3753678,
+    "longitude": 103.9772924
+  },
+  {
+    "name": "Loyang West",
+    "number_of_CS": 4,
+    "latitude": 1.3753678,
+    "longitude": 103.9772924
+  },
+  {
+    "name": "Teck Whye",
+    "number_of_CS": 576,
+    "latitude": 1.3766705,
+    "longitude": 103.7536471
+  },
+  {
+    "name": "Keat Hong",
+    "number_of_CS": 354,
+    "latitude": 1.3786034,
+    "longitude": 103.7490207
+  },
+  {
+    "name": "Pasir Ris Park",
+    "number_of_CS": 187,
+    "latitude": 1.37898635,
+    "longitude": 103.9503798
+  },
+  {
+    "name": "Bangkit",
+    "number_of_CS": 507,
+    "latitude": 1.3800412,
+    "longitude": 103.7726501
+  },
+  {
+    "name": "Rivervale",
+    "number_of_CS": 1275,
+    "latitude": 1.38062345,
+    "longitude": 103.8984008
+  },
+  {
+    "name": "Jelebu",
+    "number_of_CS": 713,
+    "latitude": 1.3807653,
+    "longitude": 103.7634292
+  },
+  {
+    "name": "Yio Chu Kang",
+    "number_of_CS": 26,
+    "latitude": 1.3817905,
+    "longitude": 103.8449359
+  },
+  {
+    "name": "Yio Chu Kang East",
+    "number_of_CS": 87,
+    "latitude": 1.3817905,
+    "longitude": 103.8449359
+  },
+  {
+    "name": "Yio Chu Kang West",
+    "number_of_CS": 566,
+    "latitude": 1.3817905,
+    "longitude": 103.8449359
+  },
+  {
+    "name": "Pang Sua",
+    "number_of_CS": 0,
+    "latitude": 1.3818691,
+    "longitude": 103.7658303
+  },
+  {
+    "name": "Senja",
+    "number_of_CS": 524,
+    "latitude": 1.3826778,
+    "longitude": 103.7623822
+  },
+  {
+    "name": "North-Eastern Islands",
+    "number_of_CS": 1,
+    "latitude": 1.3828816,
+    "longitude": 104.0507258
+  },
+  {
+    "name": "Choa Chu Kang Central",
+    "number_of_CS": 456,
+    "latitude": 1.3836278,
+    "longitude": 103.7445726
+  },
+  {
+    "name": "Kangkar",
+    "number_of_CS": 556,
+    "latitude": 1.3839286,
+    "longitude": 103.9022055
+  },
+  {
+    "name": "Saujana",
+    "number_of_CS": 544,
+    "latitude": 1.3845478,
+    "longitude": 103.7658135
+  },
+  {
+    "name": "Fajar",
+    "number_of_CS": 570,
+    "latitude": 1.3845503,
+    "longitude": 103.7708003
+  },
+  {
+    "name": "Seletar Hills",
+    "number_of_CS": 466,
+    "latitude": 1.3854637,
+    "longitude": 103.8656683
+  },
+  {
+    "name": "Tagore",
+    "number_of_CS": 296,
+    "latitude": 1.3857511,
+    "longitude": 103.8279927
+  },
+  {
+    "name": "Choa Chu Kang North",
+    "number_of_CS": 732,
+    "latitude": 1.3892601,
+    "longitude": 103.743728
+  },
+  {
+    "name": "Fernvale",
+    "number_of_CS": 852,
+    "latitude": 1.3904635,
+    "longitude": 103.8770826
+  },
+  {
+    "name": "Sengkang Town Centre",
+    "number_of_CS": 1165,
+    "latitude": 1.3909487,
+    "longitude": 103.8951748
+  },
+  {
+    "name": "Sengkang West",
+    "number_of_CS": 0,
+    "latitude": 1.39192365,
+    "longitude": 103.8954909
+  },
+  {
+    "name": "Compassvale",
+    "number_of_CS": 394,
+    "latitude": 1.394518,
+    "longitude": 103.9004349
+  },
+  {
+    "name": "Anchorvale",
+    "number_of_CS": 830,
+    "latitude": 1.3952233,
+    "longitude": 103.8883224
+  },
+  {
+    "name": "Punggol Field",
+    "number_of_CS": 932,
+    "latitude": 1.3958608,
+    "longitude": 103.9103712
+  },
+  {
+    "name": "Gali Batu",
+    "number_of_CS": 3,
+    "latitude": 1.3965351,
+    "longitude": 103.774025
+  },
+  {
+    "name": "Yew Tee",
+    "number_of_CS": 1030,
+    "latitude": 1.3974608,
+    "longitude": 103.7474009
+  },
+  {
+    "name": "Punggol Town Centre",
+    "number_of_CS": 157,
+    "latitude": 1.398033,
+    "longitude": 103.9073312
+  },
+  {
+    "name": "Springleaf",
+    "number_of_CS": 83,
+    "latitude": 1.4019703,
+    "longitude": 103.8228603
+  },
+  {
+    "name": "Matilda",
+    "number_of_CS": 648,
+    "latitude": 1.40307325,
+    "longitude": 103.8932949
+  },
+  {
+    "name": "Waterway East",
+    "number_of_CS": 604,
+    "latitude": 1.4066031,
+    "longitude": 103.9020707
+  },
+  {
+    "name": "Mandai Estate",
+    "number_of_CS": 120,
+    "latitude": 1.4080964,
+    "longitude": 103.7583269
+  },
+  {
+    "name": "Seletar Aerospace Park",
+    "number_of_CS": 16,
+    "latitude": 1.4087181,
+    "longitude": 103.8682223
+  },
+  {
+    "name": "Seletar",
+    "number_of_CS": 6,
+    "latitude": 1.4098488,
+    "longitude": 103.8773789
+  },
+  {
+    "name": "Lower Seletar",
+    "number_of_CS": 61,
+    "latitude": 1.411265,
+    "longitude": 103.8521359
+  },
+  {
+    "name": "Northshore",
+    "number_of_CS": 6,
+    "latitude": 1.41688295,
+    "longitude": 103.9021483
+  },
+  {
+    "name": "Khatib",
+    "number_of_CS": 231,
+    "latitude": 1.4173597,
+    "longitude": 103.8330179
+  },
+  {
+    "name": "Northland",
+    "number_of_CS": 647,
+    "latitude": 1.4212034,
+    "longitude": 103.840584
+  },
+  {
+    "name": "Turf Club",
+    "number_of_CS": 14,
+    "latitude": 1.4220553,
+    "longitude": 103.7641821
+  },
+  {
+    "name": "Nee Soon",
+    "number_of_CS": 19,
+    "latitude": 1.42280315,
+    "longitude": 103.8398167
+  },
+  {
+    "name": "Kranji",
+    "number_of_CS": 28,
+    "latitude": 1.4252189,
+    "longitude": 103.7619891
+  },
+  {
+    "name": "Yishun Central",
+    "number_of_CS": 32,
+    "latitude": 1.42645065,
+    "longitude": 103.8372038
+  },
+  {
+    "name": "Woodlands South",
+    "number_of_CS": 764,
+    "latitude": 1.4271409,
+    "longitude": 103.7942976
+  },
+  {
+    "name": "Yishun East",
+    "number_of_CS": 1178,
+    "latitude": 1.4293839,
+    "longitude": 103.8350282
+  },
+  {
+    "name": "Yishun South",
+    "number_of_CS": 827,
+    "latitude": 1.4293839,
+    "longitude": 103.8350282
+  },
+  {
+    "name": "Yishun West",
+    "number_of_CS": 1233,
+    "latitude": 1.4293839,
+    "longitude": 103.8350282
+  },
+  {
+    "name": "Woodgrove",
+    "number_of_CS": 764,
+    "latitude": 1.4294911,
+    "longitude": 103.7791951
+  },
+  {
+    "name": "Lim Chu Kang",
+    "number_of_CS": 2,
+    "latitude": 1.4342172,
+    "longitude": 103.7149872
+  },
+  {
+    "name": "Woodlands East",
+    "number_of_CS": 2307,
+    "latitude": 1.436897,
+    "longitude": 103.786216
+  },
+  {
+    "name": "Woodlands West",
+    "number_of_CS": 701,
+    "latitude": 1.436897,
+    "longitude": 103.786216
+  },
+  {
+    "name": "North Coast",
+    "number_of_CS": 311,
+    "latitude": 1.4383218,
+    "longitude": 103.7878396
+  },
+  {
+    "name": "Sembawang Springs",
+    "number_of_CS": 182,
+    "latitude": 1.4405369,
+    "longitude": 103.8260767
+  },
+  {
+    "name": "Admiralty",
+    "number_of_CS": 448,
+    "latitude": 1.4406369,
+    "longitude": 103.8009592
+  },
+  {
+    "name": "Sembawang Central",
+    "number_of_CS": 776,
+    "latitude": 1.4490928,
+    "longitude": 103.8200555
+  },
+  {
+    "name": "Sembawang East",
+    "number_of_CS": 2,
+    "latitude": 1.4490928,
+    "longitude": 103.8200555
+  },
+  {
+    "name": "Sembawang North",
+    "number_of_CS": 572,
+    "latitude": 1.4490928,
+    "longitude": 103.8200555
+  },
+  {
+    "name": "Sembawang Straits",
+    "number_of_CS": 312,
+    "latitude": 1.458458,
+    "longitude": 103.8374046
+  },
+  {
+    "name": "Senoko North",
+    "number_of_CS": 0,
+    "latitude": 1.4602965,
+    "longitude": 103.8374046
+  },
+  {
+    "name": "Senoko South",
+    "number_of_CS": 0,
+    "latitude": 1.4602965,
+    "longitude": 103.8374046
+  },
+  {
+    "name": "Senoko West",
+    "number_of_CS": 0,
+    "latitude": 1.4602965,
+    "longitude": 103.8374046
+  },
+  {
+    "name": "Trafalgar",
+    "number_of_CS": 954,
+    "latitude": 1.3829481,
+    "longitude": 103.8374046
+  }
+]
