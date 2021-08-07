@@ -1,1630 +1,1899 @@
-{
-    "Sheet1": [
-        {
-            "label": "City Terminals",
-            "population": "40",
-            "latitude": "1.24762615",
-            "longitude": "103.6869744"
-        },
-        {
-            "label": "Sentosa",
-            "population": "1,470",
-            "latitude": "1.24894585",
-            "longitude": "103.8343056"
-        },
-        {
-            "label": "Maritime Square",
-            "population": "2,560",
-            "latitude": "1.264222",
-            "longitude": "103.8189255"
-        },
-        {
-            "label": "Telok Blangah Rise",
-            "population": "13,820",
-            "latitude": "1.2713635",
-            "longitude": "103.8237998"
-        },
-        {
-            "label": "Faber",
-            "population": "4,320",
-            "latitude": "1.271924",
-            "longitude": "103.8171752"
-        },
-        {
-            "label": "Telok Blangah Drive",
-            "population": "16,000",
-            "latitude": "1.2725019",
-            "longitude": "103.8118027"
-        },
-        {
-            "label": "Anson",
-            "population": "80",
-            "latitude": "1.2737957",
-            "longitude": "103.843473"
-        },
-        {
-            "label": "Telok Blangah Way",
-            "population": "10,690",
-            "latitude": "1.2747778",
-            "longitude": "103.8219172"
-        },
-        {
-            "label": "Bukit Merah",
-            "population": "1,190",
-            "latitude": "1.2748641",
-            "longitude": "103.8202761"
-        },
-        {
-            "label": "Kampong Tiong Bahru",
-            "population": "10,460",
-            "latitude": "1.2756728",
-            "longitude": "103.8335913"
-        },
-        {
-            "label": "Pasir Panjang 1",
-            "population": "4,010",
-            "latitude": "1.27620135",
-            "longitude": "103.7914758"
-        },
-        {
-            "label": "Tanjong Pagar",
-            "population": "520",
-            "latitude": "1.27660565",
-            "longitude": "103.8457793"
-        },
-        {
-            "label": "Everton Park",
-            "population": "9,010",
-            "latitude": "1.2771286",
-            "longitude": "103.8393679"
-        },
-        {
-            "label": "Alexandra Hill",
-            "population": "15,650",
-            "latitude": "1.277477",
-            "longitude": "103.8018803"
-        },
-        {
-            "label": "Alexandra North",
-            "population": "1,000",
-            "latitude": "1.277477",
-            "longitude": "103.8018803"
-        },
-        {
-            "label": "Singapore General Hospital",
-            "population": "10",
-            "latitude": "1.27944885",
-            "longitude": "103.8362805"
-        },
-        {
-            "label": "Marina Centre",
-            "population": "20",
-            "latitude": "1.27958235",
-            "longitude": "103.8538296"
-        },
-        {
-            "label": "Cecil",
-            "population": "160",
-            "latitude": "1.2796445",
-            "longitude": "103.8492618"
-        },
-        {
-            "label": "Pasir Panjang 2",
-            "population": "3,520",
-            "latitude": "1.28086725",
-            "longitude": "103.7872203"
-        },
-        {
-            "label": "Depot Road",
-            "population": "5,200",
-            "latitude": "1.2811537",
-            "longitude": "103.8141727"
-        },
-        {
-            "label": "Henderson Hill",
-            "population": "12,870",
-            "latitude": "1.28115755",
-            "longitude": "103.8210608"
-        },
-        {
-            "label": "People's Park",
-            "population": "390",
-            "latitude": "1.2831661",
-            "longitude": "103.8415181"
-        },
-        {
-            "label": "China Square",
-            "population": "1,590",
-            "latitude": "1.2834925",
-            "longitude": "103.8465903"
-        },
-        {
-            "label": "Raffles Place",
-            "population": "60",
-            "latitude": "1.2835417",
-            "longitude": "103.8514602"
-        },
-        {
-            "label": "Chinatown",
-            "population": "11,880",
-            "latitude": "1.2837372",
-            "longitude": "103.8437976"
-        },
-        {
-            "label": "Pearl's Hill",
-            "population": "8,230",
-            "latitude": "1.28489795",
-            "longitude": "103.8398284"
-        },
-        {
-            "label": "Tiong Bahru Station",
-            "population": "16,670",
-            "latitude": "1.2860113",
-            "longitude": "103.8274107"
-        },
-        {
-            "label": "Boat Quay",
-            "population": "180",
-            "latitude": "1.2861015",
-            "longitude": "103.8500076"
-        },
-        {
-            "label": "Tiong Bahru",
-            "population": "12,190",
-            "latitude": "1.28617925",
-            "longitude": "103.8272252"
-        },
-        {
-            "label": "Bukit Ho Swee",
-            "population": "16,290",
-            "latitude": "1.2879953",
-            "longitude": "103.8285644"
-        },
-        {
-            "label": "Clarke Quay",
-            "population": "130",
-            "latitude": "1.2882413",
-            "longitude": "103.8464304"
-        },
-        {
-            "label": "Redhill",
-            "population": "12,210",
-            "latitude": "1.2896482",
-            "longitude": "103.8167677"
-        },
-        {
-            "label": "Cheng San",
-            "population": "29,770",
-            "latitude": "1.2904753",
-            "longitude": "103.8520359"
-        },
-        {
-            "label": "Mei Chin",
-            "population": "16,750",
-            "latitude": "1.2911956",
-            "longitude": "103.8016206"
-        },
-        {
-            "label": "Robertson Quay",
-            "population": "2,420",
-            "latitude": "1.2917517",
-            "longitude": "103.8413036"
-        },
-        {
-            "label": "Fort Canning",
-            "population": "160",
-            "latitude": "1.2923829",
-            "longitude": "103.844242"
-        },
-        {
-            "label": "City Hall",
-            "population": "60",
-            "latitude": "1.2930272",
-            "longitude": "103.8526448"
-        },
-        {
-            "label": "Boulevard",
-            "population": "400",
-            "latitude": "1.2932394",
-            "longitude": "103.8594082"
-        },
-        {
-            "label": "Kent Ridge",
-            "population": "1,080",
-            "latitude": "1.2933374",
-            "longitude": "103.7844936"
-        },
-        {
-            "label": "Institution Hill",
-            "population": "3,380",
-            "latitude": "1.2949263",
-            "longitude": "103.8393131"
-        },
-        {
-            "label": "Victoria",
-            "population": "2,060",
-            "latitude": "1.29616795",
-            "longitude": "103.8500437"
-        },
-        {
-            "label": "Margaret Drive",
-            "population": "10,520",
-            "latitude": "1.2966609",
-            "longitude": "103.8087959"
-        },
-        {
-            "label": "Bras Basah",
-            "population": "10",
-            "latitude": "1.2968214",
-            "longitude": "103.8506658"
-        },
-        {
-            "label": "Tanjong Rhu",
-            "population": "11,310",
-            "latitude": "1.29734275",
-            "longitude": "103.8737643"
-        },
-        {
-            "label": "Queensway",
-            "population": "280",
-            "latitude": "1.2985188",
-            "longitude": "103.8005671"
-        },
-        {
-            "label": "Bencoolen",
-            "population": "1,460",
-            "latitude": "1.29860845",
-            "longitude": "103.850127"
-        },
-        {
-            "label": "Oxley",
-            "population": "1,380",
-            "latitude": "1.29883365",
-            "longitude": "103.8409059"
-        },
-        {
-            "label": "One North",
-            "population": "620",
-            "latitude": "1.29954015",
-            "longitude": "103.7872584"
-        },
-        {
-            "label": "Dhoby Ghaut",
-            "population": "210",
-            "latitude": "1.29955225",
-            "longitude": "103.8453375"
-        },
-        {
-            "label": "Leonie Hill",
-            "population": "2,450",
-            "latitude": "1.2996407",
-            "longitude": "103.8323837"
-        },
-        {
-            "label": "Clementi Woods",
-            "population": "16,400",
-            "latitude": "1.29980405",
-            "longitude": "103.7678731"
-        },
-        {
-            "label": "Tanglin Halt",
-            "population": "13,160",
-            "latitude": "1.2999069",
-            "longitude": "103.7981087"
-        },
-        {
-            "label": "Bugis",
-            "population": "2,330",
-            "latitude": "1.2999533",
-            "longitude": "103.8552781"
-        },
-        {
-            "label": "Paterson",
-            "population": "150",
-            "latitude": "1.30030955",
-            "longitude": "103.8306164"
-        },
-        {
-            "label": "Somerset",
-            "population": "130",
-            "latitude": "1.30038375",
-            "longitude": "103.8388285"
-        },
-        {
-            "label": "Kampong Glam",
-            "population": "170",
-            "latitude": "1.30128",
-            "longitude": "103.8599267"
-        },
-        {
-            "label": "Katong",
-            "population": "9,620",
-            "latitude": "1.3016238",
-            "longitude": "103.9045983"
-        },
-        {
-            "label": "One Tree Hill",
-            "population": "1,840",
-            "latitude": "1.30187",
-            "longitude": "103.8274901"
-        },
-        {
-            "label": "Commonwealth",
-            "population": "8,130",
-            "latitude": "1.3024428",
-            "longitude": "103.7983085"
-        },
-        {
-            "label": "Marine Parade",
-            "population": "28,910",
-            "latitude": "1.3026889",
-            "longitude": "103.9073952"
-        },
-        {
-            "label": "Samulun",
-            "population": "10",
-            "latitude": "1.302728",
-            "longitude": "103.6974283"
-        },
-        {
-            "label": "Selegie",
-            "population": "270",
-            "latitude": "1.3027586",
-            "longitude": "103.8502417"
-        },
-        {
-            "label": "Tanglin",
-            "population": "390",
-            "latitude": "1.30420465",
-            "longitude": "103.8184717"
-        },
-        {
-            "label": "Mount Emily",
-            "population": "1,110",
-            "latitude": "1.30462805",
-            "longitude": "103.8475524"
-        },
-        {
-            "label": "Sungei Road",
-            "population": "2,420",
-            "latitude": "1.3046537",
-            "longitude": "103.85153"
-        },
-        {
-            "label": "Mackenzie",
-            "population": "110",
-            "latitude": "1.30494005",
-            "longitude": "103.8488472"
-        },
-        {
-            "label": "Crawford",
-            "population": "9,740",
-            "latitude": "1.30558585",
-            "longitude": "103.8630877"
-        },
-        {
-            "label": "Jurong Port",
-            "population": "10",
-            "latitude": "1.30562985",
-            "longitude": "103.7212514"
-        },
-        {
-            "label": "Rochor Canal",
-            "population": "10",
-            "latitude": "1.3057009",
-            "longitude": "103.8582073"
-        },
-        {
-            "label": "Kampong Bugis",
-            "population": "890",
-            "latitude": "1.3059255",
-            "longitude": "103.8672656"
-        },
-        {
-            "label": "Mountbatten",
-            "population": "10,210",
-            "latitude": "1.3063254",
-            "longitude": "103.8827278"
-        },
-        {
-            "label": "Nassim",
-            "population": "8,340",
-            "latitude": "1.30659285",
-            "longitude": "103.8229921"
-        },
-        {
-            "label": "Ridout",
-            "population": "1,400",
-            "latitude": "1.3068145",
-            "longitude": "103.8066682"
-        },
-        {
-            "label": "Little India",
-            "population": "3,850",
-            "latitude": "1.30684265",
-            "longitude": "103.8492736"
-        },
-        {
-            "label": "Cairnhill",
-            "population": "3,330",
-            "latitude": "1.307056",
-            "longitude": "103.837803"
-        },
-        {
-            "label": "Lavender",
-            "population": "10,320",
-            "latitude": "1.30734955",
-            "longitude": "103.8631527"
-        },
-        {
-            "label": "Goodwood Park",
-            "population": "910",
-            "latitude": "1.3082222",
-            "longitude": "103.8341091"
-        },
-        {
-            "label": "Monk's Hill",
-            "population": "980",
-            "latitude": "1.3087229",
-            "longitude": "103.8403421"
-        },
-        {
-            "label": "Singapore Polytechnic",
-            "population": "160",
-            "latitude": "1.30913695",
-            "longitude": "103.7781437"
-        },
-        {
-            "label": "Ghim Moh",
-            "population": "11,900",
-            "latitude": "1.3093063",
-            "longitude": "103.78422"
-        },
-        {
-            "label": "Holland Road",
-            "population": "10,280",
-            "latitude": "1.3101133",
-            "longitude": "103.8047651"
-        },
-        {
-            "label": "Holland Drive",
-            "population": "14,230",
-            "latitude": "1.3112157",
-            "longitude": "103.7926426"
-        },
-        {
-            "label": "Shangri-La",
-            "population": "18,510",
-            "latitude": "1.3112474",
-            "longitude": "103.8267568"
-        },
-        {
-            "label": "Dover",
-            "population": "13,200",
-            "latitude": "1.3113893",
-            "longitude": "103.778605"
-        },
-        {
-            "label": "Newton Circus",
-            "population": "230",
-            "latitude": "1.3119894",
-            "longitude": "103.8392897"
-        },
-        {
-            "label": "Frankel",
-            "population": "33,570",
-            "latitude": "1.3122881",
-            "longitude": "103.9201786"
-        },
-        {
-            "label": "Farrer Court",
-            "population": "4,680",
-            "latitude": "1.31259105",
-            "longitude": "103.8542288"
-        },
-        {
-            "label": "Farrer Park",
-            "population": "3,130",
-            "latitude": "1.31259105",
-            "longitude": "103.8542288"
-        },
-        {
-            "label": "Bayshore",
-            "population": "7,480",
-            "latitude": "1.3128118",
-            "longitude": "103.9390329"
-        },
-        {
-            "label": "Jurong River",
-            "population": "10",
-            "latitude": "1.3135155",
-            "longitude": "103.7274968"
-        },
-        {
-            "label": "Orange Grove",
-            "population": "1,440",
-            "latitude": "1.31353095",
-            "longitude": "103.8266548"
-        },
-        {
-            "label": "Bendemeer",
-            "population": "33,830",
-            "latitude": "1.3136389",
-            "longitude": "103.8630012"
-        },
-        {
-            "label": "Kampong Java",
-            "population": "11,260",
-            "latitude": "1.3139715",
-            "longitude": "103.8454729"
-        },
-        {
-            "label": "Kallang Bahru",
-            "population": "30",
-            "latitude": "1.3149163",
-            "longitude": "103.864025"
-        },
-        {
-            "label": "Clementi Central",
-            "population": "13,490",
-            "latitude": "1.3151003",
-            "longitude": "103.7652311"
-        },
-        {
-            "label": "Clementi West",
-            "population": "16,470",
-            "latitude": "1.3151003",
-            "longitude": "103.7652311"
-        },
-        {
-            "label": "Tyersall",
-            "population": "3,520",
-            "latitude": "1.3155411",
-            "longitude": "103.8146891"
-        },
-        {
-            "label": "Guilin",
-            "population": "13,130",
-            "latitude": "1.31579415",
-            "longitude": "103.8899933"
-        },
-        {
-            "label": "Leedon Park",
-            "population": "6,260",
-            "latitude": "1.3163624",
-            "longitude": "103.7960601"
-        },
-        {
-            "label": "Pandan",
-            "population": "10",
-            "latitude": "1.3163699",
-            "longitude": "103.7813952"
-        },
-        {
-            "label": "Ulu Pandan",
-            "population": "10,730",
-            "latitude": "1.3163699",
-            "longitude": "103.7813952"
-        },
-        {
-            "label": "Aljunied",
-            "population": "41,710",
-            "latitude": "1.3164515",
-            "longitude": "103.882909"
-        },
-        {
-            "label": "Penjuru Crescent",
-            "population": "10",
-            "latitude": "1.3165214",
-            "longitude": "103.7321354"
-        },
-        {
-            "label": "West Coast",
-            "population": "5,890",
-            "latitude": "1.3170586",
-            "longitude": "103.7554066"
-        },
-        {
-            "label": "Bedok South",
-            "population": "51,190",
-            "latitude": "1.3172941",
-            "longitude": "103.9496814"
-        },
-        {
-            "label": "Paya Lebar East",
-            "population": "10",
-            "latitude": "1.3174795",
-            "longitude": "103.8923525"
-        },
-        {
-            "label": "Paya Lebar North",
-            "population": "20",
-            "latitude": "1.3174795",
-            "longitude": "103.8923525"
-        },
-        {
-            "label": "Siglap",
-            "population": "6,930",
-            "latitude": "1.3176986",
-            "longitude": "103.9185698"
-        },
-        {
-            "label": "Moulmein",
-            "population": "8,470",
-            "latitude": "1.3180495",
-            "longitude": "103.8501454"
-        },
-        {
-            "label": "Geylang East",
-            "population": "33,380",
-            "latitude": "1.3181862",
-            "longitude": "103.8870563"
-        },
-        {
-            "label": "Geylang Bahru",
-            "population": "12,870",
-            "latitude": "1.3190326",
-            "longitude": "103.8723174"
-        },
-        {
-            "label": "Boon Keng",
-            "population": "10,970",
-            "latitude": "1.31956905",
-            "longitude": "103.8617487"
-        },
-        {
-            "label": "Gul Circle",
-            "population": "30",
-            "latitude": "1.3196353",
-            "longitude": "103.6606551"
-        },
-        {
-            "label": "Teban Gardens",
-            "population": "19,080",
-            "latitude": "1.32089305",
-            "longitude": "103.7379342"
-        },
-        {
-            "label": "Kembangan",
-            "population": "38,440",
-            "latitude": "1.3210321",
-            "longitude": "103.9129269"
-        },
-        {
-            "label": "Dunearn",
-            "population": "3,900",
-            "latitude": "1.3210897",
-            "longitude": "103.8278673"
-        },
-        {
-            "label": "Sunset Way",
-            "population": "6,290",
-            "latitude": "1.3219375",
-            "longitude": "103.7701637"
-        },
-        {
-            "label": "Malcolm",
-            "population": "2,630",
-            "latitude": "1.3225026",
-            "longitude": "103.8264687"
-        },
-        {
-            "label": "Coronation Road",
-            "population": "6,170",
-            "latitude": "1.3226686",
-            "longitude": "103.8045968"
-        },
-        {
-            "label": "Kallang Way",
-            "population": "40",
-            "latitude": "1.3249544",
-            "longitude": "103.8767546"
-        },
-        {
-            "label": "Tukang",
-            "population": "10",
-            "latitude": "1.3253215",
-            "longitude": "103.7092754"
-        },
-        {
-            "label": "Macpherson",
-            "population": "28,630",
-            "latitude": "1.32620695",
-            "longitude": "103.889507"
-        },
-        {
-            "label": "Balestier",
-            "population": "32,340",
-            "latitude": "1.326226",
-            "longitude": "103.8473149"
-        },
-        {
-            "label": "Mount Pleasant",
-            "population": "650",
-            "latitude": "1.3267807",
-            "longitude": "103.8293716"
-        },
-        {
-            "label": "International Business Park",
-            "population": "10",
-            "latitude": "1.3273734",
-            "longitude": "103.7476106"
-        },
-        {
-            "label": "Joo Koon",
-            "population": "40",
-            "latitude": "1.327735",
-            "longitude": "103.6782221"
-        },
-        {
-            "label": "Boon Teck",
-            "population": "15,110",
-            "latitude": "1.32778935",
-            "longitude": "103.850213"
-        },
-        {
-            "label": "Kian Teck",
-            "population": "50",
-            "latitude": "1.3285109",
-            "longitude": "103.6947963"
-        },
-        {
-            "label": "Xilin",
-            "population": "1,920",
-            "latitude": "1.3286407",
-            "longitude": "103.9644167"
-        },
-        {
-            "label": "Hillcrest",
-            "population": "8,810",
-            "latitude": "1.32876475",
-            "longitude": "103.8056442"
-        },
-        {
-            "label": "Clementi North",
-            "population": "28,730",
-            "latitude": "1.3292738",
-            "longitude": "103.7762131"
-        },
-        {
-            "label": "Kim Keat",
-            "population": "8,610",
-            "latitude": "1.3294271",
-            "longitude": "103.8532782"
-        },
-        {
-            "label": "Kampong Ubi",
-            "population": "13,210",
-            "latitude": "1.3296421",
-            "longitude": "103.8950949"
-        },
-        {
-            "label": "Tuas Bay",
-            "population": "20",
-            "latitude": "1.3300518",
-            "longitude": "103.6395694"
-        },
-        {
-            "label": "Tuas North",
-            "population": "20",
-            "latitude": "1.3300518",
-            "longitude": "103.6395694"
-        },
-        {
-            "label": "Tuas View",
-            "population": "10",
-            "latitude": "1.3300518",
-            "longitude": "103.6395694"
-        },
-        {
-            "label": "Toh Tuck",
-            "population": "40",
-            "latitude": "1.3309244",
-            "longitude": "103.7575927"
-        },
-        {
-            "label": "Potong Pasir",
-            "population": "12,650",
-            "latitude": "1.3314141",
-            "longitude": "103.8691381"
-        },
-        {
-            "label": "Sennett",
-            "population": "4,540",
-            "latitude": "1.33198165",
-            "longitude": "103.8744792"
-        },
-        {
-            "label": "Bedok North",
-            "population": "85,930",
-            "latitude": "1.3324018",
-            "longitude": "103.9193052"
-        },
-        {
-            "label": "Toa Payoh Central",
-            "population": "30,740",
-            "latitude": "1.3326741",
-            "longitude": "103.8505222"
-        },
-        {
-            "label": "Toa Payoh West",
-            "population": "13,360",
-            "latitude": "1.3346545",
-            "longitude": "103.8395038"
-        },
-        {
-            "label": "Taman Jurong",
-            "population": "36,940",
-            "latitude": "1.33488355",
-            "longitude": "103.7207887"
-        },
-        {
-            "label": "Tai Seng",
-            "population": "14,700",
-            "latitude": "1.3353828",
-            "longitude": "103.8883061"
-        },
-        {
-            "label": "Joo Seng",
-            "population": "6,720",
-            "latitude": "1.3355302",
-            "longitude": "103.8833207"
-        },
-        {
-            "label": "Anak Bukit",
-            "population": "21,990",
-            "latitude": "1.3358173",
-            "longitude": "103.7754302"
-        },
-        {
-            "label": "Kaki Bukit",
-            "population": "40,820",
-            "latitude": "1.3360277",
-            "longitude": "103.9018509"
-        },
-        {
-            "label": "Jurong Gateway",
-            "population": "20",
-            "latitude": "1.3364281",
-            "longitude": "103.746847"
-        },
-        {
-            "label": "Pei Chun",
-            "population": "11,780",
-            "latitude": "1.3370857",
-            "longitude": "103.8556799"
-        },
-        {
-            "label": "Reservoir View",
-            "population": "20",
-            "latitude": "1.3375104",
-            "longitude": "103.9289504"
-        },
-        {
-            "label": "Yunnan",
-            "population": "70,890",
-            "latitude": "1.33828435",
-            "longitude": "103.6910894"
-        },
-        {
-            "label": "Bidadari",
-            "population": "10",
-            "latitude": "1.33846645",
-            "longitude": "103.8748981"
-        },
-        {
-            "label": "Woodleigh",
-            "population": "2,440",
-            "latitude": "1.3391943",
-            "longitude": "103.8708215"
-        },
-        {
-            "label": "Jurong West Central",
-            "population": "68,200",
-            "latitude": "1.3396365",
-            "longitude": "103.7073387"
-        },
-        {
-            "label": "Lorong 8 Toa Payoh",
-            "population": "8,220",
-            "latitude": "1.3397792",
-            "longitude": "103.858327"
-        },
-        {
-            "label": "Toh Guan",
-            "population": "16,510",
-            "latitude": "1.3399884",
-            "longitude": "103.7515124"
-        },
-        {
-            "label": "Braddell",
-            "population": "10,760",
-            "latitude": "1.3400707",
-            "longitude": "103.8467584"
-        },
-        {
-            "label": "Bedok Reservoir",
-            "population": "25,400",
-            "latitude": "1.3425058",
-            "longitude": "103.9252298"
-        },
-        {
-            "label": "Swiss Club",
-            "population": "5,550",
-            "latitude": "1.3429964",
-            "longitude": "103.7906466"
-        },
-        {
-            "label": "Simei",
-            "population": "42,710",
-            "latitude": "1.3431881",
-            "longitude": "103.953371"
-        },
-        {
-            "label": "Lakeside",
-            "population": "1,010",
-            "latitude": "1.34425",
-            "longitude": "103.7206931"
-        },
-        {
-            "label": "Yuhua East",
-            "population": "27,460",
-            "latitude": "1.34495555",
-            "longitude": "103.7310153"
-        },
-        {
-            "label": "Yuhua West",
-            "population": "20,870",
-            "latitude": "1.34495555",
-            "longitude": "103.7310153"
-        },
-        {
-            "label": "Chatsworth",
-            "population": "5,740",
-            "latitude": "1.34514795",
-            "longitude": "103.7918562"
-        },
-        {
-            "label": "Bukit Batok West",
-            "population": "15,190",
-            "latitude": "1.3455305",
-            "longitude": "103.7397329"
-        },
-        {
-            "label": "Tampines West",
-            "population": "78,110",
-            "latitude": "1.3458661",
-            "longitude": "103.9384635"
-        },
-        {
-            "label": "Boon Lay Place",
-            "population": "31,100",
-            "latitude": "1.34640455",
-            "longitude": "103.7122848"
-        },
-        {
-            "label": "Bukit Batok Central",
-            "population": "26,060",
-            "latitude": "1.34844155",
-            "longitude": "103.7463789"
-        },
-        {
-            "label": "Marymount",
-            "population": "31,540",
-            "latitude": "1.34860435",
-            "longitude": "103.8393926"
-        },
-        {
-            "label": "Western Water Catchment",
-            "population": "900",
-            "latitude": "1.3487577",
-            "longitude": "103.6784309"
-        },
-        {
-            "label": "Bukit Batok East",
-            "population": "14,570",
-            "latitude": "1.3490572",
-            "longitude": "103.7495906"
-        },
-        {
-            "label": "Bukit Batok South",
-            "population": "13,940",
-            "latitude": "1.3490572",
-            "longitude": "103.7495906"
-        },
-        {
-            "label": "Upper Thomson",
-            "population": "30,340",
-            "latitude": "1.3507896",
-            "longitude": "103.8359951"
-        },
-        {
-            "label": "Lorong Chuan",
-            "population": "8,390",
-            "latitude": "1.35156575",
-            "longitude": "103.8638622"
-        },
-        {
-            "label": "Defu Industrial Park",
-            "population": "20",
-            "latitude": "1.35161105",
-            "longitude": "103.892045"
-        },
-        {
-            "label": "Bishan East",
-            "population": "28,820",
-            "latitude": "1.3519117",
-            "longitude": "103.8489708"
-        },
-        {
-            "label": "Lorong Ah Soo",
-            "population": "34,180",
-            "latitude": "1.3520481",
-            "longitude": "103.8845867"
-        },
-        {
-            "label": "Changi Point",
-            "population": "790",
-            "latitude": "1.35211085",
-            "longitude": "103.9870125"
-        },
-        {
-            "label": "Changi West",
-            "population": "1,740",
-            "latitude": "1.35211085",
-            "longitude": "103.9870125"
-        },
-        {
-            "label": "Port",
-            "population": "140",
-            "latitude": "1.35211085",
-            "longitude": "103.9870125"
-        },
-        {
-            "label": "Serangoon Central",
-            "population": "26,480",
-            "latitude": "1.3535142",
-            "longitude": "103.8716164"
-        },
-        {
-            "label": "Nature Reserve",
-            "population": "3,870",
-            "latitude": "1.3540779",
-            "longitude": "103.7794401"
-        },
-        {
-            "label": "Hong Kah",
-            "population": "56,870",
-            "latitude": "1.3553973",
-            "longitude": "103.7214297"
-        },
-        {
-            "label": "Hong Kah North",
-            "population": "28,340",
-            "latitude": "1.3553973",
-            "longitude": "103.7214297"
-        },
-        {
-            "label": "Greenwood Park",
-            "population": "70",
-            "latitude": "1.3554879",
-            "longitude": "103.9327917"
-        },
-        {
-            "label": "Tampines East",
-            "population": "138,500",
-            "latitude": "1.35603565",
-            "longitude": "103.9551354"
-        },
-        {
-            "label": "Flora Drive",
-            "population": "12,950",
-            "latitude": "1.3573805",
-            "longitude": "103.9649776"
-        },
-        {
-            "label": "Gombak",
-            "population": "9,820",
-            "latitude": "1.3588929",
-            "longitude": "103.7518249"
-        },
-        {
-            "label": "Midview",
-            "population": "35,510",
-            "latitude": "1.359286",
-            "longitude": "103.8340359"
-        },
-        {
-            "label": "Kovan",
-            "population": "25,640",
-            "latitude": "1.3601757",
-            "longitude": "103.885112"
-        },
-        {
-            "label": "Townsville",
-            "population": "23,770",
-            "latitude": "1.3603771",
-            "longitude": "103.8538822"
-        },
-        {
-            "label": "Upper Paya Lebar",
-            "population": "15,540",
-            "latitude": "1.3611088",
-            "longitude": "103.9254612"
-        },
-        {
-            "label": "Hillview",
-            "population": "18,220",
-            "latitude": "1.3624042",
-            "longitude": "103.7674273"
-        },
-        {
-            "label": "Tengah",
-            "population": "10",
-            "latitude": "1.3624531",
-            "longitude": "103.7250401"
-        },
-        {
-            "label": "Serangoon Garden",
-            "population": "39,180",
-            "latitude": "1.3624579",
-            "longitude": "103.8660127"
-        },
-        {
-            "label": "Dairy Farm",
-            "population": "5,390",
-            "latitude": "1.3651581",
-            "longitude": "103.7740781"
-        },
-        {
-            "label": "Chong Boon",
-            "population": "27,900",
-            "latitude": "1.36820695",
-            "longitude": "103.8563604"
-        },
-        {
-            "label": "Central Water Catchment",
-            "population": "10",
-            "latitude": "1.3700592",
-            "longitude": "103.8034477"
-        },
-        {
-            "label": "Hougang East",
-            "population": "21,940",
-            "latitude": "1.3708011",
-            "longitude": "103.8925443"
-        },
-        {
-            "label": "Hougang West",
-            "population": "50,120",
-            "latitude": "1.3708011",
-            "longitude": "103.8925443"
-        },
-        {
-            "label": "Hougang Central",
-            "population": "4,830",
-            "latitude": "1.3710492",
-            "longitude": "103.8943576"
-        },
-        {
-            "label": "Ang Mo Kio Town Centre",
-            "population": "5,020",
-            "latitude": "1.3712845",
-            "longitude": "103.8469936"
-        },
-        {
-            "label": "Serangoon North",
-            "population": "17,490",
-            "latitude": "1.3713383",
-            "longitude": "103.8727563"
-        },
-        {
-            "label": "Serangoon North Ind Estate",
-            "population": "20",
-            "latitude": "1.3713383",
-            "longitude": "103.8727563"
-        },
-        {
-            "label": "Sembawang Hills",
-            "population": "6,890",
-            "latitude": "1.3723986",
-            "longitude": "103.8290295"
-        },
-        {
-            "label": "Pasir Ris Central",
-            "population": "25,730",
-            "latitude": "1.372697",
-            "longitude": "103.9508369"
-        },
-        {
-            "label": "Pasir Ris Drive",
-            "population": "59,480",
-            "latitude": "1.3730307",
-            "longitude": "103.949255"
-        },
-        {
-            "label": "Pasir Ris West",
-            "population": "36,330",
-            "latitude": "1.3730307",
-            "longitude": "103.949255"
-        },
-        {
-            "label": "Loyang East",
-            "population": "2,190",
-            "latitude": "1.3753678",
-            "longitude": "103.9772924"
-        },
-        {
-            "label": "Loyang West",
-            "population": "200",
-            "latitude": "1.3753678",
-            "longitude": "103.9772924"
-        },
-        {
-            "label": "Teck Whye",
-            "population": "27,040",
-            "latitude": "1.3766705",
-            "longitude": "103.7536471"
-        },
-        {
-            "label": "Keat Hong",
-            "population": "15,660",
-            "latitude": "1.3786034",
-            "longitude": "103.7490207"
-        },
-        {
-            "label": "Pasir Ris Park",
-            "population": "2,980",
-            "latitude": "1.37898635",
-            "longitude": "103.9503798"
-        },
-        {
-            "label": "Bangkit",
-            "population": "23,800",
-            "latitude": "1.3800412",
-            "longitude": "103.7726501"
-        },
-        {
-            "label": "Rivervale",
-            "population": "59,860",
-            "latitude": "1.38062345",
-            "longitude": "103.8984008"
-        },
-        {
-            "label": "Jelebu",
-            "population": "33,470",
-            "latitude": "1.3807653",
-            "longitude": "103.7634292"
-        },
-        {
-            "label": "Yio Chu Kang",
-            "population": "30",
-            "latitude": "1.3817905",
-            "longitude": "103.8449359"
-        },
-        {
-            "label": "Yio Chu Kang East",
-            "population": "4,080",
-            "latitude": "1.3817905",
-            "longitude": "103.8449359"
-        },
-        {
-            "label": "Yio Chu Kang West",
-            "population": "26,550",
-            "latitude": "1.3817905",
-            "longitude": "103.8449359"
-        },
-        {
-            "label": "Pang Sua",
-            "population": "20",
-            "latitude": "1.3818691",
-            "longitude": "103.7658303"
-        },
-        {
-            "label": "Senja",
-            "population": "20,200",
-            "latitude": "1.3826778",
-            "longitude": "103.7623822"
-        },
-        {
-            "label": "North-Eastern Islands",
-            "population": "60",
-            "latitude": "1.3828816",
-            "longitude": "104.0507258"
-        },
-        {
-            "label": "Choa Chu Kang Central",
-            "population": "21,400",
-            "latitude": "1.3836278",
-            "longitude": "103.7445726"
-        },
-        {
-            "label": "Kangkar",
-            "population": "26,080",
-            "latitude": "1.3839286",
-            "longitude": "103.9022055"
-        },
-        {
-            "label": "Saujana",
-            "population": "25,530",
-            "latitude": "1.3845478",
-            "longitude": "103.7658135"
-        },
-        {
-            "label": "Fajar",
-            "population": "26,770",
-            "latitude": "1.3845503",
-            "longitude": "103.7708003"
-        },
-        {
-            "label": "Seletar Hills",
-            "population": "13,580",
-            "latitude": "1.3854637",
-            "longitude": "103.8656683"
-        },
-        {
-            "label": "Tagore",
-            "population": "8,350",
-            "latitude": "1.3857511",
-            "longitude": "103.8279927"
-        },
-        {
-            "label": "Choa Chu Kang North",
-            "population": "34,380",
-            "latitude": "1.3892601",
-            "longitude": "103.743728"
-        },
-        {
-            "label": "Fernvale",
-            "population": "35,590",
-            "latitude": "1.3904635",
-            "longitude": "103.8770826"
-        },
-        {
-            "label": "Sengkang Town Centre",
-            "population": "54,680",
-            "latitude": "1.3909487",
-            "longitude": "103.8951748"
-        },
-        {
-            "label": "Sengkang West",
-            "population": "10",
-            "latitude": "1.39192365",
-            "longitude": "103.8954909"
-        },
-        {
-            "label": "Compassvale",
-            "population": "18,510",
-            "latitude": "1.394518",
-            "longitude": "103.9004349"
-        },
-        {
-            "label": "Anchorvale",
-            "population": "38,040",
-            "latitude": "1.3952233",
-            "longitude": "103.8883224"
-        },
-        {
-            "label": "Punggol Field",
-            "population": "43,300",
-            "latitude": "1.3958608",
-            "longitude": "103.9103712"
-        },
-        {
-            "label": "Gali Batu",
-            "population": "130",
-            "latitude": "1.3965351",
-            "longitude": "103.774025"
-        },
-        {
-            "label": "Yew Tee",
-            "population": "43,710",
-            "latitude": "1.3974608",
-            "longitude": "103.7474009"
-        },
-        {
-            "label": "Punggol Town Centre",
-            "population": "7,390",
-            "latitude": "1.398033",
-            "longitude": "103.9073312"
-        },
-        {
-            "label": "Springleaf",
-            "population": "3,880",
-            "latitude": "1.4019703",
-            "longitude": "103.8228603"
-        },
-        {
-            "label": "Matilda",
-            "population": "30,440",
-            "latitude": "1.40307325",
-            "longitude": "103.8932949"
-        },
-        {
-            "label": "Waterway East",
-            "population": "28,340",
-            "latitude": "1.4066031",
-            "longitude": "103.9020707"
-        },
-        {
-            "label": "Mandai Estate",
-            "population": "2,120",
-            "latitude": "1.4080964",
-            "longitude": "103.7583269"
-        },
-        {
-            "label": "Seletar Aerospace Park",
-            "population": "20",
-            "latitude": "1.4087181",
-            "longitude": "103.8682223"
-        },
-        {
-            "label": "Seletar",
-            "population": "260",
-            "latitude": "1.4098488",
-            "longitude": "103.8773789"
-        },
-        {
-            "label": "Lower Seletar",
-            "population": "2,870",
-            "latitude": "1.411265",
-            "longitude": "103.8521359"
-        },
-        {
-            "label": "Northshore",
-            "population": "280",
-            "latitude": "1.41688295",
-            "longitude": "103.9021483"
-        },
-        {
-            "label": "Khatib",
-            "population": "10,850",
-            "latitude": "1.4173597",
-            "longitude": "103.8330179"
-        },
-        {
-            "label": "Northland",
-            "population": "30,380",
-            "latitude": "1.4212034",
-            "longitude": "103.840584"
-        },
-        {
-            "label": "Turf Club",
-            "population": "660",
-            "latitude": "1.4220553",
-            "longitude": "103.7641821"
-        },
-        {
-            "label": "Nee Soon",
-            "population": "900",
-            "latitude": "1.42280315",
-            "longitude": "103.8398167"
-        },
-        {
-            "label": "Kranji",
-            "population": "20",
-            "latitude": "1.4252189",
-            "longitude": "103.7619891"
-        },
-        {
-            "label": "Yishun Central",
-            "population": "1,490",
-            "latitude": "1.42645065",
-            "longitude": "103.8372038"
-        },
-        {
-            "label": "Woodlands South",
-            "population": "35,840",
-            "latitude": "1.4271409",
-            "longitude": "103.7942976"
-        },
-        {
-            "label": "Yishun East",
-            "population": "54,880",
-            "latitude": "1.4293839",
-            "longitude": "103.8350282"
-        },
-        {
-            "label": "Yishun South",
-            "population": "38,840",
-            "latitude": "1.4293839",
-            "longitude": "103.8350282"
-        },
-        {
-            "label": "Yishun West",
-            "population": "57,890",
-            "latitude": "1.4293839",
-            "longitude": "103.8350282"
-        },
-        {
-            "label": "Woodgrove",
-            "population": "35,850",
-            "latitude": "1.4294911",
-            "longitude": "103.7791951"
-        },
-        {
-            "label": "Lim Chu Kang",
-            "population": "90",
-            "latitude": "1.4342172",
-            "longitude": "103.7149872"
-        },
-        {
-            "label": "Woodlands East",
-            "population": "95,510",
-            "latitude": "1.436897",
-            "longitude": "103.786216"
-        },
-        {
-            "label": "Woodlands West",
-            "population": "32,890",
-            "latitude": "1.436897",
-            "longitude": "103.786216"
-        },
-        {
-            "label": "North Coast",
-            "population": "14,610",
-            "latitude": "1.4383218",
-            "longitude": "103.7878396"
-        },
-        {
-            "label": "Sembawang Springs",
-            "population": "4,290",
-            "latitude": "1.4405369",
-            "longitude": "103.8260767"
-        },
-        {
-            "label": "Admiralty",
-            "population": "14,410",
-            "latitude": "1.4406369",
-            "longitude": "103.8009592"
-        },
-        {
-            "label": "Sembawang Central",
-            "population": "29,140",
-            "latitude": "1.4490928",
-            "longitude": "103.8200555"
-        },
-        {
-            "label": "Sembawang East",
-            "population": "90",
-            "latitude": "1.4490928",
-            "longitude": "103.8200555"
-        },
-        {
-            "label": "Sembawang North",
-            "population": "26,860",
-            "latitude": "1.4490928",
-            "longitude": "103.8200555"
-        },
-        {
-            "label": "Sembawang Straits",
-            "population": "1,700",
-            "latitude": "1.458458",
-            "longitude": "103.8374046"
-        },
-        {
-            "label": "Senoko North",
-            "population": "20",
-            "latitude": "1.4602965",
-            "longitude": "103.8374046"
-        },
-        {
-            "label": "Senoko South",
-            "population": "20",
-            "latitude": "1.4602965",
-            "longitude": "103.8374046"
-        },
-        {
-            "label": "Senoko West",
-            "population": "20",
-            "latitude": "1.4602965",
-            "longitude": "103.8374046"
-        },
-        {
-            "label": "Trafalgar",
-            "population": "44,800",
-            "latitude": "1.3829481",
-            "longitude": "103.8374046"
-        }
-    ]
-}
+[
+  {
+    "label": "City Terminals",
+    "population": "40",
+    "latitude": "1.24762615",
+    "longitude": "103.6869744",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Sentosa",
+    "population": "1,470",
+    "latitude": "1.24894585",
+    "longitude": "103.8343056",
+    "number_of_CS": 33
+  },
+  {
+    "label": "Maritime Square",
+    "population": "2,560",
+    "latitude": "1.264222",
+    "longitude": "103.8189255",
+    "number_of_CS": 58
+  },
+  {
+    "label": "Telok Blangah Rise",
+    "population": "13,820",
+    "latitude": "1.2713635",
+    "longitude": "103.8237998",
+    "number_of_CS": 311
+  },
+  {
+    "label": "Faber",
+    "population": "4,320",
+    "latitude": "1.271924",
+    "longitude": "103.8171752",
+    "number_of_CS": 97
+  },
+  {
+    "label": "Telok Blangah Drive",
+    "population": "16,000",
+    "latitude": "1.2725019",
+    "longitude": "103.8118027",
+    "number_of_CS": 360
+  },
+  {
+    "label": "Anson",
+    "population": "80",
+    "latitude": "1.2737957",
+    "longitude": "103.843473",
+    "number_of_CS": 2
+  },
+  {
+    "label": "Telok Blangah Way",
+    "population": "10,690",
+    "latitude": "1.2747778",
+    "longitude": "103.8219172",
+    "number_of_CS": 241
+  },
+  {
+    "label": "Bukit Merah",
+    "population": "1,190",
+    "latitude": "1.2748641",
+    "longitude": "103.8202761",
+    "number_of_CS": 27
+  },
+  {
+    "label": "Kampong Tiong Bahru",
+    "population": "10,460",
+    "latitude": "1.2756728",
+    "longitude": "103.8335913",
+    "number_of_CS": 235
+  },
+  {
+    "label": "Pasir Panjang 1",
+    "population": "4,010",
+    "latitude": "1.27620135",
+    "longitude": "103.7914758",
+    "number_of_CS": 90
+  },
+  {
+    "label": "Tanjong Pagar",
+    "population": "520",
+    "latitude": "1.27660565",
+    "longitude": "103.8457793",
+    "number_of_CS": 12
+  },
+  {
+    "label": "Everton Park",
+    "population": "9,010",
+    "latitude": "1.2771286",
+    "longitude": "103.8393679",
+    "number_of_CS": 203
+  },
+  {
+    "label": "Alexandra Hill",
+    "population": "15,650",
+    "latitude": "1.277477",
+    "longitude": "103.8018803",
+    "number_of_CS": 352
+  },
+  {
+    "label": "Alexandra North",
+    "population": "1,000",
+    "latitude": "1.277477",
+    "longitude": "103.8018803",
+    "number_of_CS": 23
+  },
+  {
+    "label": "Singapore General Hospital",
+    "population": "10",
+    "latitude": "1.27944885",
+    "longitude": "103.8362805",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Marina Centre",
+    "population": "20",
+    "latitude": "1.27958235",
+    "longitude": "103.8538296",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Cecil",
+    "population": "160",
+    "latitude": "1.2796445",
+    "longitude": "103.8492618",
+    "number_of_CS": 4
+  },
+  {
+    "label": "Pasir Panjang 2",
+    "population": "3,520",
+    "latitude": "1.28086725",
+    "longitude": "103.7872203",
+    "number_of_CS": 79
+  },
+  {
+    "label": "Depot Road",
+    "population": "5,200",
+    "latitude": "1.2811537",
+    "longitude": "103.8141727",
+    "number_of_CS": 117
+  },
+  {
+    "label": "Henderson Hill",
+    "population": "12,870",
+    "latitude": "1.28115755",
+    "longitude": "103.8210608",
+    "number_of_CS": 290
+  },
+  {
+    "label": "People's Park",
+    "population": "390",
+    "latitude": "1.2831661",
+    "longitude": "103.8415181",
+    "number_of_CS": 9
+  },
+  {
+    "label": "China Square",
+    "population": "1,590",
+    "latitude": "1.2834925",
+    "longitude": "103.8465903",
+    "number_of_CS": 36
+  },
+  {
+    "label": "Raffles Place",
+    "population": "60",
+    "latitude": "1.2835417",
+    "longitude": "103.8514602",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Chinatown",
+    "population": "11,880",
+    "latitude": "1.2837372",
+    "longitude": "103.8437976",
+    "number_of_CS": 267
+  },
+  {
+    "label": "Pearl's Hill",
+    "population": "8,230",
+    "latitude": "1.28489795",
+    "longitude": "103.8398284",
+    "number_of_CS": 185
+  },
+  {
+    "label": "Tiong Bahru Station",
+    "population": "16,670",
+    "latitude": "1.2860113",
+    "longitude": "103.8274107",
+    "number_of_CS": 375
+  },
+  {
+    "label": "Boat Quay",
+    "population": "180",
+    "latitude": "1.2861015",
+    "longitude": "103.8500076",
+    "number_of_CS": 4
+  },
+  {
+    "label": "Tiong Bahru",
+    "population": "12,190",
+    "latitude": "1.28617925",
+    "longitude": "103.8272252",
+    "number_of_CS": 274
+  },
+  {
+    "label": "Bukit Ho Swee",
+    "population": "16,290",
+    "latitude": "1.2879953",
+    "longitude": "103.8285644",
+    "number_of_CS": 367
+  },
+  {
+    "label": "Clarke Quay",
+    "population": "130",
+    "latitude": "1.2882413",
+    "longitude": "103.8464304",
+    "number_of_CS": 3
+  },
+  {
+    "label": "Redhill",
+    "population": "12,210",
+    "latitude": "1.2896482",
+    "longitude": "103.8167677",
+    "number_of_CS": 275
+  },
+  {
+    "label": "Cheng San",
+    "population": "29,770",
+    "latitude": "1.2904753",
+    "longitude": "103.8520359",
+    "number_of_CS": 670
+  },
+  {
+    "label": "Mei Chin",
+    "population": "16,750",
+    "latitude": "1.2911956",
+    "longitude": "103.8016206",
+    "number_of_CS": 377
+  },
+  {
+    "label": "Robertson Quay",
+    "population": "2,420",
+    "latitude": "1.2917517",
+    "longitude": "103.8413036",
+    "number_of_CS": 54
+  },
+  {
+    "label": "Fort Canning",
+    "population": "160",
+    "latitude": "1.2923829",
+    "longitude": "103.844242",
+    "number_of_CS": 4
+  },
+  {
+    "label": "City Hall",
+    "population": "60",
+    "latitude": "1.2930272",
+    "longitude": "103.8526448",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Boulevard",
+    "population": "400",
+    "latitude": "1.2932394",
+    "longitude": "103.8594082",
+    "number_of_CS": 9
+  },
+  {
+    "label": "Kent Ridge",
+    "population": "1,080",
+    "latitude": "1.2933374",
+    "longitude": "103.7844936",
+    "number_of_CS": 24
+  },
+  {
+    "label": "Institution Hill",
+    "population": "3,380",
+    "latitude": "1.2949263",
+    "longitude": "103.8393131",
+    "number_of_CS": 76
+  },
+  {
+    "label": "Victoria",
+    "population": "2,060",
+    "latitude": "1.29616795",
+    "longitude": "103.8500437",
+    "number_of_CS": 46
+  },
+  {
+    "label": "Margaret Drive",
+    "population": "10,520",
+    "latitude": "1.2966609",
+    "longitude": "103.8087959",
+    "number_of_CS": 237
+  },
+  {
+    "label": "Bras Basah",
+    "population": "10",
+    "latitude": "1.2968214",
+    "longitude": "103.8506658",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Tanjong Rhu",
+    "population": "11,310",
+    "latitude": "1.29734275",
+    "longitude": "103.8737643",
+    "number_of_CS": 255
+  },
+  {
+    "label": "Queensway",
+    "population": "280",
+    "latitude": "1.2985188",
+    "longitude": "103.8005671",
+    "number_of_CS": 6
+  },
+  {
+    "label": "Bencoolen",
+    "population": "1,460",
+    "latitude": "1.29860845",
+    "longitude": "103.850127",
+    "number_of_CS": 33
+  },
+  {
+    "label": "Oxley",
+    "population": "1,380",
+    "latitude": "1.29883365",
+    "longitude": "103.8409059",
+    "number_of_CS": 31
+  },
+  {
+    "label": "One North",
+    "population": "620",
+    "latitude": "1.29954015",
+    "longitude": "103.7872584",
+    "number_of_CS": 14
+  },
+  {
+    "label": "Dhoby Ghaut",
+    "population": "210",
+    "latitude": "1.29955225",
+    "longitude": "103.8453375",
+    "number_of_CS": 5
+  },
+  {
+    "label": "Leonie Hill",
+    "population": "2,450",
+    "latitude": "1.2996407",
+    "longitude": "103.8323837",
+    "number_of_CS": 55
+  },
+  {
+    "label": "Clementi Woods",
+    "population": "16,400",
+    "latitude": "1.29980405",
+    "longitude": "103.7678731",
+    "number_of_CS": 369
+  },
+  {
+    "label": "Tanglin Halt",
+    "population": "13,160",
+    "latitude": "1.2999069",
+    "longitude": "103.7981087",
+    "number_of_CS": 296
+  },
+  {
+    "label": "Bugis",
+    "population": "2,330",
+    "latitude": "1.2999533",
+    "longitude": "103.8552781",
+    "number_of_CS": 52
+  },
+  {
+    "label": "Paterson",
+    "population": "150",
+    "latitude": "1.30030955",
+    "longitude": "103.8306164",
+    "number_of_CS": 3
+  },
+  {
+    "label": "Somerset",
+    "population": "130",
+    "latitude": "1.30038375",
+    "longitude": "103.8388285",
+    "number_of_CS": 3
+  },
+  {
+    "label": "Kampong Glam",
+    "population": "170",
+    "latitude": "1.30128",
+    "longitude": "103.8599267",
+    "number_of_CS": 4
+  },
+  {
+    "label": "Katong",
+    "population": "9,620",
+    "latitude": "1.3016238",
+    "longitude": "103.9045983",
+    "number_of_CS": 217
+  },
+  {
+    "label": "One Tree Hill",
+    "population": "1,840",
+    "latitude": "1.30187",
+    "longitude": "103.8274901",
+    "number_of_CS": 41
+  },
+  {
+    "label": "Commonwealth",
+    "population": "8,130",
+    "latitude": "1.3024428",
+    "longitude": "103.7983085",
+    "number_of_CS": 183
+  },
+  {
+    "label": "Marine Parade",
+    "population": "28,910",
+    "latitude": "1.3026889",
+    "longitude": "103.9073952",
+    "number_of_CS": 651
+  },
+  {
+    "label": "Samulun",
+    "population": "10",
+    "latitude": "1.302728",
+    "longitude": "103.6974283",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Selegie",
+    "population": "270",
+    "latitude": "1.3027586",
+    "longitude": "103.8502417",
+    "number_of_CS": 6
+  },
+  {
+    "label": "Tanglin",
+    "population": "390",
+    "latitude": "1.30420465",
+    "longitude": "103.8184717",
+    "number_of_CS": 9
+  },
+  {
+    "label": "Mount Emily",
+    "population": "1,110",
+    "latitude": "1.30462805",
+    "longitude": "103.8475524",
+    "number_of_CS": 25
+  },
+  {
+    "label": "Sungei Road",
+    "population": "2,420",
+    "latitude": "1.3046537",
+    "longitude": "103.85153",
+    "number_of_CS": 54
+  },
+  {
+    "label": "Mackenzie",
+    "population": "110",
+    "latitude": "1.30494005",
+    "longitude": "103.8488472",
+    "number_of_CS": 2
+  },
+  {
+    "label": "Crawford",
+    "population": "9,740",
+    "latitude": "1.30558585",
+    "longitude": "103.8630877",
+    "number_of_CS": 219
+  },
+  {
+    "label": "Jurong Port",
+    "population": "10",
+    "latitude": "1.30562985",
+    "longitude": "103.7212514",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Rochor Canal",
+    "population": "10",
+    "latitude": "1.3057009",
+    "longitude": "103.8582073",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Kampong Bugis",
+    "population": "890",
+    "latitude": "1.3059255",
+    "longitude": "103.8672656",
+    "number_of_CS": 20
+  },
+  {
+    "label": "Mountbatten",
+    "population": "10,210",
+    "latitude": "1.3063254",
+    "longitude": "103.8827278",
+    "number_of_CS": 230
+  },
+  {
+    "label": "Nassim",
+    "population": "8,340",
+    "latitude": "1.30659285",
+    "longitude": "103.8229921",
+    "number_of_CS": 188
+  },
+  {
+    "label": "Ridout",
+    "population": "1,400",
+    "latitude": "1.3068145",
+    "longitude": "103.8066682",
+    "number_of_CS": 32
+  },
+  {
+    "label": "Little India",
+    "population": "3,850",
+    "latitude": "1.30684265",
+    "longitude": "103.8492736",
+    "number_of_CS": 87
+  },
+  {
+    "label": "Cairnhill",
+    "population": "3,330",
+    "latitude": "1.307056",
+    "longitude": "103.837803",
+    "number_of_CS": 75
+  },
+  {
+    "label": "Lavender",
+    "population": "10,320",
+    "latitude": "1.30734955",
+    "longitude": "103.8631527",
+    "number_of_CS": 232
+  },
+  {
+    "label": "Goodwood Park",
+    "population": "910",
+    "latitude": "1.3082222",
+    "longitude": "103.8341091",
+    "number_of_CS": 20
+  },
+  {
+    "label": "Monk's Hill",
+    "population": "980",
+    "latitude": "1.3087229",
+    "longitude": "103.8403421",
+    "number_of_CS": 22
+  },
+  {
+    "label": "Singapore Polytechnic",
+    "population": "160",
+    "latitude": "1.30913695",
+    "longitude": "103.7781437",
+    "number_of_CS": 4
+  },
+  {
+    "label": "Ghim Moh",
+    "population": "11,900",
+    "latitude": "1.3093063",
+    "longitude": "103.78422",
+    "number_of_CS": 268
+  },
+  {
+    "label": "Holland Road",
+    "population": "10,280",
+    "latitude": "1.3101133",
+    "longitude": "103.8047651",
+    "number_of_CS": 231
+  },
+  {
+    "label": "Holland Drive",
+    "population": "14,230",
+    "latitude": "1.3112157",
+    "longitude": "103.7926426",
+    "number_of_CS": 320
+  },
+  {
+    "label": "Shangri-La",
+    "population": "18,510",
+    "latitude": "1.3112474",
+    "longitude": "103.8267568",
+    "number_of_CS": 417
+  },
+  {
+    "label": "Dover",
+    "population": "13,200",
+    "latitude": "1.3113893",
+    "longitude": "103.778605",
+    "number_of_CS": 297
+  },
+  {
+    "label": "Newton Circus",
+    "population": "230",
+    "latitude": "1.3119894",
+    "longitude": "103.8392897",
+    "number_of_CS": 5
+  },
+  {
+    "label": "Frankel",
+    "population": "33,570",
+    "latitude": "1.3122881",
+    "longitude": "103.9201786",
+    "number_of_CS": 756
+  },
+  {
+    "label": "Farrer Court",
+    "population": "4,680",
+    "latitude": "1.31259105",
+    "longitude": "103.8542288",
+    "number_of_CS": 105
+  },
+  {
+    "label": "Farrer Park",
+    "population": "3,130",
+    "latitude": "1.31259105",
+    "longitude": "103.8542288",
+    "number_of_CS": 70
+  },
+  {
+    "label": "Bayshore",
+    "population": "7,480",
+    "latitude": "1.3128118",
+    "longitude": "103.9390329",
+    "number_of_CS": 168
+  },
+  {
+    "label": "Jurong River",
+    "population": "10",
+    "latitude": "1.3135155",
+    "longitude": "103.7274968",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Orange Grove",
+    "population": "1,440",
+    "latitude": "1.31353095",
+    "longitude": "103.8266548",
+    "number_of_CS": 32
+  },
+  {
+    "label": "Bendemeer",
+    "population": "33,830",
+    "latitude": "1.3136389",
+    "longitude": "103.8630012",
+    "number_of_CS": 762
+  },
+  {
+    "label": "Kampong Java",
+    "population": "11,260",
+    "latitude": "1.3139715",
+    "longitude": "103.8454729",
+    "number_of_CS": 253
+  },
+  {
+    "label": "Kallang Bahru",
+    "population": "30",
+    "latitude": "1.3149163",
+    "longitude": "103.864025",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Clementi Central",
+    "population": "13,490",
+    "latitude": "1.3151003",
+    "longitude": "103.7652311",
+    "number_of_CS": 304
+  },
+  {
+    "label": "Clementi West",
+    "population": "16,470",
+    "latitude": "1.3151003",
+    "longitude": "103.7652311",
+    "number_of_CS": 371
+  },
+  {
+    "label": "Tyersall",
+    "population": "3,520",
+    "latitude": "1.3155411",
+    "longitude": "103.8146891",
+    "number_of_CS": 79
+  },
+  {
+    "label": "Guilin",
+    "population": "13,130",
+    "latitude": "1.31579415",
+    "longitude": "103.8899933",
+    "number_of_CS": 296
+  },
+  {
+    "label": "Leedon Park",
+    "population": "6,260",
+    "latitude": "1.3163624",
+    "longitude": "103.7960601",
+    "number_of_CS": 141
+  },
+  {
+    "label": "Pandan",
+    "population": "10",
+    "latitude": "1.3163699",
+    "longitude": "103.7813952",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Ulu Pandan",
+    "population": "10,730",
+    "latitude": "1.3163699",
+    "longitude": "103.7813952",
+    "number_of_CS": 242
+  },
+  {
+    "label": "Aljunied",
+    "population": "41,710",
+    "latitude": "1.3164515",
+    "longitude": "103.882909",
+    "number_of_CS": 939
+  },
+  {
+    "label": "Penjuru Crescent",
+    "population": "10",
+    "latitude": "1.3165214",
+    "longitude": "103.7321354",
+    "number_of_CS": 0
+  },
+  {
+    "label": "West Coast",
+    "population": "5,890",
+    "latitude": "1.3170586",
+    "longitude": "103.7554066",
+    "number_of_CS": 133
+  },
+  {
+    "label": "Bedok South",
+    "population": "51,190",
+    "latitude": "1.3172941",
+    "longitude": "103.9496814",
+    "number_of_CS": 1152
+  },
+  {
+    "label": "Paya Lebar East",
+    "population": "10",
+    "latitude": "1.3174795",
+    "longitude": "103.8923525",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Paya Lebar North",
+    "population": "20",
+    "latitude": "1.3174795",
+    "longitude": "103.8923525",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Siglap",
+    "population": "6,930",
+    "latitude": "1.3176986",
+    "longitude": "103.9185698",
+    "number_of_CS": 156
+  },
+  {
+    "label": "Moulmein",
+    "population": "8,470",
+    "latitude": "1.3180495",
+    "longitude": "103.8501454",
+    "number_of_CS": 191
+  },
+  {
+    "label": "Geylang East",
+    "population": "33,380",
+    "latitude": "1.3181862",
+    "longitude": "103.8870563",
+    "number_of_CS": 751
+  },
+  {
+    "label": "Geylang Bahru",
+    "population": "12,870",
+    "latitude": "1.3190326",
+    "longitude": "103.8723174",
+    "number_of_CS": 290
+  },
+  {
+    "label": "Boon Keng",
+    "population": "10,970",
+    "latitude": "1.31956905",
+    "longitude": "103.8617487",
+    "number_of_CS": 247
+  },
+  {
+    "label": "Gul Circle",
+    "population": "30",
+    "latitude": "1.3196353",
+    "longitude": "103.6606551",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Teban Gardens",
+    "population": "19,080",
+    "latitude": "1.32089305",
+    "longitude": "103.7379342",
+    "number_of_CS": 430
+  },
+  {
+    "label": "Kembangan",
+    "population": "38,440",
+    "latitude": "1.3210321",
+    "longitude": "103.9129269",
+    "number_of_CS": 865
+  },
+  {
+    "label": "Dunearn",
+    "population": "3,900",
+    "latitude": "1.3210897",
+    "longitude": "103.8278673",
+    "number_of_CS": 88
+  },
+  {
+    "label": "Sunset Way",
+    "population": "6,290",
+    "latitude": "1.3219375",
+    "longitude": "103.7701637",
+    "number_of_CS": 142
+  },
+  {
+    "label": "Malcolm",
+    "population": "2,630",
+    "latitude": "1.3225026",
+    "longitude": "103.8264687",
+    "number_of_CS": 59
+  },
+  {
+    "label": "Coronation Road",
+    "population": "6,170",
+    "latitude": "1.3226686",
+    "longitude": "103.8045968",
+    "number_of_CS": 139
+  },
+  {
+    "label": "Kallang Way",
+    "population": "40",
+    "latitude": "1.3249544",
+    "longitude": "103.8767546",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Tukang",
+    "population": "10",
+    "latitude": "1.3253215",
+    "longitude": "103.7092754",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Macpherson",
+    "population": "28,630",
+    "latitude": "1.32620695",
+    "longitude": "103.889507",
+    "number_of_CS": 645
+  },
+  {
+    "label": "Balestier",
+    "population": "32,340",
+    "latitude": "1.326226",
+    "longitude": "103.8473149",
+    "number_of_CS": 728
+  },
+  {
+    "label": "Mount Pleasant",
+    "population": "650",
+    "latitude": "1.3267807",
+    "longitude": "103.8293716",
+    "number_of_CS": 15
+  },
+  {
+    "label": "International Business Park",
+    "population": "10",
+    "latitude": "1.3273734",
+    "longitude": "103.7476106",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Joo Koon",
+    "population": "40",
+    "latitude": "1.327735",
+    "longitude": "103.6782221",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Boon Teck",
+    "population": "15,110",
+    "latitude": "1.32778935",
+    "longitude": "103.850213",
+    "number_of_CS": 340
+  },
+  {
+    "label": "Kian Teck",
+    "population": "50",
+    "latitude": "1.3285109",
+    "longitude": "103.6947963",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Xilin",
+    "population": "1,920",
+    "latitude": "1.3286407",
+    "longitude": "103.9644167",
+    "number_of_CS": 43
+  },
+  {
+    "label": "Hillcrest",
+    "population": "8,810",
+    "latitude": "1.32876475",
+    "longitude": "103.8056442",
+    "number_of_CS": 198
+  },
+  {
+    "label": "Clementi North",
+    "population": "28,730",
+    "latitude": "1.3292738",
+    "longitude": "103.7762131",
+    "number_of_CS": 647
+  },
+  {
+    "label": "Kim Keat",
+    "population": "8,610",
+    "latitude": "1.3294271",
+    "longitude": "103.8532782",
+    "number_of_CS": 194
+  },
+  {
+    "label": "Kampong Ubi",
+    "population": "13,210",
+    "latitude": "1.3296421",
+    "longitude": "103.8950949",
+    "number_of_CS": 297
+  },
+  {
+    "label": "Tuas Bay",
+    "population": "20",
+    "latitude": "1.3300518",
+    "longitude": "103.6395694",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Tuas North",
+    "population": "20",
+    "latitude": "1.3300518",
+    "longitude": "103.6395694",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Tuas View",
+    "population": "10",
+    "latitude": "1.3300518",
+    "longitude": "103.6395694",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Toh Tuck",
+    "population": "40",
+    "latitude": "1.3309244",
+    "longitude": "103.7575927",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Potong Pasir",
+    "population": "12,650",
+    "latitude": "1.3314141",
+    "longitude": "103.8691381",
+    "number_of_CS": 285
+  },
+  {
+    "label": "Sennett",
+    "population": "4,540",
+    "latitude": "1.33198165",
+    "longitude": "103.8744792",
+    "number_of_CS": 102
+  },
+  {
+    "label": "Bedok North",
+    "population": "85,930",
+    "latitude": "1.3324018",
+    "longitude": "103.9193052",
+    "number_of_CS": 1935
+  },
+  {
+    "label": "Toa Payoh Central",
+    "population": "30,740",
+    "latitude": "1.3326741",
+    "longitude": "103.8505222",
+    "number_of_CS": 692
+  },
+  {
+    "label": "Toa Payoh West",
+    "population": "13,360",
+    "latitude": "1.3346545",
+    "longitude": "103.8395038",
+    "number_of_CS": 301
+  },
+  {
+    "label": "Taman Jurong",
+    "population": "36,940",
+    "latitude": "1.33488355",
+    "longitude": "103.7207887",
+    "number_of_CS": 832
+  },
+  {
+    "label": "Tai Seng",
+    "population": "14,700",
+    "latitude": "1.3353828",
+    "longitude": "103.8883061",
+    "number_of_CS": 331
+  },
+  {
+    "label": "Joo Seng",
+    "population": "6,720",
+    "latitude": "1.3355302",
+    "longitude": "103.8833207",
+    "number_of_CS": 151
+  },
+  {
+    "label": "Anak Bukit",
+    "population": "21,990",
+    "latitude": "1.3358173",
+    "longitude": "103.7754302",
+    "number_of_CS": 495
+  },
+  {
+    "label": "Kaki Bukit",
+    "population": "40,820",
+    "latitude": "1.3360277",
+    "longitude": "103.9018509",
+    "number_of_CS": 919
+  },
+  {
+    "label": "Jurong Gateway",
+    "population": "20",
+    "latitude": "1.3364281",
+    "longitude": "103.746847",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Pei Chun",
+    "population": "11,780",
+    "latitude": "1.3370857",
+    "longitude": "103.8556799",
+    "number_of_CS": 265
+  },
+  {
+    "label": "Reservoir View",
+    "population": "20",
+    "latitude": "1.3375104",
+    "longitude": "103.9289504",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Yunnan",
+    "population": "70,890",
+    "latitude": "1.33828435",
+    "longitude": "103.6910894",
+    "number_of_CS": 1596
+  },
+  {
+    "label": "Bidadari",
+    "population": "10",
+    "latitude": "1.33846645",
+    "longitude": "103.8748981",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Woodleigh",
+    "population": "2,440",
+    "latitude": "1.3391943",
+    "longitude": "103.8708215",
+    "number_of_CS": 55
+  },
+  {
+    "label": "Jurong West Central",
+    "population": "68,200",
+    "latitude": "1.3396365",
+    "longitude": "103.7073387",
+    "number_of_CS": 1535
+  },
+  {
+    "label": "Lorong 8 Toa Payoh",
+    "population": "8,220",
+    "latitude": "1.3397792",
+    "longitude": "103.858327",
+    "number_of_CS": 185
+  },
+  {
+    "label": "Toh Guan",
+    "population": "16,510",
+    "latitude": "1.3399884",
+    "longitude": "103.7515124",
+    "number_of_CS": 372
+  },
+  {
+    "label": "Braddell",
+    "population": "10,760",
+    "latitude": "1.3400707",
+    "longitude": "103.8467584",
+    "number_of_CS": 242
+  },
+  {
+    "label": "Bedok Reservoir",
+    "population": "25,400",
+    "latitude": "1.3425058",
+    "longitude": "103.9252298",
+    "number_of_CS": 572
+  },
+  {
+    "label": "Swiss Club",
+    "population": "5,550",
+    "latitude": "1.3429964",
+    "longitude": "103.7906466",
+    "number_of_CS": 125
+  },
+  {
+    "label": "Simei",
+    "population": "42,710",
+    "latitude": "1.3431881",
+    "longitude": "103.953371",
+    "number_of_CS": 962
+  },
+  {
+    "label": "Lakeside",
+    "population": "1,010",
+    "latitude": "1.34425",
+    "longitude": "103.7206931",
+    "number_of_CS": 23
+  },
+  {
+    "label": "Yuhua East",
+    "population": "27,460",
+    "latitude": "1.34495555",
+    "longitude": "103.7310153",
+    "number_of_CS": 618
+  },
+  {
+    "label": "Yuhua West",
+    "population": "20,870",
+    "latitude": "1.34495555",
+    "longitude": "103.7310153",
+    "number_of_CS": 470
+  },
+  {
+    "label": "Chatsworth",
+    "population": "5,740",
+    "latitude": "1.34514795",
+    "longitude": "103.7918562",
+    "number_of_CS": 129
+  },
+  {
+    "label": "Bukit Batok West",
+    "population": "15,190",
+    "latitude": "1.3455305",
+    "longitude": "103.7397329",
+    "number_of_CS": 342
+  },
+  {
+    "label": "Tampines West",
+    "population": "78,110",
+    "latitude": "1.3458661",
+    "longitude": "103.9384635",
+    "number_of_CS": 1758
+  },
+  {
+    "label": "Boon Lay Place",
+    "population": "31,100",
+    "latitude": "1.34640455",
+    "longitude": "103.7122848",
+    "number_of_CS": 700
+  },
+  {
+    "label": "Bukit Batok Central",
+    "population": "26,060",
+    "latitude": "1.34844155",
+    "longitude": "103.7463789",
+    "number_of_CS": 587
+  },
+  {
+    "label": "Marymount",
+    "population": "31,540",
+    "latitude": "1.34860435",
+    "longitude": "103.8393926",
+    "number_of_CS": 710
+  },
+  {
+    "label": "Western Water Catchment",
+    "population": "900",
+    "latitude": "1.3487577",
+    "longitude": "103.6784309",
+    "number_of_CS": 20
+  },
+  {
+    "label": "Bukit Batok East",
+    "population": "14,570",
+    "latitude": "1.3490572",
+    "longitude": "103.7495906",
+    "number_of_CS": 328
+  },
+  {
+    "label": "Bukit Batok South",
+    "population": "13,940",
+    "latitude": "1.3490572",
+    "longitude": "103.7495906",
+    "number_of_CS": 314
+  },
+  {
+    "label": "Upper Thomson",
+    "population": "30,340",
+    "latitude": "1.3507896",
+    "longitude": "103.8359951",
+    "number_of_CS": 683
+  },
+  {
+    "label": "Lorong Chuan",
+    "population": "8,390",
+    "latitude": "1.35156575",
+    "longitude": "103.8638622",
+    "number_of_CS": 189
+  },
+  {
+    "label": "Defu Industrial Park",
+    "population": "20",
+    "latitude": "1.35161105",
+    "longitude": "103.892045",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Bishan East",
+    "population": "28,820",
+    "latitude": "1.3519117",
+    "longitude": "103.8489708",
+    "number_of_CS": 649
+  },
+  {
+    "label": "Lorong Ah Soo",
+    "population": "34,180",
+    "latitude": "1.3520481",
+    "longitude": "103.8845867",
+    "number_of_CS": 769
+  },
+  {
+    "label": "Changi Point",
+    "population": "790",
+    "latitude": "1.35211085",
+    "longitude": "103.9870125",
+    "number_of_CS": 18
+  },
+  {
+    "label": "Changi West",
+    "population": "1,740",
+    "latitude": "1.35211085",
+    "longitude": "103.9870125",
+    "number_of_CS": 39
+  },
+  {
+    "label": "Port",
+    "population": "140",
+    "latitude": "1.35211085",
+    "longitude": "103.9870125",
+    "number_of_CS": 3
+  },
+  {
+    "label": "Serangoon Central",
+    "population": "26,480",
+    "latitude": "1.3535142",
+    "longitude": "103.8716164",
+    "number_of_CS": 596
+  },
+  {
+    "label": "Nature Reserve",
+    "population": "3,870",
+    "latitude": "1.3540779",
+    "longitude": "103.7794401",
+    "number_of_CS": 87
+  },
+  {
+    "label": "Hong Kah",
+    "population": "56,870",
+    "latitude": "1.3553973",
+    "longitude": "103.7214297",
+    "number_of_CS": 1280
+  },
+  {
+    "label": "Hong Kah North",
+    "population": "28,340",
+    "latitude": "1.3553973",
+    "longitude": "103.7214297",
+    "number_of_CS": 638
+  },
+  {
+    "label": "Greenwood Park",
+    "population": "70",
+    "latitude": "1.3554879",
+    "longitude": "103.9327917",
+    "number_of_CS": 2
+  },
+  {
+    "label": "Tampines East",
+    "population": "138,500",
+    "latitude": "1.35603565",
+    "longitude": "103.9551354",
+    "number_of_CS": 3118
+  },
+  {
+    "label": "Flora Drive",
+    "population": "12,950",
+    "latitude": "1.3573805",
+    "longitude": "103.9649776",
+    "number_of_CS": 292
+  },
+  {
+    "label": "Gombak",
+    "population": "9,820",
+    "latitude": "1.3588929",
+    "longitude": "103.7518249",
+    "number_of_CS": 221
+  },
+  {
+    "label": "Midview",
+    "population": "35,510",
+    "latitude": "1.359286",
+    "longitude": "103.8340359",
+    "number_of_CS": 799
+  },
+  {
+    "label": "Kovan",
+    "population": "25,640",
+    "latitude": "1.3601757",
+    "longitude": "103.885112",
+    "number_of_CS": 577
+  },
+  {
+    "label": "Townsville",
+    "population": "23,770",
+    "latitude": "1.3603771",
+    "longitude": "103.8538822",
+    "number_of_CS": 535
+  },
+  {
+    "label": "Upper Paya Lebar",
+    "population": "15,540",
+    "latitude": "1.3611088",
+    "longitude": "103.9254612",
+    "number_of_CS": 350
+  },
+  {
+    "label": "Hillview",
+    "population": "18,220",
+    "latitude": "1.3624042",
+    "longitude": "103.7674273",
+    "number_of_CS": 410
+  },
+  {
+    "label": "Tengah",
+    "population": "10",
+    "latitude": "1.3624531",
+    "longitude": "103.7250401",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Serangoon Garden",
+    "population": "39,180",
+    "latitude": "1.3624579",
+    "longitude": "103.8660127",
+    "number_of_CS": 882
+  },
+  {
+    "label": "Dairy Farm",
+    "population": "5,390",
+    "latitude": "1.3651581",
+    "longitude": "103.7740781",
+    "number_of_CS": 121
+  },
+  {
+    "label": "Chong Boon",
+    "population": "27,900",
+    "latitude": "1.36820695",
+    "longitude": "103.8563604",
+    "number_of_CS": 628
+  },
+  {
+    "label": "Central Water Catchment",
+    "population": "10",
+    "latitude": "1.3700592",
+    "longitude": "103.8034477",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Hougang East",
+    "population": "21,940",
+    "latitude": "1.3708011",
+    "longitude": "103.8925443",
+    "number_of_CS": 494
+  },
+  {
+    "label": "Hougang West",
+    "population": "50,120",
+    "latitude": "1.3708011",
+    "longitude": "103.8925443",
+    "number_of_CS": 1128
+  },
+  {
+    "label": "Hougang Central",
+    "population": "4,830",
+    "latitude": "1.3710492",
+    "longitude": "103.8943576",
+    "number_of_CS": 109
+  },
+  {
+    "label": "Ang Mo Kio Town Centre",
+    "population": "5,020",
+    "latitude": "1.3712845",
+    "longitude": "103.8469936",
+    "number_of_CS": 113
+  },
+  {
+    "label": "Serangoon North",
+    "population": "17,490",
+    "latitude": "1.3713383",
+    "longitude": "103.8727563",
+    "number_of_CS": 394
+  },
+  {
+    "label": "Serangoon North Ind Estate",
+    "population": "20",
+    "latitude": "1.3713383",
+    "longitude": "103.8727563",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Sembawang Hills",
+    "population": "6,890",
+    "latitude": "1.3723986",
+    "longitude": "103.8290295",
+    "number_of_CS": 155
+  },
+  {
+    "label": "Pasir Ris Central",
+    "population": "25,730",
+    "latitude": "1.372697",
+    "longitude": "103.9508369",
+    "number_of_CS": 579
+  },
+  {
+    "label": "Pasir Ris Drive",
+    "population": "59,480",
+    "latitude": "1.3730307",
+    "longitude": "103.949255",
+    "number_of_CS": 1339
+  },
+  {
+    "label": "Pasir Ris West",
+    "population": "36,330",
+    "latitude": "1.3730307",
+    "longitude": "103.949255",
+    "number_of_CS": 818
+  },
+  {
+    "label": "Loyang East",
+    "population": "2,190",
+    "latitude": "1.3753678",
+    "longitude": "103.9772924",
+    "number_of_CS": 49
+  },
+  {
+    "label": "Loyang West",
+    "population": "200",
+    "latitude": "1.3753678",
+    "longitude": "103.9772924",
+    "number_of_CS": 5
+  },
+  {
+    "label": "Teck Whye",
+    "population": "27,040",
+    "latitude": "1.3766705",
+    "longitude": "103.7536471",
+    "number_of_CS": 609
+  },
+  {
+    "label": "Keat Hong",
+    "population": "15,660",
+    "latitude": "1.3786034",
+    "longitude": "103.7490207",
+    "number_of_CS": 353
+  },
+  {
+    "label": "Pasir Ris Park",
+    "population": "2,980",
+    "latitude": "1.37898635",
+    "longitude": "103.9503798",
+    "number_of_CS": 67
+  },
+  {
+    "label": "Bangkit",
+    "population": "23,800",
+    "latitude": "1.3800412",
+    "longitude": "103.7726501",
+    "number_of_CS": 536
+  },
+  {
+    "label": "Rivervale",
+    "population": "59,860",
+    "latitude": "1.38062345",
+    "longitude": "103.8984008",
+    "number_of_CS": 1348
+  },
+  {
+    "label": "Jelebu",
+    "population": "33,470",
+    "latitude": "1.3807653",
+    "longitude": "103.7634292",
+    "number_of_CS": 754
+  },
+  {
+    "label": "Yio Chu Kang",
+    "population": "30",
+    "latitude": "1.3817905",
+    "longitude": "103.8449359",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Yio Chu Kang East",
+    "population": "4,080",
+    "latitude": "1.3817905",
+    "longitude": "103.8449359",
+    "number_of_CS": 92
+  },
+  {
+    "label": "Yio Chu Kang West",
+    "population": "26,550",
+    "latitude": "1.3817905",
+    "longitude": "103.8449359",
+    "number_of_CS": 598
+  },
+  {
+    "label": "Pang Sua",
+    "population": "20",
+    "latitude": "1.3818691",
+    "longitude": "103.7658303",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Senja",
+    "population": "20,200",
+    "latitude": "1.3826778",
+    "longitude": "103.7623822",
+    "number_of_CS": 455
+  },
+  {
+    "label": "North-Eastern Islands",
+    "population": "60",
+    "latitude": "1.3828816",
+    "longitude": "104.0507258",
+    "number_of_CS": 1
+  },
+  {
+    "label": "Choa Chu Kang Central",
+    "population": "21,400",
+    "latitude": "1.3836278",
+    "longitude": "103.7445726",
+    "number_of_CS": 482
+  },
+  {
+    "label": "Kangkar",
+    "population": "26,080",
+    "latitude": "1.3839286",
+    "longitude": "103.9022055",
+    "number_of_CS": 587
+  },
+  {
+    "label": "Saujana",
+    "population": "25,530",
+    "latitude": "1.3845478",
+    "longitude": "103.7658135",
+    "number_of_CS": 575
+  },
+  {
+    "label": "Fajar",
+    "population": "26,770",
+    "latitude": "1.3845503",
+    "longitude": "103.7708003",
+    "number_of_CS": 603
+  },
+  {
+    "label": "Seletar Hills",
+    "population": "13,580",
+    "latitude": "1.3854637",
+    "longitude": "103.8656683",
+    "number_of_CS": 306
+  },
+  {
+    "label": "Tagore",
+    "population": "8,350",
+    "latitude": "1.3857511",
+    "longitude": "103.8279927",
+    "number_of_CS": 188
+  },
+  {
+    "label": "Choa Chu Kang North",
+    "population": "34,380",
+    "latitude": "1.3892601",
+    "longitude": "103.743728",
+    "number_of_CS": 774
+  },
+  {
+    "label": "Fernvale",
+    "population": "35,590",
+    "latitude": "1.3904635",
+    "longitude": "103.8770826",
+    "number_of_CS": 801
+  },
+  {
+    "label": "Sengkang Town Centre",
+    "population": "54,680",
+    "latitude": "1.3909487",
+    "longitude": "103.8951748",
+    "number_of_CS": 1231
+  },
+  {
+    "label": "Sengkang West",
+    "population": "10",
+    "latitude": "1.39192365",
+    "longitude": "103.8954909",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Compassvale",
+    "population": "18,510",
+    "latitude": "1.394518",
+    "longitude": "103.9004349",
+    "number_of_CS": 417
+  },
+  {
+    "label": "Anchorvale",
+    "population": "38,040",
+    "latitude": "1.3952233",
+    "longitude": "103.8883224",
+    "number_of_CS": 856
+  },
+  {
+    "label": "Punggol Field",
+    "population": "43,300",
+    "latitude": "1.3958608",
+    "longitude": "103.9103712",
+    "number_of_CS": 975
+  },
+  {
+    "label": "Gali Batu",
+    "population": "130",
+    "latitude": "1.3965351",
+    "longitude": "103.774025",
+    "number_of_CS": 3
+  },
+  {
+    "label": "Yew Tee",
+    "population": "43,710",
+    "latitude": "1.3974608",
+    "longitude": "103.7474009",
+    "number_of_CS": 984
+  },
+  {
+    "label": "Punggol Town Centre",
+    "population": "7,390",
+    "latitude": "1.398033",
+    "longitude": "103.9073312",
+    "number_of_CS": 166
+  },
+  {
+    "label": "Springleaf",
+    "population": "3,880",
+    "latitude": "1.4019703",
+    "longitude": "103.8228603",
+    "number_of_CS": 87
+  },
+  {
+    "label": "Matilda",
+    "population": "30,440",
+    "latitude": "1.40307325",
+    "longitude": "103.8932949",
+    "number_of_CS": 685
+  },
+  {
+    "label": "Waterway East",
+    "population": "28,340",
+    "latitude": "1.4066031",
+    "longitude": "103.9020707",
+    "number_of_CS": 638
+  },
+  {
+    "label": "Mandai Estate",
+    "population": "2,120",
+    "latitude": "1.4080964",
+    "longitude": "103.7583269",
+    "number_of_CS": 48
+  },
+  {
+    "label": "Seletar Aerospace Park",
+    "population": "20",
+    "latitude": "1.4087181",
+    "longitude": "103.8682223",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Seletar",
+    "population": "260",
+    "latitude": "1.4098488",
+    "longitude": "103.8773789",
+    "number_of_CS": 6
+  },
+  {
+    "label": "Lower Seletar",
+    "population": "2,870",
+    "latitude": "1.411265",
+    "longitude": "103.8521359",
+    "number_of_CS": 65
+  },
+  {
+    "label": "Northshore",
+    "population": "280",
+    "latitude": "1.41688295",
+    "longitude": "103.9021483",
+    "number_of_CS": 6
+  },
+  {
+    "label": "Khatib",
+    "population": "10,850",
+    "latitude": "1.4173597",
+    "longitude": "103.8330179",
+    "number_of_CS": 244
+  },
+  {
+    "label": "Northland",
+    "population": "30,380",
+    "latitude": "1.4212034",
+    "longitude": "103.840584",
+    "number_of_CS": 684
+  },
+  {
+    "label": "Turf Club",
+    "population": "660",
+    "latitude": "1.4220553",
+    "longitude": "103.7641821",
+    "number_of_CS": 15
+  },
+  {
+    "label": "Nee Soon",
+    "population": "900",
+    "latitude": "1.42280315",
+    "longitude": "103.8398167",
+    "number_of_CS": 20
+  },
+  {
+    "label": "Kranji",
+    "population": "20",
+    "latitude": "1.4252189",
+    "longitude": "103.7619891",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Yishun Central",
+    "population": "1,490",
+    "latitude": "1.42645065",
+    "longitude": "103.8372038",
+    "number_of_CS": 34
+  },
+  {
+    "label": "Woodlands South",
+    "population": "35,840",
+    "latitude": "1.4271409",
+    "longitude": "103.7942976",
+    "number_of_CS": 807
+  },
+  {
+    "label": "Yishun East",
+    "population": "54,880",
+    "latitude": "1.4293839",
+    "longitude": "103.8350282",
+    "number_of_CS": 1236
+  },
+  {
+    "label": "Yishun South",
+    "population": "38,840",
+    "latitude": "1.4293839",
+    "longitude": "103.8350282",
+    "number_of_CS": 874
+  },
+  {
+    "label": "Yishun West",
+    "population": "57,890",
+    "latitude": "1.4293839",
+    "longitude": "103.8350282",
+    "number_of_CS": 1303
+  },
+  {
+    "label": "Woodgrove",
+    "population": "35,850",
+    "latitude": "1.4294911",
+    "longitude": "103.7791951",
+    "number_of_CS": 807
+  },
+  {
+    "label": "Lim Chu Kang",
+    "population": "90",
+    "latitude": "1.4342172",
+    "longitude": "103.7149872",
+    "number_of_CS": 2
+  },
+  {
+    "label": "Woodlands East",
+    "population": "95,510",
+    "latitude": "1.436897",
+    "longitude": "103.786216",
+    "number_of_CS": 2150
+  },
+  {
+    "label": "Woodlands West",
+    "population": "32,890",
+    "latitude": "1.436897",
+    "longitude": "103.786216",
+    "number_of_CS": 740
+  },
+  {
+    "label": "North Coast",
+    "population": "14,610",
+    "latitude": "1.4383218",
+    "longitude": "103.7878396",
+    "number_of_CS": 329
+  },
+  {
+    "label": "Sembawang Springs",
+    "population": "4,290",
+    "latitude": "1.4405369",
+    "longitude": "103.8260767",
+    "number_of_CS": 97
+  },
+  {
+    "label": "Admiralty",
+    "population": "14,410",
+    "latitude": "1.4406369",
+    "longitude": "103.8009592",
+    "number_of_CS": 324
+  },
+  {
+    "label": "Sembawang Central",
+    "population": "29,140",
+    "latitude": "1.4490928",
+    "longitude": "103.8200555",
+    "number_of_CS": 656
+  },
+  {
+    "label": "Sembawang East",
+    "population": "90",
+    "latitude": "1.4490928",
+    "longitude": "103.8200555",
+    "number_of_CS": 2
+  },
+  {
+    "label": "Sembawang North",
+    "population": "26,860",
+    "latitude": "1.4490928",
+    "longitude": "103.8200555",
+    "number_of_CS": 605
+  },
+  {
+    "label": "Sembawang Straits",
+    "population": "1,700",
+    "latitude": "1.458458",
+    "longitude": "103.8374046",
+    "number_of_CS": 38
+  },
+  {
+    "label": "Senoko North",
+    "population": "20",
+    "latitude": "1.4602965",
+    "longitude": "103.8374046",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Senoko South",
+    "population": "20",
+    "latitude": "1.4602965",
+    "longitude": "103.8374046",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Senoko West",
+    "population": "20",
+    "latitude": "1.4602965",
+    "longitude": "103.8374046",
+    "number_of_CS": 0
+  },
+  {
+    "label": "Trafalgar",
+    "population": "44,800",
+    "latitude": "1.3829481",
+    "longitude": "103.8374046",
+    "number_of_CS": 1009
+  }
+]

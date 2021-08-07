@@ -7,7 +7,7 @@ with open("carpark_distribution.json") as f:
     carpark_distribution = json.load(f)
 
 subzone_data = []
-for item in population_distribution["Sheet1"]:
+for item in population_distribution:
     data = {"label": item["label"], "latitude": item["latitude"], "longitude": item["longitude"]}
     subzone_data.append(data)
 
