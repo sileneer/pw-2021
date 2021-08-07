@@ -331,6 +331,10 @@
           <aggregation value='true' />
         </view>
         <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1buv6cf1h4unia18tghuk0p7lqyu].[avg:Longitudeper Document:qk]' field-type='quantitative' max='11563987.707592292' min='11550674.100620171' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1buv6cf1h4unia18tghuk0p7lqyu].[avg:Latitudeper Document:qk]' field-type='quantitative' max='150311.01573696613' min='141983.25189651814' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
           <style-rule element='map'>
             <format attr='washout' value='0.0' />
           </style-rule>

@@ -70,10 +70,10 @@ stage_2()
 
 
 def get_number_of_cs(number_of_parking_lots):
-    if number_of_parking_lots <= 5:
+    if number_of_parking_lots <= 3:
         return 1
     else:
-        return round(number_of_parking_lots / 5)
+        return round(number_of_parking_lots * 0.31)
 
 
 count_number_of_charging_stations = 0

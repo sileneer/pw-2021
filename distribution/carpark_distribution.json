@@ -8,7 +8,7 @@
     "count": 58,
     "latitude": 1.3320926551724144,
     "longitude": 103.94654976896551,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 18,
     "subzone": "Simei"
   },
   {
@@ -20,7 +20,7 @@
     "count": 44,
     "latitude": 1.353833959090909,
     "longitude": 103.87722165000001,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Serangoon Central"
   },
   {
@@ -32,7 +32,7 @@
     "count": 80,
     "latitude": 1.2895290824999999,
     "longitude": 103.77145558999999,
-    "number_of_charging_station": 16,
+    "number_of_charging_station": 25,
     "subzone": "Clementi Woods"
   },
   {
@@ -44,7 +44,7 @@
     "count": 28,
     "latitude": 1.276717342857143,
     "longitude": 103.79564254285712,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Pasir Panjang 1"
   },
   {
@@ -56,7 +56,7 @@
     "count": 17,
     "latitude": 1.3154980431372552,
     "longitude": 103.88971448970587,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Guilin"
   },
   {
@@ -68,7 +68,7 @@
     "count": 29,
     "latitude": 1.3129735793103445,
     "longitude": 103.8806236,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Aljunied"
   },
   {
@@ -80,7 +80,7 @@
     "count": 148,
     "latitude": 1.339108412162162,
     "longitude": 103.77627042162162,
-    "number_of_charging_station": 30,
+    "number_of_charging_station": 46,
     "subzone": "Anak Bukit"
   },
   {
@@ -92,7 +92,7 @@
     "count": 135,
     "latitude": 1.308926696296296,
     "longitude": 103.90342910666668,
-    "number_of_charging_station": 27,
+    "number_of_charging_station": 42,
     "subzone": "Marine Parade"
   },
   {
@@ -104,7 +104,7 @@
     "count": 17,
     "latitude": 1.309820080392157,
     "longitude": 103.90149797058822,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Katong"
   },
   {
@@ -116,7 +116,7 @@
     "count": 26,
     "latitude": 1.3102534846153848,
     "longitude": 103.86156753846156,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Lavender"
   },
   {
@@ -128,7 +128,7 @@
     "count": 461,
     "latitude": 1.3166074780911063,
     "longitude": 103.8953327882863,
-    "number_of_charging_station": 92,
+    "number_of_charging_station": 143,
     "subzone": "Paya Lebar East"
   },
   {
@@ -140,7 +140,7 @@
     "count": 35,
     "latitude": 1.2763623314285717,
     "longitude": 103.79371236571428,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Pasir Panjang 1"
   },
   {
@@ -152,7 +152,7 @@
     "count": 15,
     "latitude": 1.2792973733333333,
     "longitude": 103.84190546666669,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Everton Park"
   },
   {
@@ -164,7 +164,7 @@
     "count": 33,
     "latitude": 1.3013613999999996,
     "longitude": 103.8604235151515,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 10,
     "subzone": "Kampong Glam"
   },
   {
@@ -176,7 +176,7 @@
     "count": 13,
     "latitude": 1.3139018923076924,
     "longitude": 103.8817708,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Aljunied"
   },
   {
@@ -188,7 +188,7 @@
     "count": 391,
     "latitude": 1.3074040704254821,
     "longitude": 103.9358485681005,
-    "number_of_charging_station": 78,
+    "number_of_charging_station": 121,
     "subzone": "Bayshore"
   },
   {
@@ -200,7 +200,7 @@
     "count": 572,
     "latitude": 1.3068139566433552,
     "longitude": 103.92993345524481,
-    "number_of_charging_station": 114,
+    "number_of_charging_station": 177,
     "subzone": "Bayshore"
   },
   {
@@ -212,7 +212,7 @@
     "count": 84,
     "latitude": 1.3637300761904763,
     "longitude": 103.86547854761903,
-    "number_of_charging_station": 17,
+    "number_of_charging_station": 26,
     "subzone": "Serangoon Garden"
   },
   {
@@ -224,7 +224,7 @@
     "count": 77,
     "latitude": 1.356665106493507,
     "longitude": 103.8360584,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 24,
     "subzone": "Midview"
   },
   {
@@ -236,7 +236,7 @@
     "count": 160,
     "latitude": 1.35720072375,
     "longitude": 103.83813276500003,
-    "number_of_charging_station": 32,
+    "number_of_charging_station": 50,
     "subzone": "Midview"
   },
   {
@@ -248,7 +248,7 @@
     "count": 31,
     "latitude": 1.3136478838709678,
     "longitude": 103.87945729032259,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Aljunied"
   },
   {
@@ -260,7 +260,7 @@
     "count": 13,
     "latitude": 1.307938707692308,
     "longitude": 103.85448030769231,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Rochor Canal"
   },
   {
@@ -272,7 +272,7 @@
     "count": 12,
     "latitude": 1.3065983833333332,
     "longitude": 103.90459671666667,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Marine Parade"
   },
   {
@@ -284,7 +284,7 @@
     "count": 60,
     "latitude": 1.37331875,
     "longitude": 103.8290516033333,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Sembawang Hills"
   },
   {
@@ -296,7 +296,7 @@
     "count": 259,
     "latitude": 1.307158907035606,
     "longitude": 103.86356487374522,
-    "number_of_charging_station": 52,
+    "number_of_charging_station": 80,
     "subzone": "Lavender"
   },
   {
@@ -308,7 +308,7 @@
     "count": 658,
     "latitude": 1.2664819136778107,
     "longitude": 103.82051835775081,
-    "number_of_charging_station": 132,
+    "number_of_charging_station": 204,
     "subzone": "Maritime Square"
   },
   {
@@ -320,7 +320,7 @@
     "count": 44,
     "latitude": 1.3086929454545453,
     "longitude": 103.9362633409091,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Bayshore"
   },
   {
@@ -332,7 +332,7 @@
     "count": 25,
     "latitude": 1.2869447629206348,
     "longitude": 103.82471252025397,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Tiong Bahru"
   },
   {
@@ -344,7 +344,7 @@
     "count": 366,
     "latitude": 1.3764232289617486,
     "longitude": 103.95656038415304,
-    "number_of_charging_station": 73,
+    "number_of_charging_station": 113,
     "subzone": "Pasir Ris Park"
   },
   {
@@ -356,7 +356,7 @@
     "count": 18,
     "latitude": 1.3186279444444446,
     "longitude": 103.91086592222223,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Kembangan"
   },
   {
@@ -368,7 +368,7 @@
     "count": 112,
     "latitude": 1.3474077553854875,
     "longitude": 103.76158820620753,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 35,
     "subzone": "Bukit Batok East"
   },
   {
@@ -380,7 +380,7 @@
     "count": 236,
     "latitude": 1.3016682000000002,
     "longitude": 103.85589381186442,
-    "number_of_charging_station": 47,
+    "number_of_charging_station": 73,
     "subzone": "Bugis"
   },
   {
@@ -392,7 +392,7 @@
     "count": 51,
     "latitude": 1.291622364705882,
     "longitude": 103.76809509803925,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Clementi Woods"
   },
   {
@@ -404,7 +404,7 @@
     "count": 158,
     "latitude": 1.3416075886075955,
     "longitude": 103.77502502784803,
-    "number_of_charging_station": 32,
+    "number_of_charging_station": 49,
     "subzone": "Anak Bukit"
   },
   {
@@ -416,7 +416,7 @@
     "count": 139,
     "latitude": 1.3122206043165465,
     "longitude": 103.92606092517984,
-    "number_of_charging_station": 28,
+    "number_of_charging_station": 43,
     "subzone": "Frankel"
   },
   {
@@ -428,7 +428,7 @@
     "count": 45,
     "latitude": 1.2844432311111111,
     "longitude": 103.83548092000001,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Pearl's Hill"
   },
   {
@@ -440,7 +440,7 @@
     "count": 72,
     "latitude": 1.3105731055555554,
     "longitude": 103.87199679166665,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 22,
     "subzone": "Kampong Bugis"
   },
   {
@@ -452,7 +452,7 @@
     "count": 36,
     "latitude": 1.283415855555556,
     "longitude": 103.84056365555557,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "People's Park"
   },
   {
@@ -464,7 +464,7 @@
     "count": 144,
     "latitude": 1.3066092777777782,
     "longitude": 103.89639160000003,
-    "number_of_charging_station": 29,
+    "number_of_charging_station": 45,
     "subzone": "Katong"
   },
   {
@@ -476,7 +476,7 @@
     "count": 133,
     "latitude": 1.3097357278195478,
     "longitude": 103.8533519112782,
-    "number_of_charging_station": 27,
+    "number_of_charging_station": 41,
     "subzone": "Farrer Court"
   },
   {
@@ -488,7 +488,7 @@
     "count": 62,
     "latitude": 1.274045803225806,
     "longitude": 103.79550276451613,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Pasir Panjang 1"
   },
   {
@@ -500,7 +500,7 @@
     "count": 127,
     "latitude": 1.273081653543306,
     "longitude": 103.83953191496063,
-    "number_of_charging_station": 25,
+    "number_of_charging_station": 39,
     "subzone": "Anson"
   },
   {
@@ -512,7 +512,7 @@
     "count": 108,
     "latitude": 1.2925551907407407,
     "longitude": 103.84084344417982,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 33,
     "subzone": "Robertson Quay"
   },
   {
@@ -524,7 +524,7 @@
     "count": 23,
     "latitude": 1.3102933739130433,
     "longitude": 103.85614525217392,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Farrer Court"
   },
   {
@@ -536,7 +536,7 @@
     "count": 37,
     "latitude": 1.3846268486486486,
     "longitude": 103.9437560162162,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Pasir Ris Park"
   },
   {
@@ -548,7 +548,7 @@
     "count": 34,
     "latitude": 1.384277588235294,
     "longitude": 104.00104482352941,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Loyang East"
   },
   {
@@ -560,7 +560,7 @@
     "count": 29,
     "latitude": 1.3100565655172414,
     "longitude": 103.86278015172411,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Lavender"
   },
   {
@@ -572,7 +572,7 @@
     "count": 30,
     "latitude": 1.3716295266666667,
     "longitude": 103.8290617333333,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Sembawang Hills"
   },
   {
@@ -584,7 +584,7 @@
     "count": 15,
     "latitude": 1.3344843333333334,
     "longitude": 103.88241025333333,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Joo Seng"
   },
   {
@@ -596,7 +596,7 @@
     "count": 150,
     "latitude": 1.3629614449735454,
     "longitude": 103.86658978833866,
-    "number_of_charging_station": 30,
+    "number_of_charging_station": 46,
     "subzone": "Serangoon Garden"
   },
   {
@@ -608,7 +608,7 @@
     "count": 75,
     "latitude": 1.3059566906666664,
     "longitude": 103.86368336533333,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Crawford"
   },
   {
@@ -620,7 +620,7 @@
     "count": 47,
     "latitude": 1.313460574468085,
     "longitude": 103.8593111574468,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 15,
     "subzone": "Bendemeer"
   },
   {
@@ -632,7 +632,7 @@
     "count": 55,
     "latitude": 1.3659352916363632,
     "longitude": 103.86648890618186,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Serangoon Garden"
   },
   {
@@ -644,7 +644,7 @@
     "count": 63,
     "latitude": 1.3139981365079365,
     "longitude": 103.88139041587304,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Aljunied"
   },
   {
@@ -656,7 +656,7 @@
     "count": 351,
     "latitude": 1.3050990074074076,
     "longitude": 103.8296759549857,
-    "number_of_charging_station": 70,
+    "number_of_charging_station": 109,
     "subzone": "One Tree Hill"
   },
   {
@@ -668,7 +668,7 @@
     "count": 34,
     "latitude": 1.3185579647058825,
     "longitude": 103.85058443529412,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Moulmein"
   },
   {
@@ -680,7 +680,7 @@
     "count": 7,
     "latitude": 1.3033181428571428,
     "longitude": 103.86076340000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kampong Glam"
   },
   {
@@ -692,7 +692,7 @@
     "count": 16,
     "latitude": 1.3032286624999998,
     "longitude": 103.83901412500003,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Somerset"
   },
   {
@@ -704,7 +704,7 @@
     "count": 26,
     "latitude": 1.3116402615384612,
     "longitude": 103.86177846153845,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Bendemeer"
   },
   {
@@ -716,7 +716,7 @@
     "count": 148,
     "latitude": 1.3108507162162162,
     "longitude": 103.8522889310811,
-    "number_of_charging_station": 30,
+    "number_of_charging_station": 46,
     "subzone": "Farrer Court"
   },
   {
@@ -728,7 +728,7 @@
     "count": 44,
     "latitude": 1.364162352272727,
     "longitude": 103.865685844697,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Serangoon Garden"
   },
   {
@@ -740,7 +740,7 @@
     "count": 21,
     "latitude": 1.3140854095238095,
     "longitude": 103.85963104761905,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Bendemeer"
   },
   {
@@ -752,7 +752,7 @@
     "count": 49,
     "latitude": 1.3058701877551024,
     "longitude": 103.85359662857144,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Sungei Road"
   },
   {
@@ -764,7 +764,7 @@
     "count": 116,
     "latitude": 1.305132253448276,
     "longitude": 103.84955985689653,
-    "number_of_charging_station": 23,
+    "number_of_charging_station": 36,
     "subzone": "Mackenzie"
   },
   {
@@ -776,7 +776,7 @@
     "count": 41,
     "latitude": 1.32360956097561,
     "longitude": 103.86556587804876,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Boon Keng"
   },
   {
@@ -788,7 +788,7 @@
     "count": 121,
     "latitude": 1.3207409851239664,
     "longitude": 103.95520482314046,
-    "number_of_charging_station": 24,
+    "number_of_charging_station": 38,
     "subzone": "Bedok South"
   },
   {
@@ -800,7 +800,7 @@
     "count": 110,
     "latitude": 1.2999484490909086,
     "longitude": 103.85333566909087,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 34,
     "subzone": "Bugis"
   },
   {
@@ -812,7 +812,7 @@
     "count": 18,
     "latitude": 1.3071769444444443,
     "longitude": 103.85060242222224,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Little India"
   },
   {
@@ -824,7 +824,7 @@
     "count": 191,
     "latitude": 1.3059893277486914,
     "longitude": 103.84733509947642,
-    "number_of_charging_station": 38,
+    "number_of_charging_station": 59,
     "subzone": "Mount Emily"
   },
   {
@@ -836,7 +836,7 @@
     "count": 69,
     "latitude": 1.3065591768115947,
     "longitude": 103.85405069855071,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 21,
     "subzone": "Sungei Road"
   },
   {
@@ -848,7 +848,7 @@
     "count": 23,
     "latitude": 1.2744976347826087,
     "longitude": 103.84143274782608,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Anson"
   },
   {
@@ -860,7 +860,7 @@
     "count": 19,
     "latitude": 1.2998528526315791,
     "longitude": 103.84212073684212,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Oxley"
   },
   {
@@ -872,7 +872,7 @@
     "count": 47,
     "latitude": 1.3339285957446807,
     "longitude": 103.71087257446811,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 15,
     "subzone": "Jurong West Central"
   },
   {
@@ -884,7 +884,7 @@
     "count": 78,
     "latitude": 1.288251828205128,
     "longitude": 103.84821060256411,
-    "number_of_charging_station": 16,
+    "number_of_charging_station": 24,
     "subzone": "Clarke Quay"
   },
   {
@@ -896,7 +896,7 @@
     "count": 16,
     "latitude": 1.2808141750000002,
     "longitude": 103.847193875,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Cecil"
   },
   {
@@ -908,7 +908,7 @@
     "count": 12,
     "latitude": 1.3085944833333334,
     "longitude": 103.85408738333332,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Farrer Court"
   },
   {
@@ -920,7 +920,7 @@
     "count": 33,
     "latitude": 1.3191403939393942,
     "longitude": 103.91190295151516,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 10,
     "subzone": "Kembangan"
   },
   {
@@ -932,7 +932,7 @@
     "count": 24,
     "latitude": 1.3105578416666668,
     "longitude": 103.86181069999998,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Bendemeer"
   },
   {
@@ -944,7 +944,7 @@
     "count": 52,
     "latitude": 1.3251418115384617,
     "longitude": 103.87790537307697,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Kallang Way"
   },
   {
@@ -956,7 +956,7 @@
     "count": 63,
     "latitude": 1.2964552506172842,
     "longitude": 103.84490275951119,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Dhoby Ghaut"
   },
   {
@@ -968,7 +968,7 @@
     "count": 41,
     "latitude": 1.3179173308943093,
     "longitude": 103.90732044715448,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Kembangan"
   },
   {
@@ -980,7 +980,7 @@
     "count": 13,
     "latitude": 1.3009291692307694,
     "longitude": 103.86003833846152,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Kampong Glam"
   },
   {
@@ -992,7 +992,7 @@
     "count": 41,
     "latitude": 1.278875082926829,
     "longitude": 103.78560578536583,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Pasir Panjang 2"
   },
   {
@@ -1004,7 +1004,7 @@
     "count": 982,
     "latitude": 1.348623100203667,
     "longitude": 103.73682625926689,
-    "number_of_charging_station": 196,
+    "number_of_charging_station": 304,
     "subzone": "Bukit Batok West"
   },
   {
@@ -1016,7 +1016,7 @@
     "count": 102,
     "latitude": 1.2788909467670413,
     "longitude": 103.83750677567694,
-    "number_of_charging_station": 20,
+    "number_of_charging_station": 32,
     "subzone": "Singapore General Hospital"
   },
   {
@@ -1028,7 +1028,7 @@
     "count": 38,
     "latitude": 1.350027857894737,
     "longitude": 103.83598443157894,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Upper Thomson"
   },
   {
@@ -1040,7 +1040,7 @@
     "count": 403,
     "latitude": 1.3479565950372214,
     "longitude": 103.70257423573203,
-    "number_of_charging_station": 81,
+    "number_of_charging_station": 125,
     "subzone": "Jurong West Central"
   },
   {
@@ -1052,7 +1052,7 @@
     "count": 137,
     "latitude": 1.2949480510948896,
     "longitude": 103.88432603211683,
-    "number_of_charging_station": 27,
+    "number_of_charging_station": 42,
     "subzone": "Tanjong Rhu"
   },
   {
@@ -1064,7 +1064,7 @@
     "count": 195,
     "latitude": 1.3901977364102565,
     "longitude": 103.98728839076927,
-    "number_of_charging_station": 39,
+    "number_of_charging_station": 60,
     "subzone": "Loyang East"
   },
   {
@@ -1076,7 +1076,7 @@
     "count": 87,
     "latitude": 1.4425885540229886,
     "longitude": 103.82346020919542,
-    "number_of_charging_station": 17,
+    "number_of_charging_station": 27,
     "subzone": "Sembawang Springs"
   },
   {
@@ -1088,7 +1088,7 @@
     "count": 21,
     "latitude": 1.2863763523809526,
     "longitude": 103.84736616190479,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Clarke Quay"
   },
   {
@@ -1100,7 +1100,7 @@
     "count": 223,
     "latitude": 1.3129052771300456,
     "longitude": 103.90059049775782,
-    "number_of_charging_station": 45,
+    "number_of_charging_station": 69,
     "subzone": "Paya Lebar East"
   },
   {
@@ -1112,7 +1112,7 @@
     "count": 5,
     "latitude": 1.3093424,
     "longitude": 103.90103208000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Katong"
   },
   {
@@ -1124,7 +1124,7 @@
     "count": 29,
     "latitude": 1.3361446108374384,
     "longitude": 103.71401037733985,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Taman Jurong"
   },
   {
@@ -1136,7 +1136,7 @@
     "count": 15,
     "latitude": 1.3326475644444444,
     "longitude": 103.89327645777779,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kampong Ubi"
   },
   {
@@ -1148,7 +1148,7 @@
     "count": 824,
     "latitude": 1.2678829774271831,
     "longitude": 103.8179956832525,
-    "number_of_charging_station": 165,
+    "number_of_charging_station": 255,
     "subzone": "Maritime Square"
   },
   {
@@ -1160,7 +1160,7 @@
     "count": 111,
     "latitude": 1.3901231909909906,
     "longitude": 103.99425297837841,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 34,
     "subzone": "Loyang East"
   },
   {
@@ -1172,7 +1172,7 @@
     "count": 183,
     "latitude": 1.3010768349726776,
     "longitude": 103.83732810491802,
-    "number_of_charging_station": 37,
+    "number_of_charging_station": 57,
     "subzone": "Somerset"
   },
   {
@@ -1184,7 +1184,7 @@
     "count": 15,
     "latitude": 1.30166652,
     "longitude": 103.85064969333335,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Selegie"
   },
   {
@@ -1196,7 +1196,7 @@
     "count": 79,
     "latitude": 1.3915492050632912,
     "longitude": 103.98953387848101,
-    "number_of_charging_station": 16,
+    "number_of_charging_station": 24,
     "subzone": "Loyang East"
   },
   {
@@ -1208,7 +1208,7 @@
     "count": 78,
     "latitude": 1.2761537615384617,
     "longitude": 103.79119748205129,
-    "number_of_charging_station": 16,
+    "number_of_charging_station": 24,
     "subzone": "Pasir Panjang 1"
   },
   {
@@ -1220,7 +1220,7 @@
     "count": 39,
     "latitude": 1.3061158769230772,
     "longitude": 103.86736927179487,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Kampong Bugis"
   },
   {
@@ -1232,7 +1232,7 @@
     "count": 26,
     "latitude": 1.312061592063492,
     "longitude": 103.79779395909647,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Leedon Park"
   },
   {
@@ -1244,7 +1244,7 @@
     "count": 97,
     "latitude": 1.3119701675339548,
     "longitude": 103.79268220291276,
-    "number_of_charging_station": 19,
+    "number_of_charging_station": 30,
     "subzone": "Holland Drive"
   },
   {
@@ -1256,7 +1256,7 @@
     "count": 117,
     "latitude": 1.3154687299145298,
     "longitude": 103.8827949777778,
-    "number_of_charging_station": 23,
+    "number_of_charging_station": 36,
     "subzone": "Aljunied"
   },
   {
@@ -1268,7 +1268,7 @@
     "count": 48,
     "latitude": 1.3906266458333334,
     "longitude": 103.99240629166665,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Loyang East"
   },
   {
@@ -1280,7 +1280,7 @@
     "count": 49,
     "latitude": 1.3899050163265307,
     "longitude": 103.9958152303207,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Loyang East"
   },
   {
@@ -1292,7 +1292,7 @@
     "count": 30,
     "latitude": 1.37233678,
     "longitude": 103.82883029999999,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Sembawang Hills"
   },
   {
@@ -1304,7 +1304,7 @@
     "count": 64,
     "latitude": 1.3768453250000003,
     "longitude": 103.74554743124997,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Keat Hong"
   },
   {
@@ -1316,7 +1316,7 @@
     "count": 22,
     "latitude": 1.3911007909090911,
     "longitude": 103.99146229090907,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Loyang East"
   },
   {
@@ -1328,7 +1328,7 @@
     "count": 45,
     "latitude": 1.2974146311111119,
     "longitude": 103.85625664000001,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Bugis"
   },
   {
@@ -1340,7 +1340,7 @@
     "count": 32,
     "latitude": 1.3074942062500001,
     "longitude": 103.85176233749999,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Little India"
   },
   {
@@ -1352,7 +1352,7 @@
     "count": 150,
     "latitude": 1.275105524,
     "longitude": 103.84801322666665,
-    "number_of_charging_station": 30,
+    "number_of_charging_station": 46,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -1364,7 +1364,7 @@
     "count": 17,
     "latitude": 1.2924047411764705,
     "longitude": 103.83072917647057,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Bukit Ho Swee"
   },
   {
@@ -1376,7 +1376,7 @@
     "count": 183,
     "latitude": 1.3141094775956288,
     "longitude": 103.86099446338804,
-    "number_of_charging_station": 37,
+    "number_of_charging_station": 57,
     "subzone": "Bendemeer"
   },
   {
@@ -1388,7 +1388,7 @@
     "count": 14,
     "latitude": 1.3077145547619047,
     "longitude": 103.90124355714286,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Katong"
   },
   {
@@ -1400,7 +1400,7 @@
     "count": 16,
     "latitude": 1.3408319749999997,
     "longitude": 103.77473404999999,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Anak Bukit"
   },
   {
@@ -1412,7 +1412,7 @@
     "count": 58,
     "latitude": 1.3318876413793101,
     "longitude": 103.86990507241381,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 18,
     "subzone": "Potong Pasir"
   },
   {
@@ -1424,7 +1424,7 @@
     "count": 10,
     "latitude": 1.31241424,
     "longitude": 103.90242917999998,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Marine Parade"
   },
   {
@@ -1448,7 +1448,7 @@
     "count": 47,
     "latitude": 1.2812031932370818,
     "longitude": 103.84391211656535,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 15,
     "subzone": "Chinatown"
   },
   {
@@ -1460,7 +1460,7 @@
     "count": 271,
     "latitude": 1.289553636162361,
     "longitude": 103.82466597785981,
-    "number_of_charging_station": 54,
+    "number_of_charging_station": 84,
     "subzone": "Bukit Ho Swee"
   },
   {
@@ -1472,7 +1472,7 @@
     "count": 234,
     "latitude": 1.3132384611518113,
     "longitude": 103.88271390968653,
-    "number_of_charging_station": 47,
+    "number_of_charging_station": 73,
     "subzone": "Aljunied"
   },
   {
@@ -1484,7 +1484,7 @@
     "count": 765,
     "latitude": 1.4474985155555562,
     "longitude": 103.77665540915041,
-    "number_of_charging_station": 153,
+    "number_of_charging_station": 237,
     "subzone": "Woodlands East"
   },
   {
@@ -1496,7 +1496,7 @@
     "count": 50,
     "latitude": 1.2963701959999994,
     "longitude": 103.84663978800003,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Victoria"
   },
   {
@@ -1508,7 +1508,7 @@
     "count": 259,
     "latitude": 1.3110714810810808,
     "longitude": 103.83968306254822,
-    "number_of_charging_station": 52,
+    "number_of_charging_station": 80,
     "subzone": "Newton Circus"
   },
   {
@@ -1520,7 +1520,7 @@
     "count": 237,
     "latitude": 1.3989882320675107,
     "longitude": 103.87301524978899,
-    "number_of_charging_station": 47,
+    "number_of_charging_station": 73,
     "subzone": "Fernvale"
   },
   {
@@ -1532,7 +1532,7 @@
     "count": 51,
     "latitude": 1.2939373215686278,
     "longitude": 103.84889754509801,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Victoria"
   },
   {
@@ -1544,7 +1544,7 @@
     "count": 55,
     "latitude": 1.3855438254545447,
     "longitude": 103.84815211999998,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Yio Chu Kang"
   },
   {
@@ -1556,7 +1556,7 @@
     "count": 41,
     "latitude": 1.3088698146341464,
     "longitude": 103.85128297560978,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Little India"
   },
   {
@@ -1568,7 +1568,7 @@
     "count": 73,
     "latitude": 1.3306634697977822,
     "longitude": 103.73790653263754,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Teban Gardens"
   },
   {
@@ -1580,7 +1580,7 @@
     "count": 17,
     "latitude": 1.3153098470588234,
     "longitude": 103.88857580000001,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Guilin"
   },
   {
@@ -1592,7 +1592,7 @@
     "count": 618,
     "latitude": 1.3622111987055008,
     "longitude": 103.93227852524276,
-    "number_of_charging_station": 124,
+    "number_of_charging_station": 192,
     "subzone": "Greenwood Park"
   },
   {
@@ -1604,7 +1604,7 @@
     "count": 32,
     "latitude": 1.3101629687499996,
     "longitude": 103.87662310000002,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Mountbatten"
   },
   {
@@ -1616,7 +1616,7 @@
     "count": 67,
     "latitude": 1.3148165232409383,
     "longitude": 103.66940694427862,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 21,
     "subzone": "Gul Circle"
   },
   {
@@ -1628,7 +1628,7 @@
     "count": 9,
     "latitude": 1.3234242,
     "longitude": 103.87771944444445,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kallang Way"
   },
   {
@@ -1640,7 +1640,7 @@
     "count": 92,
     "latitude": 1.275398786956522,
     "longitude": 103.7923926760869,
-    "number_of_charging_station": 18,
+    "number_of_charging_station": 29,
     "subzone": "Pasir Panjang 1"
   },
   {
@@ -1652,7 +1652,7 @@
     "count": 21,
     "latitude": 1.310404866666667,
     "longitude": 103.87601552380954,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Mountbatten"
   },
   {
@@ -1664,7 +1664,7 @@
     "count": 14,
     "latitude": 1.3071645142857145,
     "longitude": 103.85104228571427,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Little India"
   },
   {
@@ -1676,7 +1676,7 @@
     "count": 32,
     "latitude": 1.3141138875000005,
     "longitude": 103.87998166276043,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Aljunied"
   },
   {
@@ -1688,7 +1688,7 @@
     "count": 49,
     "latitude": 1.3137822653061224,
     "longitude": 103.87982553061222,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Aljunied"
   },
   {
@@ -1700,7 +1700,7 @@
     "count": 27,
     "latitude": 1.3307105770723102,
     "longitude": 103.7947008952381,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Hillcrest"
   },
   {
@@ -1712,7 +1712,7 @@
     "count": 24,
     "latitude": 1.3105533999999999,
     "longitude": 103.85362755833334,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Farrer Court"
   },
   {
@@ -1724,7 +1724,7 @@
     "count": 23,
     "latitude": 1.323396852173913,
     "longitude": 103.80868129565219,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Coronation Road"
   },
   {
@@ -1736,7 +1736,7 @@
     "count": 147,
     "latitude": 1.27975114111867,
     "longitude": 103.84611175578229,
-    "number_of_charging_station": 29,
+    "number_of_charging_station": 46,
     "subzone": "Cecil"
   },
   {
@@ -1748,7 +1748,7 @@
     "count": 14,
     "latitude": 1.3126348571428572,
     "longitude": 103.85883624285715,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Bendemeer"
   },
   {
@@ -1760,7 +1760,7 @@
     "count": 161,
     "latitude": 1.324610027122153,
     "longitude": 103.69143272339548,
-    "number_of_charging_station": 32,
+    "number_of_charging_station": 50,
     "subzone": "Kian Teck"
   },
   {
@@ -1772,7 +1772,7 @@
     "count": 38,
     "latitude": 1.307226579824561,
     "longitude": 103.85441243157895,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Sungei Road"
   },
   {
@@ -1784,7 +1784,7 @@
     "count": 142,
     "latitude": 1.3150954408450706,
     "longitude": 103.8832524704225,
-    "number_of_charging_station": 28,
+    "number_of_charging_station": 44,
     "subzone": "Aljunied"
   },
   {
@@ -1796,7 +1796,7 @@
     "count": 52,
     "latitude": 1.3111194346153847,
     "longitude": 103.87918309230767,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Mountbatten"
   },
   {
@@ -1808,7 +1808,7 @@
     "count": 103,
     "latitude": 1.3837297687008785,
     "longitude": 103.82874671007862,
-    "number_of_charging_station": 21,
+    "number_of_charging_station": 32,
     "subzone": "Tagore"
   },
   {
@@ -1820,7 +1820,7 @@
     "count": 36,
     "latitude": 1.3323219,
     "longitude": 103.8838475833333,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Joo Seng"
   },
   {
@@ -1832,7 +1832,7 @@
     "count": 26,
     "latitude": 1.3130201769230767,
     "longitude": 103.92646688461538,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Frankel"
   },
   {
@@ -1844,7 +1844,7 @@
     "count": 47,
     "latitude": 1.4543405010131711,
     "longitude": 103.80509095785209,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 15,
     "subzone": "Admiralty"
   },
   {
@@ -1856,7 +1856,7 @@
     "count": 57,
     "latitude": 1.312431596491228,
     "longitude": 103.88399439298247,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 18,
     "subzone": "Aljunied"
   },
   {
@@ -1868,7 +1868,7 @@
     "count": 26,
     "latitude": 1.3107480666666667,
     "longitude": 103.87841547307693,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Mountbatten"
   },
   {
@@ -1880,7 +1880,7 @@
     "count": 35,
     "latitude": 1.310750874285714,
     "longitude": 103.87713593714284,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Mountbatten"
   },
   {
@@ -1892,7 +1892,7 @@
     "count": 12,
     "latitude": 1.3128599166666666,
     "longitude": 103.87641198333334,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Geylang Bahru"
   },
   {
@@ -1904,7 +1904,7 @@
     "count": 90,
     "latitude": 1.3856805901587306,
     "longitude": 103.82802925957672,
-    "number_of_charging_station": 18,
+    "number_of_charging_station": 28,
     "subzone": "Tagore"
   },
   {
@@ -1916,7 +1916,7 @@
     "count": 149,
     "latitude": 1.3084002657718117,
     "longitude": 103.65022966845639,
-    "number_of_charging_station": 30,
+    "number_of_charging_station": 46,
     "subzone": "Gul Circle"
   },
   {
@@ -1928,7 +1928,7 @@
     "count": 176,
     "latitude": 1.4609808534090911,
     "longitude": 103.81496325795452,
-    "number_of_charging_station": 35,
+    "number_of_charging_station": 55,
     "subzone": "Sembawang Central"
   },
   {
@@ -1940,7 +1940,7 @@
     "count": 20,
     "latitude": 1.3035636600000002,
     "longitude": 103.8495782,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Selegie"
   },
   {
@@ -1952,7 +1952,7 @@
     "count": 25,
     "latitude": 1.3120642560000002,
     "longitude": 103.88331604799998,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Aljunied"
   },
   {
@@ -1964,7 +1964,7 @@
     "count": 25,
     "latitude": 1.3196026020952383,
     "longitude": 103.91245964723808,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Kembangan"
   },
   {
@@ -1976,7 +1976,7 @@
     "count": 24,
     "latitude": 1.307880736111111,
     "longitude": 103.86597125416667,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Kampong Bugis"
   },
   {
@@ -1988,7 +1988,7 @@
     "count": 40,
     "latitude": 1.3144845542857149,
     "longitude": 103.88304740357145,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Aljunied"
   },
   {
@@ -2000,7 +2000,7 @@
     "count": 68,
     "latitude": 1.3255892591036413,
     "longitude": 103.70087990840332,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 21,
     "subzone": "Kian Teck"
   },
   {
@@ -2012,7 +2012,7 @@
     "count": 225,
     "latitude": 1.3926970604444435,
     "longitude": 103.75363439377774,
-    "number_of_charging_station": 45,
+    "number_of_charging_station": 70,
     "subzone": "Yew Tee"
   },
   {
@@ -2024,7 +2024,7 @@
     "count": 31,
     "latitude": 1.3448635999999998,
     "longitude": 103.8711196451613,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Woodleigh"
   },
   {
@@ -2036,7 +2036,7 @@
     "count": 5,
     "latitude": 1.3112852,
     "longitude": 103.84505483999999,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kampong Java"
   },
   {
@@ -2048,7 +2048,7 @@
     "count": 154,
     "latitude": 1.2775993402597403,
     "longitude": 103.8453685051948,
-    "number_of_charging_station": 31,
+    "number_of_charging_station": 48,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -2060,7 +2060,7 @@
     "count": 6,
     "latitude": 1.3058450666666666,
     "longitude": 103.84882086666666,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Mackenzie"
   },
   {
@@ -2072,7 +2072,7 @@
     "count": 43,
     "latitude": 1.4482096471391657,
     "longitude": 103.7751080713178,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 13,
     "subzone": "Woodlands East"
   },
   {
@@ -2084,7 +2084,7 @@
     "count": 21,
     "latitude": 1.3131023333333334,
     "longitude": 103.87752992380952,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Aljunied"
   },
   {
@@ -2096,7 +2096,7 @@
     "count": 24,
     "latitude": 1.3349000249999998,
     "longitude": 103.90412063333333,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Kaki Bukit"
   },
   {
@@ -2108,7 +2108,7 @@
     "count": 11,
     "latitude": 1.3095489636363637,
     "longitude": 103.90172283636366,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Katong"
   },
   {
@@ -2120,7 +2120,7 @@
     "count": 17,
     "latitude": 1.3774965999999997,
     "longitude": 103.82802144705884,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Sembawang Hills"
   },
   {
@@ -2132,7 +2132,7 @@
     "count": 57,
     "latitude": 1.3598272070175441,
     "longitude": 103.91044834385961,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 18,
     "subzone": "Upper Paya Lebar"
   },
   {
@@ -2144,7 +2144,7 @@
     "count": 257,
     "latitude": 1.3500800638132293,
     "longitude": 103.76150006536969,
-    "number_of_charging_station": 51,
+    "number_of_charging_station": 80,
     "subzone": "Bukit Batok East"
   },
   {
@@ -2156,7 +2156,7 @@
     "count": 26,
     "latitude": 1.3132876734432237,
     "longitude": 103.87825411336995,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Aljunied"
   },
   {
@@ -2168,7 +2168,7 @@
     "count": 25,
     "latitude": 1.3147228639999997,
     "longitude": 103.885831624,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Aljunied"
   },
   {
@@ -2180,7 +2180,7 @@
     "count": 49,
     "latitude": 1.315847624489796,
     "longitude": 103.89132045714287,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Guilin"
   },
   {
@@ -2192,7 +2192,7 @@
     "count": 18,
     "latitude": 1.312185575925926,
     "longitude": 103.88484900555555,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Aljunied"
   },
   {
@@ -2204,7 +2204,7 @@
     "count": 109,
     "latitude": 1.3777451078200087,
     "longitude": 103.97242349641763,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 34,
     "subzone": "Loyang East"
   },
   {
@@ -2216,7 +2216,7 @@
     "count": 84,
     "latitude": 1.372774252380952,
     "longitude": 103.96838313809522,
-    "number_of_charging_station": 17,
+    "number_of_charging_station": 26,
     "subzone": "Loyang East"
   },
   {
@@ -2228,7 +2228,7 @@
     "count": 17,
     "latitude": 1.3260978352941175,
     "longitude": 103.85129372941176,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Boon Teck"
   },
   {
@@ -2240,7 +2240,7 @@
     "count": 25,
     "latitude": 1.325580504,
     "longitude": 103.668987136,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Joo Koon"
   },
   {
@@ -2252,7 +2252,7 @@
     "count": 22,
     "latitude": 1.3144794181818182,
     "longitude": 103.88474029090908,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Aljunied"
   },
   {
@@ -2264,7 +2264,7 @@
     "count": 17,
     "latitude": 1.3146419294117648,
     "longitude": 103.8869517882353,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Guilin"
   },
   {
@@ -2276,7 +2276,7 @@
     "count": 39,
     "latitude": 1.4544635324786326,
     "longitude": 103.79732861794874,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Admiralty"
   },
   {
@@ -2288,7 +2288,7 @@
     "count": 792,
     "latitude": 1.444377818686871,
     "longitude": 103.84068920959601,
-    "number_of_charging_station": 158,
+    "number_of_charging_station": 246,
     "subzone": "Sembawang Straits"
   },
   {
@@ -2300,7 +2300,7 @@
     "count": 139,
     "latitude": 1.3148797553956835,
     "longitude": 103.85859233980814,
-    "number_of_charging_station": 28,
+    "number_of_charging_station": 43,
     "subzone": "Bendemeer"
   },
   {
@@ -2312,7 +2312,7 @@
     "count": 112,
     "latitude": 1.2802865306547613,
     "longitude": 103.84744631369043,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 35,
     "subzone": "Cecil"
   },
   {
@@ -2324,7 +2324,7 @@
     "count": 10,
     "latitude": 1.4494384000000002,
     "longitude": 103.79942418,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Admiralty"
   },
   {
@@ -2336,7 +2336,7 @@
     "count": 60,
     "latitude": 1.3129053000000002,
     "longitude": 103.89911259166666,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Paya Lebar East"
   },
   {
@@ -2360,7 +2360,7 @@
     "count": 25,
     "latitude": 1.309290416,
     "longitude": 103.912061016,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Marine Parade"
   },
   {
@@ -2372,7 +2372,7 @@
     "count": 6,
     "latitude": 1.3543357,
     "longitude": 103.8764849,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Serangoon Central"
   },
   {
@@ -2384,7 +2384,7 @@
     "count": 56,
     "latitude": 1.30211795,
     "longitude": 103.8598674535714,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Kampong Glam"
   },
   {
@@ -2396,7 +2396,7 @@
     "count": 79,
     "latitude": 1.4529975721518986,
     "longitude": 103.80755640506331,
-    "number_of_charging_station": 16,
+    "number_of_charging_station": 24,
     "subzone": "Sembawang Central"
   },
   {
@@ -2408,7 +2408,7 @@
     "count": 16,
     "latitude": 1.3769999375000002,
     "longitude": 103.8279946,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Sembawang Hills"
   },
   {
@@ -2420,7 +2420,7 @@
     "count": 39,
     "latitude": 1.2703289641025641,
     "longitude": 103.81371885641028,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Telok Blangah Drive"
   },
   {
@@ -2432,7 +2432,7 @@
     "count": 153,
     "latitude": 1.324508277124183,
     "longitude": 103.7400166941177,
-    "number_of_charging_station": 31,
+    "number_of_charging_station": 47,
     "subzone": "Teban Gardens"
   },
   {
@@ -2444,7 +2444,7 @@
     "count": 321,
     "latitude": 1.3658305102803738,
     "longitude": 103.77618209906538,
-    "number_of_charging_station": 64,
+    "number_of_charging_station": 100,
     "subzone": "Dairy Farm"
   },
   {
@@ -2456,7 +2456,7 @@
     "count": 13,
     "latitude": 1.3732530769230766,
     "longitude": 103.8300077846154,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Sembawang Hills"
   },
   {
@@ -2468,7 +2468,7 @@
     "count": 26,
     "latitude": 1.364711265934066,
     "longitude": 103.86539140549449,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Serangoon Garden"
   },
   {
@@ -2480,7 +2480,7 @@
     "count": 73,
     "latitude": 1.2740633558599697,
     "longitude": 103.80517722343988,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Alexandra Hill"
   },
   {
@@ -2492,7 +2492,7 @@
     "count": 15,
     "latitude": 1.3123870266666668,
     "longitude": 103.87587786666668,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Geylang Bahru"
   },
   {
@@ -2504,7 +2504,7 @@
     "count": 73,
     "latitude": 1.318616561643835,
     "longitude": 103.90990027397257,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Kembangan"
   },
   {
@@ -2516,7 +2516,7 @@
     "count": 303,
     "latitude": 1.3824104475247527,
     "longitude": 103.75903977821785,
-    "number_of_charging_station": 61,
+    "number_of_charging_station": 94,
     "subzone": "Senja"
   },
   {
@@ -2528,7 +2528,7 @@
     "count": 30,
     "latitude": 1.46806908,
     "longitude": 103.80905542666666,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Sembawang Central"
   },
   {
@@ -2540,7 +2540,7 @@
     "count": 46,
     "latitude": 1.4562104565217397,
     "longitude": 103.8030621521739,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Admiralty"
   },
   {
@@ -2552,7 +2552,7 @@
     "count": 115,
     "latitude": 1.299709118260869,
     "longitude": 103.75170997565218,
-    "number_of_charging_station": 23,
+    "number_of_charging_station": 36,
     "subzone": "Clementi Woods"
   },
   {
@@ -2564,7 +2564,7 @@
     "count": 36,
     "latitude": 1.334475011111111,
     "longitude": 103.90207182222224,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Kaki Bukit"
   },
   {
@@ -2576,7 +2576,7 @@
     "count": 38,
     "latitude": 1.3146551578947365,
     "longitude": 103.88309429473684,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Aljunied"
   },
   {
@@ -2588,7 +2588,7 @@
     "count": 90,
     "latitude": 1.2903467999999998,
     "longitude": 103.8003355266667,
-    "number_of_charging_station": 18,
+    "number_of_charging_station": 28,
     "subzone": "Mei Chin"
   },
   {
@@ -2600,7 +2600,7 @@
     "count": 28,
     "latitude": 1.285496557142857,
     "longitude": 103.83473165,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Pearl's Hill"
   },
   {
@@ -2612,7 +2612,7 @@
     "count": 83,
     "latitude": 1.3145230890992539,
     "longitude": 103.85639968382104,
-    "number_of_charging_station": 17,
+    "number_of_charging_station": 26,
     "subzone": "Farrer Court"
   },
   {
@@ -2624,7 +2624,7 @@
     "count": 24,
     "latitude": 1.312915125,
     "longitude": 103.88785239166664,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Guilin"
   },
   {
@@ -2636,7 +2636,7 @@
     "count": 5,
     "latitude": 1.30297552,
     "longitude": 103.87686984,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Tanjong Rhu"
   },
   {
@@ -2648,7 +2648,7 @@
     "count": 384,
     "latitude": 1.3627660291666668,
     "longitude": 103.89699916562502,
-    "number_of_charging_station": 77,
+    "number_of_charging_station": 119,
     "subzone": "Hougang Central"
   },
   {
@@ -2660,7 +2660,7 @@
     "count": 85,
     "latitude": 1.3160818984313725,
     "longitude": 103.85327040509806,
-    "number_of_charging_station": 17,
+    "number_of_charging_station": 26,
     "subzone": "Farrer Court"
   },
   {
@@ -2672,7 +2672,7 @@
     "count": 527,
     "latitude": 1.3567604755218226,
     "longitude": 103.7096508941178,
-    "number_of_charging_station": 105,
+    "number_of_charging_station": 163,
     "subzone": "Boon Lay Place"
   },
   {
@@ -2684,7 +2684,7 @@
     "count": 571,
     "latitude": 1.391025653940455,
     "longitude": 103.86297196777586,
-    "number_of_charging_station": 114,
+    "number_of_charging_station": 177,
     "subzone": "Seletar Hills"
   },
   {
@@ -2696,7 +2696,7 @@
     "count": 20,
     "latitude": 1.3140193116666667,
     "longitude": 103.81978452000001,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Tyersall"
   },
   {
@@ -2708,7 +2708,7 @@
     "count": 9,
     "latitude": 1.3181468,
     "longitude": 103.90659046666666,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kembangan"
   },
   {
@@ -2720,7 +2720,7 @@
     "count": 58,
     "latitude": 1.450769696551724,
     "longitude": 103.79345702413791,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 18,
     "subzone": "Admiralty"
   },
   {
@@ -2732,7 +2732,7 @@
     "count": 448,
     "latitude": 1.3726858495535716,
     "longitude": 103.93614824107145,
-    "number_of_charging_station": 90,
+    "number_of_charging_station": 139,
     "subzone": "Pasir Ris Drive"
   },
   {
@@ -2744,7 +2744,7 @@
     "count": 23,
     "latitude": 1.3289070782608696,
     "longitude": 103.86968055652171,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Potong Pasir"
   },
   {
@@ -2756,7 +2756,7 @@
     "count": 51,
     "latitude": 1.4116886235294117,
     "longitude": 103.86972188235293,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Seletar Aerospace Park"
   },
   {
@@ -2768,7 +2768,7 @@
     "count": 41,
     "latitude": 1.3068795658536587,
     "longitude": 103.66205074146337,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Gul Circle"
   },
   {
@@ -2780,7 +2780,7 @@
     "count": 294,
     "latitude": 1.3636160503401362,
     "longitude": 103.9029233768707,
-    "number_of_charging_station": 59,
+    "number_of_charging_station": 91,
     "subzone": "Hougang Central"
   },
   {
@@ -2792,7 +2792,7 @@
     "count": 187,
     "latitude": 1.2974400427807493,
     "longitude": 103.6651074631016,
-    "number_of_charging_station": 37,
+    "number_of_charging_station": 58,
     "subzone": "Gul Circle"
   },
   {
@@ -2804,7 +2804,7 @@
     "count": 22,
     "latitude": 1.3244421090909089,
     "longitude": 103.81415655454545,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Tyersall"
   },
   {
@@ -2816,7 +2816,7 @@
     "count": 73,
     "latitude": 1.3174643123287673,
     "longitude": 103.62823738630138,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Tuas Bay"
   },
   {
@@ -2828,7 +2828,7 @@
     "count": 77,
     "latitude": 1.3592356805194812,
     "longitude": 103.85291778701297,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 24,
     "subzone": "Townsville"
   },
   {
@@ -2840,7 +2840,7 @@
     "count": 137,
     "latitude": 1.3857385097323598,
     "longitude": 103.82856400608273,
-    "number_of_charging_station": 27,
+    "number_of_charging_station": 42,
     "subzone": "Tagore"
   },
   {
@@ -2852,7 +2852,7 @@
     "count": 43,
     "latitude": 1.2964176558139535,
     "longitude": 103.8474891255814,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 13,
     "subzone": "Victoria"
   },
   {
@@ -2864,7 +2864,7 @@
     "count": 27,
     "latitude": 1.3132642962962964,
     "longitude": 103.84197723703703,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Newton Circus"
   },
   {
@@ -2876,7 +2876,7 @@
     "count": 55,
     "latitude": 1.326796578181818,
     "longitude": 103.87389848363635,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Kallang Way"
   },
   {
@@ -2888,7 +2888,7 @@
     "count": 5,
     "latitude": 1.3041702000000002,
     "longitude": 103.84942432,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Mackenzie"
   },
   {
@@ -2900,7 +2900,7 @@
     "count": 77,
     "latitude": 1.4536471272727276,
     "longitude": 103.83317824675326,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 24,
     "subzone": "Sembawang Straits"
   },
   {
@@ -2912,7 +2912,7 @@
     "count": 17,
     "latitude": 1.3118655176470586,
     "longitude": 103.7966912117647,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Holland Drive"
   },
   {
@@ -2924,7 +2924,7 @@
     "count": 24,
     "latitude": 1.3128984666666668,
     "longitude": 103.886290175,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Guilin"
   },
   {
@@ -2936,7 +2936,7 @@
     "count": 10,
     "latitude": 1.3044324600000001,
     "longitude": 103.85444694,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Sungei Road"
   },
   {
@@ -2948,7 +2948,7 @@
     "count": 11,
     "latitude": 1.304143181818182,
     "longitude": 103.85411907272727,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Sungei Road"
   },
   {
@@ -2960,7 +2960,7 @@
     "count": 32,
     "latitude": 1.3149419312500001,
     "longitude": 103.88380405624997,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Aljunied"
   },
   {
@@ -2972,7 +2972,7 @@
     "count": 17,
     "latitude": 1.3673259882352942,
     "longitude": 103.92913112941176,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Upper Paya Lebar"
   },
   {
@@ -2984,7 +2984,7 @@
     "count": 16,
     "latitude": 1.3390137517857141,
     "longitude": 103.9062804892857,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kaki Bukit"
   },
   {
@@ -2996,7 +2996,7 @@
     "count": 563,
     "latitude": 1.313213196802842,
     "longitude": 103.68348538046173,
-    "number_of_charging_station": 113,
+    "number_of_charging_station": 175,
     "subzone": "Joo Koon"
   },
   {
@@ -3008,7 +3008,7 @@
     "count": 23,
     "latitude": 1.3041581217391303,
     "longitude": 103.73676562608696,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Jurong River"
   },
   {
@@ -3020,7 +3020,7 @@
     "count": 30,
     "latitude": 1.312633093333333,
     "longitude": 103.88694171333334,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Guilin"
   },
   {
@@ -3032,7 +3032,7 @@
     "count": 20,
     "latitude": 1.3120230999999998,
     "longitude": 103.92265069,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Frankel"
   },
   {
@@ -3044,7 +3044,7 @@
     "count": 304,
     "latitude": 1.3106927144736844,
     "longitude": 103.79323451973684,
-    "number_of_charging_station": 61,
+    "number_of_charging_station": 94,
     "subzone": "Holland Drive"
   },
   {
@@ -3056,7 +3056,7 @@
     "count": 21,
     "latitude": 1.3360629428571429,
     "longitude": 103.88675446666664,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Tai Seng"
   },
   {
@@ -3068,7 +3068,7 @@
     "count": 54,
     "latitude": 1.4499853231922393,
     "longitude": 103.79884344969135,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Admiralty"
   },
   {
@@ -3080,7 +3080,7 @@
     "count": 112,
     "latitude": 1.344652564285714,
     "longitude": 103.85770637678571,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 35,
     "subzone": "Lorong 8 Toa Payoh"
   },
   {
@@ -3092,7 +3092,7 @@
     "count": 14,
     "latitude": 1.3378836285714286,
     "longitude": 103.89369234761907,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Tai Seng"
   },
   {
@@ -3104,7 +3104,7 @@
     "count": 48,
     "latitude": 1.2985422416666668,
     "longitude": 103.80703036249999,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Margaret Drive"
   },
   {
@@ -3128,7 +3128,7 @@
     "count": 41,
     "latitude": 1.3297064878048783,
     "longitude": 103.8736979121951,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Sennett"
   },
   {
@@ -3140,7 +3140,7 @@
     "count": 38,
     "latitude": 1.3127033210526315,
     "longitude": 103.88554776842105,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Aljunied"
   },
   {
@@ -3152,7 +3152,7 @@
     "count": 69,
     "latitude": 1.3048847623188407,
     "longitude": 103.85366308405796,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 21,
     "subzone": "Sungei Road"
   },
   {
@@ -3164,7 +3164,7 @@
     "count": 35,
     "latitude": 1.3648589085714287,
     "longitude": 103.86618254285715,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Serangoon Garden"
   },
   {
@@ -3176,7 +3176,7 @@
     "count": 208,
     "latitude": 1.322616225,
     "longitude": 103.89305712307691,
-    "number_of_charging_station": 42,
+    "number_of_charging_station": 64,
     "subzone": "Macpherson"
   },
   {
@@ -3188,7 +3188,7 @@
     "count": 25,
     "latitude": 1.289432552,
     "longitude": 103.769125936,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Clementi Woods"
   },
   {
@@ -3200,7 +3200,7 @@
     "count": 32,
     "latitude": 1.2802040749999999,
     "longitude": 103.84798825625,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Cecil"
   },
   {
@@ -3212,7 +3212,7 @@
     "count": 78,
     "latitude": 1.3099713025641027,
     "longitude": 103.86200264059828,
-    "number_of_charging_station": 16,
+    "number_of_charging_station": 24,
     "subzone": "Lavender"
   },
   {
@@ -3224,7 +3224,7 @@
     "count": 11,
     "latitude": 1.3300826181818182,
     "longitude": 103.8703046909091,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Potong Pasir"
   },
   {
@@ -3236,7 +3236,7 @@
     "count": 24,
     "latitude": 1.2846387666666665,
     "longitude": 103.84977049166666,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Boat Quay"
   },
   {
@@ -3248,7 +3248,7 @@
     "count": 105,
     "latitude": 1.3021527790476193,
     "longitude": 103.8582629180952,
-    "number_of_charging_station": 21,
+    "number_of_charging_station": 33,
     "subzone": "Kampong Glam"
   },
   {
@@ -3260,7 +3260,7 @@
     "count": 59,
     "latitude": 1.27951546779661,
     "longitude": 103.84326428813559,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 18,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -3272,7 +3272,7 @@
     "count": 11,
     "latitude": 1.3096794272727275,
     "longitude": 103.85850513030302,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Rochor Canal"
   },
   {
@@ -3284,7 +3284,7 @@
     "count": 20,
     "latitude": 1.3014406400000003,
     "longitude": 103.86013449000002,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Kampong Glam"
   },
   {
@@ -3296,7 +3296,7 @@
     "count": 30,
     "latitude": 1.2945116600000002,
     "longitude": 103.84354366888891,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Fort Canning"
   },
   {
@@ -3308,7 +3308,7 @@
     "count": 73,
     "latitude": 1.3326338082191782,
     "longitude": 103.63812512876711,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Tuas Bay"
   },
   {
@@ -3320,7 +3320,7 @@
     "count": 18,
     "latitude": 1.3077605666666665,
     "longitude": 103.85837655740741,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Rochor Canal"
   },
   {
@@ -3332,7 +3332,7 @@
     "count": 37,
     "latitude": 1.3040289783783785,
     "longitude": 103.79546071351352,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Commonwealth"
   },
   {
@@ -3344,7 +3344,7 @@
     "count": 32,
     "latitude": 1.2881049875000004,
     "longitude": 103.84782272499999,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Clarke Quay"
   },
   {
@@ -3356,7 +3356,7 @@
     "count": 76,
     "latitude": 1.4534587105263157,
     "longitude": 103.79648989210527,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 24,
     "subzone": "Admiralty"
   },
   {
@@ -3368,7 +3368,7 @@
     "count": 13,
     "latitude": 1.313956,
     "longitude": 103.87959389230767,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Aljunied"
   },
   {
@@ -3380,7 +3380,7 @@
     "count": 38,
     "latitude": 1.3136838894736849,
     "longitude": 103.87917370526311,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Aljunied"
   },
   {
@@ -3392,7 +3392,7 @@
     "count": 19,
     "latitude": 1.3254854631578945,
     "longitude": 103.87957786315788,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Kallang Way"
   },
   {
@@ -3404,7 +3404,7 @@
     "count": 172,
     "latitude": 1.30368156744186,
     "longitude": 103.65636188837212,
-    "number_of_charging_station": 34,
+    "number_of_charging_station": 53,
     "subzone": "Gul Circle"
   },
   {
@@ -3428,7 +3428,7 @@
     "count": 61,
     "latitude": 1.282894993442623,
     "longitude": 103.84410814754098,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Chinatown"
   },
   {
@@ -3440,7 +3440,7 @@
     "count": 62,
     "latitude": 1.3122739774193548,
     "longitude": 103.8581566548387,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Farrer Court"
   },
   {
@@ -3452,7 +3452,7 @@
     "count": 15,
     "latitude": 1.2977280399999997,
     "longitude": 103.84387934666665,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Dhoby Ghaut"
   },
   {
@@ -3464,7 +3464,7 @@
     "count": 18,
     "latitude": 1.304656322222222,
     "longitude": 103.83896827777778,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Cairnhill"
   },
   {
@@ -3476,7 +3476,7 @@
     "count": 74,
     "latitude": 1.3318894139639639,
     "longitude": 103.8942389153153,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Kampong Ubi"
   },
   {
@@ -3488,7 +3488,7 @@
     "count": 36,
     "latitude": 1.3275357833333339,
     "longitude": 103.87758609444445,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Kallang Way"
   },
   {
@@ -3500,7 +3500,7 @@
     "count": 16,
     "latitude": 1.3191265125,
     "longitude": 103.90953489999998,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kembangan"
   },
   {
@@ -3512,7 +3512,7 @@
     "count": 24,
     "latitude": 1.2869939166666666,
     "longitude": 103.84843869166667,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Boat Quay"
   },
   {
@@ -3524,7 +3524,7 @@
     "count": 17,
     "latitude": 1.2931030705882354,
     "longitude": 103.78854310588238,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kent Ridge"
   },
   {
@@ -3536,7 +3536,7 @@
     "count": 121,
     "latitude": 1.275691155371901,
     "longitude": 103.83505395867775,
-    "number_of_charging_station": 24,
+    "number_of_charging_station": 38,
     "subzone": "Kampong Tiong Bahru"
   },
   {
@@ -3548,7 +3548,7 @@
     "count": 245,
     "latitude": 1.294140937959185,
     "longitude": 103.67192558775515,
-    "number_of_charging_station": 49,
+    "number_of_charging_station": 76,
     "subzone": "Samulun"
   },
   {
@@ -3560,7 +3560,7 @@
     "count": 41,
     "latitude": 1.309390441463415,
     "longitude": 103.86170757886181,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Lavender"
   },
   {
@@ -3572,7 +3572,7 @@
     "count": 21,
     "latitude": 1.3249594000000002,
     "longitude": 103.8467612857143,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Balestier"
   },
   {
@@ -3584,7 +3584,7 @@
     "count": 56,
     "latitude": 1.3024400214285714,
     "longitude": 103.86065638571431,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Kampong Glam"
   },
   {
@@ -3596,7 +3596,7 @@
     "count": 50,
     "latitude": 1.296497692,
     "longitude": 103.855178428,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Bugis"
   },
   {
@@ -3608,7 +3608,7 @@
     "count": 44,
     "latitude": 1.3052235999999997,
     "longitude": 103.90225757727275,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Katong"
   },
   {
@@ -3620,7 +3620,7 @@
     "count": 16,
     "latitude": 1.3202748,
     "longitude": 103.653726425,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Gul Circle"
   },
   {
@@ -3632,7 +3632,7 @@
     "count": 16,
     "latitude": 1.3143642875,
     "longitude": 103.87749002500003,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Aljunied"
   },
   {
@@ -3644,7 +3644,7 @@
     "count": 27,
     "latitude": 1.297011725925926,
     "longitude": 103.84439274074073,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Dhoby Ghaut"
   },
   {
@@ -3656,7 +3656,7 @@
     "count": 34,
     "latitude": 1.3351079176470588,
     "longitude": 103.9707163,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Xilin"
   },
   {
@@ -3668,7 +3668,7 @@
     "count": 7,
     "latitude": 1.3508915142857145,
     "longitude": 103.83659265714284,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Upper Thomson"
   },
   {
@@ -3680,7 +3680,7 @@
     "count": 9,
     "latitude": 1.3063580222222224,
     "longitude": 103.84738746666667,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Mount Emily"
   },
   {
@@ -3692,7 +3692,7 @@
     "count": 86,
     "latitude": 1.3249431542839474,
     "longitude": 103.88508350388807,
-    "number_of_charging_station": 17,
+    "number_of_charging_station": 27,
     "subzone": "Macpherson"
   },
   {
@@ -3704,7 +3704,7 @@
     "count": 21,
     "latitude": 1.312788361904762,
     "longitude": 103.73168700952381,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Penjuru Crescent"
   },
   {
@@ -3716,7 +3716,7 @@
     "count": 10,
     "latitude": 1.3223531599999998,
     "longitude": 103.84982769999999,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Moulmein"
   },
   {
@@ -3728,7 +3728,7 @@
     "count": 24,
     "latitude": 1.3080378083333333,
     "longitude": 103.76383954999999,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Clementi Central"
   },
   {
@@ -3740,7 +3740,7 @@
     "count": 17,
     "latitude": 1.323589082352941,
     "longitude": 103.87744835294116,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kallang Way"
   },
   {
@@ -3752,7 +3752,7 @@
     "count": 73,
     "latitude": 1.3025952109589038,
     "longitude": 103.86086742191785,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Kampong Glam"
   },
   {
@@ -3764,7 +3764,7 @@
     "count": 28,
     "latitude": 1.2928812285714284,
     "longitude": 103.84005647857144,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Robertson Quay"
   },
   {
@@ -3776,7 +3776,7 @@
     "count": 38,
     "latitude": 1.290229105263158,
     "longitude": 103.81120876315791,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Redhill"
   },
   {
@@ -3788,7 +3788,7 @@
     "count": 16,
     "latitude": 1.3329089095238096,
     "longitude": 103.89765989880952,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kampong Ubi"
   },
   {
@@ -3800,7 +3800,7 @@
     "count": 17,
     "latitude": 1.3271292268907564,
     "longitude": 103.89559505042018,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kampong Ubi"
   },
   {
@@ -3812,7 +3812,7 @@
     "count": 5,
     "latitude": 1.33378732,
     "longitude": 103.74886668000002,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Jurong Gateway"
   },
   {
@@ -3824,7 +3824,7 @@
     "count": 142,
     "latitude": 1.4432548764587527,
     "longitude": 103.83349837203218,
-    "number_of_charging_station": 28,
+    "number_of_charging_station": 44,
     "subzone": "Sembawang Springs"
   },
   {
@@ -3836,7 +3836,7 @@
     "count": 89,
     "latitude": 1.3069013363295878,
     "longitude": 103.90732299925091,
-    "number_of_charging_station": 18,
+    "number_of_charging_station": 28,
     "subzone": "Marine Parade"
   },
   {
@@ -3848,7 +3848,7 @@
     "count": 22,
     "latitude": 1.3236773636363637,
     "longitude": 103.85321210909092,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Boon Teck"
   },
   {
@@ -3860,7 +3860,7 @@
     "count": 5,
     "latitude": 1.3644511600000002,
     "longitude": 103.8644184,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Serangoon Garden"
   },
   {
@@ -3884,7 +3884,7 @@
     "count": 41,
     "latitude": 1.3341332829268293,
     "longitude": 103.71557231707318,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Taman Jurong"
   },
   {
@@ -3896,7 +3896,7 @@
     "count": 18,
     "latitude": 1.3092692111111108,
     "longitude": 103.79833002222223,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Holland Drive"
   },
   {
@@ -3920,7 +3920,7 @@
     "count": 21,
     "latitude": 1.286398373015873,
     "longitude": 103.84816349047621,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Boat Quay"
   },
   {
@@ -3932,7 +3932,7 @@
     "count": 42,
     "latitude": 1.4484194285095862,
     "longitude": 103.80814171838107,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Admiralty"
   },
   {
@@ -3944,7 +3944,7 @@
     "count": 91,
     "latitude": 1.2786688043956047,
     "longitude": 103.84728299560439,
-    "number_of_charging_station": 18,
+    "number_of_charging_station": 28,
     "subzone": "Cecil"
   },
   {
@@ -3956,7 +3956,7 @@
     "count": 10,
     "latitude": 1.3458728800000004,
     "longitude": 103.87243753999999,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Woodleigh"
   },
   {
@@ -3968,7 +3968,7 @@
     "count": 123,
     "latitude": 1.3116090439024393,
     "longitude": 103.90078607642276,
-    "number_of_charging_station": 25,
+    "number_of_charging_station": 38,
     "subzone": "Paya Lebar East"
   },
   {
@@ -3980,7 +3980,7 @@
     "count": 24,
     "latitude": 1.3330626083333335,
     "longitude": 103.97054885,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Xilin"
   },
   {
@@ -3992,7 +3992,7 @@
     "count": 66,
     "latitude": 1.3352234010101014,
     "longitude": 103.8421448227273,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Toa Payoh West"
   },
   {
@@ -4004,7 +4004,7 @@
     "count": 60,
     "latitude": 1.2980680533333333,
     "longitude": 103.85636374666667,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Bugis"
   },
   {
@@ -4016,7 +4016,7 @@
     "count": 18,
     "latitude": 1.3041523222222222,
     "longitude": 103.85991701111112,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Rochor Canal"
   },
   {
@@ -4028,7 +4028,7 @@
     "count": 88,
     "latitude": 1.3014332363636365,
     "longitude": 103.85109653181817,
-    "number_of_charging_station": 18,
+    "number_of_charging_station": 27,
     "subzone": "Selegie"
   },
   {
@@ -4040,7 +4040,7 @@
     "count": 13,
     "latitude": 1.327520123076923,
     "longitude": 103.7626274,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Toh Tuck"
   },
   {
@@ -4052,7 +4052,7 @@
     "count": 52,
     "latitude": 1.3876308173076923,
     "longitude": 103.82682893397438,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Tagore"
   },
   {
@@ -4064,7 +4064,7 @@
     "count": 17,
     "latitude": 1.3322533047619047,
     "longitude": 103.89958943725487,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kaki Bukit"
   },
   {
@@ -4076,7 +4076,7 @@
     "count": 19,
     "latitude": 1.303782557894737,
     "longitude": 103.85942325263157,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Rochor Canal"
   },
   {
@@ -4088,7 +4088,7 @@
     "count": 43,
     "latitude": 1.2761508976744187,
     "longitude": 103.83620812093025,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 13,
     "subzone": "Kampong Tiong Bahru"
   },
   {
@@ -4100,7 +4100,7 @@
     "count": 57,
     "latitude": 1.3063999333333336,
     "longitude": 103.85664438596493,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 18,
     "subzone": "Rochor Canal"
   },
   {
@@ -4112,7 +4112,7 @@
     "count": 27,
     "latitude": 1.3134826888888893,
     "longitude": 103.8787071185185,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Aljunied"
   },
   {
@@ -4124,7 +4124,7 @@
     "count": 21,
     "latitude": 1.2921063047619048,
     "longitude": 103.84202274285715,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Robertson Quay"
   },
   {
@@ -4136,7 +4136,7 @@
     "count": 21,
     "latitude": 1.3139480666666665,
     "longitude": 103.88953035238099,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Guilin"
   },
   {
@@ -4148,7 +4148,7 @@
     "count": 18,
     "latitude": 1.3108656555555556,
     "longitude": 103.79789010000002,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Holland Drive"
   },
   {
@@ -4160,7 +4160,7 @@
     "count": 48,
     "latitude": 1.4527583416666667,
     "longitude": 103.80014983333335,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Admiralty"
   },
   {
@@ -4172,7 +4172,7 @@
     "count": 14,
     "latitude": 1.4100507166666667,
     "longitude": 103.74499638809523,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Yew Tee"
   },
   {
@@ -4184,7 +4184,7 @@
     "count": 26,
     "latitude": 1.281011384615384,
     "longitude": 103.84577246923075,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "China Square"
   },
   {
@@ -4196,7 +4196,7 @@
     "count": 72,
     "latitude": 1.305598852777778,
     "longitude": 103.85638306944443,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 22,
     "subzone": "Rochor Canal"
   },
   {
@@ -4208,7 +4208,7 @@
     "count": 29,
     "latitude": 1.2813086896551726,
     "longitude": 103.84824847586206,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Cecil"
   },
   {
@@ -4220,7 +4220,7 @@
     "count": 66,
     "latitude": 1.3975851767676768,
     "longitude": 103.885964324026,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Anchorvale"
   },
   {
@@ -4232,7 +4232,7 @@
     "count": 18,
     "latitude": 1.302831511111111,
     "longitude": 103.85097958888889,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Selegie"
   },
   {
@@ -4244,7 +4244,7 @@
     "count": 46,
     "latitude": 1.3140612724637684,
     "longitude": 103.8572878152174,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Farrer Court"
   },
   {
@@ -4256,7 +4256,7 @@
     "count": 55,
     "latitude": 1.3298590072727274,
     "longitude": 103.71265535272727,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Tukang"
   },
   {
@@ -4268,7 +4268,7 @@
     "count": 37,
     "latitude": 1.3265944162162162,
     "longitude": 103.71434773513515,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Tukang"
   },
   {
@@ -4280,7 +4280,7 @@
     "count": 63,
     "latitude": 1.407007008012094,
     "longitude": 103.75005196215672,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Mandai Estate"
   },
   {
@@ -4292,7 +4292,7 @@
     "count": 40,
     "latitude": 1.464608200833333,
     "longitude": 103.80287165166666,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Sembawang Central"
   },
   {
@@ -4304,7 +4304,7 @@
     "count": 22,
     "latitude": 1.3020011272727272,
     "longitude": 103.86044068181818,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Kampong Glam"
   },
   {
@@ -4316,7 +4316,7 @@
     "count": 66,
     "latitude": 1.2837882570707073,
     "longitude": 103.84480294949495,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Chinatown"
   },
   {
@@ -4328,7 +4328,7 @@
     "count": 89,
     "latitude": 1.3084086022471908,
     "longitude": 103.85515393483145,
-    "number_of_charging_station": 18,
+    "number_of_charging_station": 28,
     "subzone": "Rochor Canal"
   },
   {
@@ -4340,7 +4340,7 @@
     "count": 29,
     "latitude": 1.324951420689655,
     "longitude": 103.66987286206894,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Joo Koon"
   },
   {
@@ -4352,7 +4352,7 @@
     "count": 93,
     "latitude": 1.2809245204301076,
     "longitude": 103.84712723870969,
-    "number_of_charging_station": 19,
+    "number_of_charging_station": 29,
     "subzone": "Cecil"
   },
   {
@@ -4376,7 +4376,7 @@
     "count": 9,
     "latitude": 1.3096344666666664,
     "longitude": 103.86250622222222,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Lavender"
   },
   {
@@ -4400,7 +4400,7 @@
     "count": 23,
     "latitude": 1.3260862173913044,
     "longitude": 103.68794193043479,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Kian Teck"
   },
   {
@@ -4412,7 +4412,7 @@
     "count": 32,
     "latitude": 1.30362709375,
     "longitude": 103.8393032625,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Somerset"
   },
   {
@@ -4424,7 +4424,7 @@
     "count": 23,
     "latitude": 1.3160622086956522,
     "longitude": 103.85078845217393,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Moulmein"
   },
   {
@@ -4436,7 +4436,7 @@
     "count": 56,
     "latitude": 1.3094608267857144,
     "longitude": 103.85676838095237,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Rochor Canal"
   },
   {
@@ -4448,7 +4448,7 @@
     "count": 30,
     "latitude": 1.3260034866666668,
     "longitude": 103.68976776666666,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Kian Teck"
   },
   {
@@ -4460,7 +4460,7 @@
     "count": 26,
     "latitude": 1.3292590256410257,
     "longitude": 103.89229176153846,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Kampong Ubi"
   },
   {
@@ -4472,7 +4472,7 @@
     "count": 6,
     "latitude": 1.335545,
     "longitude": 103.88735683333334,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Tai Seng"
   },
   {
@@ -4496,7 +4496,7 @@
     "count": 68,
     "latitude": 1.4237873876750702,
     "longitude": 103.74963928620447,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 21,
     "subzone": "Kranji"
   },
   {
@@ -4508,7 +4508,7 @@
     "count": 42,
     "latitude": 1.3110703523809526,
     "longitude": 103.85989011904765,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Bendemeer"
   },
   {
@@ -4520,7 +4520,7 @@
     "count": 30,
     "latitude": 1.3127175685714285,
     "longitude": 103.66262705428572,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Gul Circle"
   },
   {
@@ -4532,7 +4532,7 @@
     "count": 6,
     "latitude": 1.3356265999999997,
     "longitude": 103.88489733333334,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Joo Seng"
   },
   {
@@ -4544,7 +4544,7 @@
     "count": 22,
     "latitude": 1.3098841545454545,
     "longitude": 103.85464433636365,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Farrer Court"
   },
   {
@@ -4556,7 +4556,7 @@
     "count": 17,
     "latitude": 1.3330246588235295,
     "longitude": 103.6439716117647,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Tuas Bay"
   },
   {
@@ -4568,7 +4568,7 @@
     "count": 26,
     "latitude": 1.3279296923076922,
     "longitude": 103.87559820769229,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Kallang Way"
   },
   {
@@ -4580,7 +4580,7 @@
     "count": 10,
     "latitude": 1.32707814,
     "longitude": 103.84899942,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Boon Teck"
   },
   {
@@ -4604,7 +4604,7 @@
     "count": 54,
     "latitude": 1.3114258391534395,
     "longitude": 103.86102474391537,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Bendemeer"
   },
   {
@@ -4616,7 +4616,7 @@
     "count": 14,
     "latitude": 1.3167255285714285,
     "longitude": 103.90456608571428,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Kembangan"
   },
   {
@@ -4628,7 +4628,7 @@
     "count": 36,
     "latitude": 1.333371178835979,
     "longitude": 103.89502758902114,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Kampong Ubi"
   },
   {
@@ -4640,7 +4640,7 @@
     "count": 25,
     "latitude": 1.3291057120000003,
     "longitude": 103.673055776,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Joo Koon"
   },
   {
@@ -4652,7 +4652,7 @@
     "count": 12,
     "latitude": 1.3500156,
     "longitude": 103.83522101666667,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Upper Thomson"
   },
   {
@@ -4664,7 +4664,7 @@
     "count": 98,
     "latitude": 1.324696449854227,
     "longitude": 103.6726614326531,
-    "number_of_charging_station": 20,
+    "number_of_charging_station": 30,
     "subzone": "Joo Koon"
   },
   {
@@ -4676,7 +4676,7 @@
     "count": 16,
     "latitude": 1.3137414696428569,
     "longitude": 103.85382374107142,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Farrer Court"
   },
   {
@@ -4688,7 +4688,7 @@
     "count": 74,
     "latitude": 1.3348389166666668,
     "longitude": 103.9694110927928,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "Xilin"
   },
   {
@@ -4700,7 +4700,7 @@
     "count": 7,
     "latitude": 1.2792257714285713,
     "longitude": 103.84135614285715,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Everton Park"
   },
   {
@@ -4712,7 +4712,7 @@
     "count": 23,
     "latitude": 1.41227715831608,
     "longitude": 103.74323455914424,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Yew Tee"
   },
   {
@@ -4724,7 +4724,7 @@
     "count": 21,
     "latitude": 1.3296917047619048,
     "longitude": 103.88186887619048,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Joo Seng"
   },
   {
@@ -4736,7 +4736,7 @@
     "count": 54,
     "latitude": 1.3103410604938273,
     "longitude": 103.90297089320991,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Marine Parade"
   },
   {
@@ -4748,7 +4748,7 @@
     "count": 19,
     "latitude": 1.3274703684210523,
     "longitude": 103.86697018947368,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Potong Pasir"
   },
   {
@@ -4760,7 +4760,7 @@
     "count": 41,
     "latitude": 1.2873690731707315,
     "longitude": 103.84736861951221,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Clarke Quay"
   },
   {
@@ -4772,7 +4772,7 @@
     "count": 48,
     "latitude": 1.327790535416667,
     "longitude": 103.86687443541666,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Potong Pasir"
   },
   {
@@ -4784,7 +4784,7 @@
     "count": 34,
     "latitude": 1.2866908470588234,
     "longitude": 103.8486279,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Boat Quay"
   },
   {
@@ -4796,7 +4796,7 @@
     "count": 11,
     "latitude": 1.3877316757575757,
     "longitude": 103.84921431515153,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Yio Chu Kang"
   },
   {
@@ -4808,7 +4808,7 @@
     "count": 12,
     "latitude": 1.3434451833333334,
     "longitude": 103.88578739999998,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Joo Seng"
   },
   {
@@ -4820,7 +4820,7 @@
     "count": 59,
     "latitude": 1.3060139084745759,
     "longitude": 103.85419619999999,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 18,
     "subzone": "Sungei Road"
   },
   {
@@ -4832,7 +4832,7 @@
     "count": 12,
     "latitude": 1.31211455,
     "longitude": 103.85741795,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Farrer Court"
   },
   {
@@ -4844,7 +4844,7 @@
     "count": 5,
     "latitude": 1.3252879599999998,
     "longitude": 103.86308248,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Boon Keng"
   },
   {
@@ -4856,7 +4856,7 @@
     "count": 25,
     "latitude": 1.2907809693333334,
     "longitude": 103.81171572800002,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Redhill"
   },
   {
@@ -4868,7 +4868,7 @@
     "count": 44,
     "latitude": 1.3253713833333334,
     "longitude": 103.69345585227273,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Kian Teck"
   },
   {
@@ -4880,7 +4880,7 @@
     "count": 26,
     "latitude": 1.3048686,
     "longitude": 103.90201837692308,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Katong"
   },
   {
@@ -4892,7 +4892,7 @@
     "count": 38,
     "latitude": 1.337801879824561,
     "longitude": 103.89914879561404,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Kaki Bukit"
   },
   {
@@ -4904,7 +4904,7 @@
     "count": 59,
     "latitude": 1.3148276305084745,
     "longitude": 103.85568053365618,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 18,
     "subzone": "Farrer Court"
   },
   {
@@ -4916,7 +4916,7 @@
     "count": 20,
     "latitude": 1.30595788,
     "longitude": 103.85271713999998,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Sungei Road"
   },
   {
@@ -4928,7 +4928,7 @@
     "count": 60,
     "latitude": 1.2745780333333332,
     "longitude": 103.84943980666667,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -4940,7 +4940,7 @@
     "count": 147,
     "latitude": 1.3153107452758879,
     "longitude": 103.67047739159922,
-    "number_of_charging_station": 29,
+    "number_of_charging_station": 46,
     "subzone": "Gul Circle"
   },
   {
@@ -4952,7 +4952,7 @@
     "count": 10,
     "latitude": 1.3182446200000002,
     "longitude": 103.6652644,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Gul Circle"
   },
   {
@@ -4964,7 +4964,7 @@
     "count": 10,
     "latitude": 1.3027396766666668,
     "longitude": 103.85843513666669,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kampong Glam"
   },
   {
@@ -4976,7 +4976,7 @@
     "count": 15,
     "latitude": 1.3311450133333333,
     "longitude": 103.79628986666668,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Hillcrest"
   },
   {
@@ -5000,7 +5000,7 @@
     "count": 5,
     "latitude": 1.31224524,
     "longitude": 103.92461372,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Frankel"
   },
   {
@@ -5012,7 +5012,7 @@
     "count": 44,
     "latitude": 1.451935714935065,
     "longitude": 103.80773420541126,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Sembawang Central"
   },
   {
@@ -5024,7 +5024,7 @@
     "count": 5,
     "latitude": 1.31444952,
     "longitude": 103.89073068,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Guilin"
   },
   {
@@ -5036,7 +5036,7 @@
     "count": 62,
     "latitude": 1.3102811032258064,
     "longitude": 103.83686048709673,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Newton Circus"
   },
   {
@@ -5048,7 +5048,7 @@
     "count": 14,
     "latitude": 1.3287964428571428,
     "longitude": 103.71571080000001,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Tukang"
   },
   {
@@ -5060,7 +5060,7 @@
     "count": 25,
     "latitude": 1.2782700959999997,
     "longitude": 103.843755536,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -5072,7 +5072,7 @@
     "count": 32,
     "latitude": 1.3225623812499998,
     "longitude": 103.63708039999997,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Tuas Bay"
   },
   {
@@ -5084,7 +5084,7 @@
     "count": 20,
     "latitude": 1.30803449,
     "longitude": 103.85372935000001,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Sungei Road"
   },
   {
@@ -5096,7 +5096,7 @@
     "count": 6,
     "latitude": 1.3111281,
     "longitude": 103.88105236666665,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Mountbatten"
   },
   {
@@ -5108,7 +5108,7 @@
     "count": 40,
     "latitude": 1.3084137300000003,
     "longitude": 103.854059065,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Farrer Court"
   },
   {
@@ -5120,7 +5120,7 @@
     "count": 5,
     "latitude": 1.3135656514285716,
     "longitude": 103.8889683657143,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Guilin"
   },
   {
@@ -5132,7 +5132,7 @@
     "count": 13,
     "latitude": 1.308029153846154,
     "longitude": 103.8512296,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Little India"
   },
   {
@@ -5156,7 +5156,7 @@
     "count": 14,
     "latitude": 1.2803105285714285,
     "longitude": 103.84186992857144,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "People's Park"
   },
   {
@@ -5168,7 +5168,7 @@
     "count": 66,
     "latitude": 1.3169662579124581,
     "longitude": 103.66880239326599,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Gul Circle"
   },
   {
@@ -5180,7 +5180,7 @@
     "count": 28,
     "latitude": 1.3027522499999997,
     "longitude": 103.84776401428569,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Mount Emily"
   },
   {
@@ -5192,7 +5192,7 @@
     "count": 15,
     "latitude": 1.3110626,
     "longitude": 103.87804350666667,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Mountbatten"
   },
   {
@@ -5204,7 +5204,7 @@
     "count": 77,
     "latitude": 1.324031625974026,
     "longitude": 103.81408517142854,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 24,
     "subzone": "Tyersall"
   },
   {
@@ -5216,7 +5216,7 @@
     "count": 11,
     "latitude": 1.3306241818181819,
     "longitude": 103.8805642909091,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Joo Seng"
   },
   {
@@ -5228,7 +5228,7 @@
     "count": 34,
     "latitude": 1.286505688235294,
     "longitude": 103.84910839411764,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Boat Quay"
   },
   {
@@ -5240,7 +5240,7 @@
     "count": 22,
     "latitude": 1.3261039090909088,
     "longitude": 103.69159214545454,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Kian Teck"
   },
   {
@@ -5252,7 +5252,7 @@
     "count": 9,
     "latitude": 1.2768948,
     "longitude": 103.8444144888889,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -5264,7 +5264,7 @@
     "count": 80,
     "latitude": 1.3113400782142859,
     "longitude": 103.86659299589284,
-    "number_of_charging_station": 16,
+    "number_of_charging_station": 25,
     "subzone": "Bendemeer"
   },
   {
@@ -5276,7 +5276,7 @@
     "count": 16,
     "latitude": 1.3276291249999999,
     "longitude": 103.8427212875,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Balestier"
   },
   {
@@ -5300,7 +5300,7 @@
     "count": 9,
     "latitude": 1.3523239407407408,
     "longitude": 103.83559567777777,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Upper Thomson"
   },
   {
@@ -5312,7 +5312,7 @@
     "count": 34,
     "latitude": 1.3073617705882354,
     "longitude": 103.85734162352941,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Rochor Canal"
   },
   {
@@ -5324,7 +5324,7 @@
     "count": 74,
     "latitude": 1.2803651189189187,
     "longitude": 103.8417022756757,
-    "number_of_charging_station": 15,
+    "number_of_charging_station": 23,
     "subzone": "People's Park"
   },
   {
@@ -5336,7 +5336,7 @@
     "count": 6,
     "latitude": 1.326173,
     "longitude": 103.8529812,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Boon Teck"
   },
   {
@@ -5348,7 +5348,7 @@
     "count": 28,
     "latitude": 1.3284212857142859,
     "longitude": 103.64440888571428,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Tuas Bay"
   },
   {
@@ -5360,7 +5360,7 @@
     "count": 50,
     "latitude": 1.4503940434285716,
     "longitude": 103.80834401885713,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Sembawang Central"
   },
   {
@@ -5384,7 +5384,7 @@
     "count": 27,
     "latitude": 1.3020158296296291,
     "longitude": 103.86106399259259,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Kampong Glam"
   },
   {
@@ -5396,7 +5396,7 @@
     "count": 51,
     "latitude": 1.3342680314659194,
     "longitude": 103.895372092437,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Kampong Ubi"
   },
   {
@@ -5408,7 +5408,7 @@
     "count": 16,
     "latitude": 1.3268907874999998,
     "longitude": 103.85076528750001,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Boon Teck"
   },
   {
@@ -5432,7 +5432,7 @@
     "count": 38,
     "latitude": 1.3229399315789472,
     "longitude": 103.65489228947368,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Gul Circle"
   },
   {
@@ -5444,7 +5444,7 @@
     "count": 10,
     "latitude": 1.32371262,
     "longitude": 103.65615516,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Gul Circle"
   },
   {
@@ -5456,7 +5456,7 @@
     "count": 11,
     "latitude": 1.3222824909090911,
     "longitude": 103.65786227272729,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Gul Circle"
   },
   {
@@ -5480,7 +5480,7 @@
     "count": 28,
     "latitude": 1.2943623714285712,
     "longitude": 103.82974642142857,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Leonie Hill"
   },
   {
@@ -5492,7 +5492,7 @@
     "count": 20,
     "latitude": 1.31798774,
     "longitude": 103.89915733000001,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Paya Lebar East"
   },
   {
@@ -5504,7 +5504,7 @@
     "count": 24,
     "latitude": 1.3249543013888891,
     "longitude": 103.8148942402778,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Tyersall"
   },
   {
@@ -5516,7 +5516,7 @@
     "count": 15,
     "latitude": 1.3008624799999997,
     "longitude": 103.86073221333332,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kampong Glam"
   },
   {
@@ -5540,7 +5540,7 @@
     "count": 13,
     "latitude": 1.3108334,
     "longitude": 103.86142444615385,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Bendemeer"
   },
   {
@@ -5552,7 +5552,7 @@
     "count": 15,
     "latitude": 1.3121089466666667,
     "longitude": 103.86023574666665,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Bendemeer"
   },
   {
@@ -5564,7 +5564,7 @@
     "count": 18,
     "latitude": 1.3744069444444444,
     "longitude": 103.96893063333333,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Loyang East"
   },
   {
@@ -5576,7 +5576,7 @@
     "count": 20,
     "latitude": 1.307392364047619,
     "longitude": 103.88472828690473,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Mountbatten"
   },
   {
@@ -5588,7 +5588,7 @@
     "count": 6,
     "latitude": 1.3031866333333335,
     "longitude": 103.85864910000002,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kampong Glam"
   },
   {
@@ -5600,7 +5600,7 @@
     "count": 16,
     "latitude": 1.2741377,
     "longitude": 103.8438998,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Anson"
   },
   {
@@ -5612,7 +5612,7 @@
     "count": 9,
     "latitude": 1.3169528222222224,
     "longitude": 103.66357691111112,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Gul Circle"
   },
   {
@@ -5624,7 +5624,7 @@
     "count": 10,
     "latitude": 1.3115728599999998,
     "longitude": 103.8616913,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Bendemeer"
   },
   {
@@ -5636,7 +5636,7 @@
     "count": 10,
     "latitude": 1.3345566400000002,
     "longitude": 103.88476122,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Joo Seng"
   },
   {
@@ -5648,7 +5648,7 @@
     "count": 5,
     "latitude": 1.3216565200000001,
     "longitude": 103.85317416000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Moulmein"
   },
   {
@@ -5660,7 +5660,7 @@
     "count": 26,
     "latitude": 1.2937935935897438,
     "longitude": 103.83076015,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Leonie Hill"
   },
   {
@@ -5672,7 +5672,7 @@
     "count": 9,
     "latitude": 1.273561688888889,
     "longitude": 103.8437557111111,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Anson"
   },
   {
@@ -5684,7 +5684,7 @@
     "count": 19,
     "latitude": 1.3155622210526314,
     "longitude": 103.89076061052631,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Guilin"
   },
   {
@@ -5696,7 +5696,7 @@
     "count": 9,
     "latitude": 1.2984436920634923,
     "longitude": 103.8377923047619,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Somerset"
   },
   {
@@ -5708,7 +5708,7 @@
     "count": 24,
     "latitude": 1.327910425,
     "longitude": 103.843872525,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Balestier"
   },
   {
@@ -5732,7 +5732,7 @@
     "count": 112,
     "latitude": 1.3381920090159833,
     "longitude": 103.89003518934815,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 35,
     "subzone": "Tai Seng"
   },
   {
@@ -5744,7 +5744,7 @@
     "count": 13,
     "latitude": 1.3087165205128206,
     "longitude": 103.76407500512822,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Clementi Central"
   },
   {
@@ -5768,7 +5768,7 @@
     "count": 13,
     "latitude": 1.3295682000000002,
     "longitude": 103.87170006153846,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Potong Pasir"
   },
   {
@@ -5780,7 +5780,7 @@
     "count": 16,
     "latitude": 1.3237401625,
     "longitude": 103.85108098750001,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Boon Teck"
   },
   {
@@ -5792,7 +5792,7 @@
     "count": 12,
     "latitude": 1.31825485,
     "longitude": 103.84868431666666,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Moulmein"
   },
   {
@@ -5804,7 +5804,7 @@
     "count": 57,
     "latitude": 1.3127483052631579,
     "longitude": 103.75125380701753,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 18,
     "subzone": "West Coast"
   },
   {
@@ -5816,7 +5816,7 @@
     "count": 39,
     "latitude": 1.304128641025641,
     "longitude": 103.85371744615385,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Sungei Road"
   },
   {
@@ -5828,7 +5828,7 @@
     "count": 15,
     "latitude": 1.3290563333333334,
     "longitude": 103.64229262666667,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Tuas Bay"
   },
   {
@@ -5840,7 +5840,7 @@
     "count": 28,
     "latitude": 1.3154468173469385,
     "longitude": 103.85495666921769,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Farrer Court"
   },
   {
@@ -5852,7 +5852,7 @@
     "count": 44,
     "latitude": 1.3254369694805197,
     "longitude": 103.87731397110393,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Kallang Way"
   },
   {
@@ -5876,7 +5876,7 @@
     "count": 13,
     "latitude": 1.2766041692307692,
     "longitude": 103.83766646153845,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Everton Park"
   },
   {
@@ -5888,7 +5888,7 @@
     "count": 48,
     "latitude": 1.3118398437500003,
     "longitude": 103.85926979652776,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Bendemeer"
   },
   {
@@ -5900,7 +5900,7 @@
     "count": 14,
     "latitude": 1.314269242857143,
     "longitude": 103.89955440000001,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Paya Lebar East"
   },
   {
@@ -5912,7 +5912,7 @@
     "count": 26,
     "latitude": 1.3021227040293044,
     "longitude": 103.83861588949938,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Somerset"
   },
   {
@@ -5924,7 +5924,7 @@
     "count": 41,
     "latitude": 1.316169556794425,
     "longitude": 103.87937961695701,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Aljunied"
   },
   {
@@ -5948,7 +5948,7 @@
     "count": 36,
     "latitude": 1.3034002388888892,
     "longitude": 103.85951999444445,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Kampong Glam"
   },
   {
@@ -5960,7 +5960,7 @@
     "count": 10,
     "latitude": 1.3270228400000001,
     "longitude": 103.87946414000002,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kallang Way"
   },
   {
@@ -5972,7 +5972,7 @@
     "count": 46,
     "latitude": 1.319453773913043,
     "longitude": 103.68453335652175,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Joo Koon"
   },
   {
@@ -5984,7 +5984,7 @@
     "count": 24,
     "latitude": 1.3532930749999998,
     "longitude": 103.8768764666667,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Serangoon Central"
   },
   {
@@ -5996,7 +5996,7 @@
     "count": 18,
     "latitude": 1.3290117888888888,
     "longitude": 103.71844388888888,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Taman Jurong"
   },
   {
@@ -6008,7 +6008,7 @@
     "count": 22,
     "latitude": 1.4523739181818183,
     "longitude": 103.80356920000003,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Admiralty"
   },
   {
@@ -6020,7 +6020,7 @@
     "count": 18,
     "latitude": 1.2760392333333335,
     "longitude": 103.84201498888888,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Anson"
   },
   {
@@ -6032,7 +6032,7 @@
     "count": 14,
     "latitude": 1.2798160571428574,
     "longitude": 103.84178437142855,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "People's Park"
   },
   {
@@ -6044,7 +6044,7 @@
     "count": 36,
     "latitude": 1.2819506833333334,
     "longitude": 103.84593706666668,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "China Square"
   },
   {
@@ -6056,7 +6056,7 @@
     "count": 71,
     "latitude": 1.3171761201877936,
     "longitude": 103.9025913535211,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 22,
     "subzone": "Paya Lebar East"
   },
   {
@@ -6068,7 +6068,7 @@
     "count": 23,
     "latitude": 1.3278971217391302,
     "longitude": 103.71192650434782,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Tukang"
   },
   {
@@ -6080,7 +6080,7 @@
     "count": 37,
     "latitude": 1.3083243189189186,
     "longitude": 103.76201508648651,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Clementi Central"
   },
   {
@@ -6092,7 +6092,7 @@
     "count": 123,
     "latitude": 1.3252198682926828,
     "longitude": 103.84878845853656,
-    "number_of_charging_station": 25,
+    "number_of_charging_station": 38,
     "subzone": "Balestier"
   },
   {
@@ -6104,7 +6104,7 @@
     "count": 21,
     "latitude": 1.3488537142857142,
     "longitude": 103.84049404761906,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Marymount"
   },
   {
@@ -6116,7 +6116,7 @@
     "count": 9,
     "latitude": 1.3161972148148147,
     "longitude": 103.82659707777779,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Orange Grove"
   },
   {
@@ -6128,7 +6128,7 @@
     "count": 28,
     "latitude": 1.3410799714285713,
     "longitude": 103.77349485714288,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Anak Bukit"
   },
   {
@@ -6140,7 +6140,7 @@
     "count": 18,
     "latitude": 1.3320381904761902,
     "longitude": 103.89679805873017,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Kampong Ubi"
   },
   {
@@ -6164,7 +6164,7 @@
     "count": 22,
     "latitude": 1.3129940181818183,
     "longitude": 103.87700702727274,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Aljunied"
   },
   {
@@ -6176,7 +6176,7 @@
     "count": 16,
     "latitude": 1.3220879875000002,
     "longitude": 103.640731675,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Tuas Bay"
   },
   {
@@ -6188,7 +6188,7 @@
     "count": 103,
     "latitude": 1.3087694572815534,
     "longitude": 103.8555815368932,
-    "number_of_charging_station": 21,
+    "number_of_charging_station": 32,
     "subzone": "Rochor Canal"
   },
   {
@@ -6200,7 +6200,7 @@
     "count": 6,
     "latitude": 1.3382328444444447,
     "longitude": 103.88509546666666,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Joo Seng"
   },
   {
@@ -6212,7 +6212,7 @@
     "count": 10,
     "latitude": 1.3022852600000001,
     "longitude": 103.8862067,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Mountbatten"
   },
   {
@@ -6224,7 +6224,7 @@
     "count": 21,
     "latitude": 1.3310332285714288,
     "longitude": 103.79487347619046,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Hillcrest"
   },
   {
@@ -6236,7 +6236,7 @@
     "count": 12,
     "latitude": 1.2959839499999999,
     "longitude": 103.85482273333332,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "City Hall"
   },
   {
@@ -6248,7 +6248,7 @@
     "count": 17,
     "latitude": 1.3154667529411768,
     "longitude": 103.85407509411765,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Farrer Court"
   },
   {
@@ -6260,7 +6260,7 @@
     "count": 23,
     "latitude": 1.3093864521739131,
     "longitude": 103.86277922608697,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Lavender"
   },
   {
@@ -6272,7 +6272,7 @@
     "count": 43,
     "latitude": 1.3053661813953488,
     "longitude": 103.8539922,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 13,
     "subzone": "Sungei Road"
   },
   {
@@ -6284,7 +6284,7 @@
     "count": 11,
     "latitude": 1.3165259454545455,
     "longitude": 103.9020435090909,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Paya Lebar East"
   },
   {
@@ -6296,7 +6296,7 @@
     "count": 11,
     "latitude": 1.3053492,
     "longitude": 103.85382860000003,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Sungei Road"
   },
   {
@@ -6308,7 +6308,7 @@
     "count": 5,
     "latitude": 1.35212332,
     "longitude": 103.8461724,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Bishan East"
   },
   {
@@ -6320,7 +6320,7 @@
     "count": 6,
     "latitude": 1.3052080666666666,
     "longitude": 103.84834876666667,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Mackenzie"
   },
   {
@@ -6332,7 +6332,7 @@
     "count": 47,
     "latitude": 1.4167863106382976,
     "longitude": 103.74781673191491,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 15,
     "subzone": "Mandai Estate"
   },
   {
@@ -6344,7 +6344,7 @@
     "count": 5,
     "latitude": 1.30696772,
     "longitude": 103.90802928000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Marine Parade"
   },
   {
@@ -6368,7 +6368,7 @@
     "count": 14,
     "latitude": 1.2970842285714286,
     "longitude": 103.83999567142857,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Oxley"
   },
   {
@@ -6380,7 +6380,7 @@
     "count": 29,
     "latitude": 1.327045096551724,
     "longitude": 103.86641928965517,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Potong Pasir"
   },
   {
@@ -6392,7 +6392,7 @@
     "count": 52,
     "latitude": 1.3772576769230764,
     "longitude": 103.82733384615382,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Sembawang Hills"
   },
   {
@@ -6404,7 +6404,7 @@
     "count": 41,
     "latitude": 1.3123911073170733,
     "longitude": 103.86007319512198,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Bendemeer"
   },
   {
@@ -6416,7 +6416,7 @@
     "count": 53,
     "latitude": 1.2894241308176102,
     "longitude": 103.83006471410604,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 16,
     "subzone": "Bukit Ho Swee"
   },
   {
@@ -6428,7 +6428,7 @@
     "count": 23,
     "latitude": 1.3123199565217387,
     "longitude": 103.66112706956523,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Gul Circle"
   },
   {
@@ -6440,7 +6440,7 @@
     "count": 97,
     "latitude": 1.3313723992636233,
     "longitude": 103.96266757697593,
-    "number_of_charging_station": 19,
+    "number_of_charging_station": 30,
     "subzone": "Xilin"
   },
   {
@@ -6452,7 +6452,7 @@
     "count": 43,
     "latitude": 1.3650147395348837,
     "longitude": 103.86564310697676,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 13,
     "subzone": "Serangoon Garden"
   },
   {
@@ -6464,7 +6464,7 @@
     "count": 431,
     "latitude": 1.2797275480278425,
     "longitude": 103.85689946914158,
-    "number_of_charging_station": 86,
+    "number_of_charging_station": 134,
     "subzone": "Marina Centre"
   },
   {
@@ -6476,7 +6476,7 @@
     "count": 5,
     "latitude": 1.3158971999999998,
     "longitude": 103.89040396,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Guilin"
   },
   {
@@ -6488,7 +6488,7 @@
     "count": 37,
     "latitude": 1.3076962918918917,
     "longitude": 103.83148180540542,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Goodwood Park"
   },
   {
@@ -6500,7 +6500,7 @@
     "count": 44,
     "latitude": 1.3151944590909095,
     "longitude": 103.85992695,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Bendemeer"
   },
   {
@@ -6512,7 +6512,7 @@
     "count": 31,
     "latitude": 1.308064070967742,
     "longitude": 103.85827350322583,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Rochor Canal"
   },
   {
@@ -6524,7 +6524,7 @@
     "count": 60,
     "latitude": 1.3092547033333333,
     "longitude": 103.85602036,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Farrer Court"
   },
   {
@@ -6536,7 +6536,7 @@
     "count": 10,
     "latitude": 1.35273126,
     "longitude": 103.75716652000001,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Gombak"
   },
   {
@@ -6560,7 +6560,7 @@
     "count": 11,
     "latitude": 1.2796284000000002,
     "longitude": 103.84739065454546,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Cecil"
   },
   {
@@ -6572,7 +6572,7 @@
     "count": 6,
     "latitude": 1.3011422666666668,
     "longitude": 103.85839659999999,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kampong Glam"
   },
   {
@@ -6584,7 +6584,7 @@
     "count": 49,
     "latitude": 1.3110920612244894,
     "longitude": 103.79621434285716,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Holland Drive"
   },
   {
@@ -6596,7 +6596,7 @@
     "count": 15,
     "latitude": 1.33959272,
     "longitude": 103.91020909333332,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Kaki Bukit"
   },
   {
@@ -6608,7 +6608,7 @@
     "count": 34,
     "latitude": 1.3048553015406161,
     "longitude": 103.85878537100837,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Rochor Canal"
   },
   {
@@ -6620,7 +6620,7 @@
     "count": 50,
     "latitude": 1.3080608040000001,
     "longitude": 103.85477938800001,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Rochor Canal"
   },
   {
@@ -6644,7 +6644,7 @@
     "count": 10,
     "latitude": 1.3234369799999999,
     "longitude": 103.80916336,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Coronation Road"
   },
   {
@@ -6656,7 +6656,7 @@
     "count": 18,
     "latitude": 1.325676211111111,
     "longitude": 103.68411471111114,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Joo Koon"
   },
   {
@@ -6668,7 +6668,7 @@
     "count": 51,
     "latitude": 1.3330756117647058,
     "longitude": 103.71050838431373,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Jurong West Central"
   },
   {
@@ -6692,7 +6692,7 @@
     "count": 40,
     "latitude": 1.27895817,
     "longitude": 103.84076531000001,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Everton Park"
   },
   {
@@ -6704,7 +6704,7 @@
     "count": 26,
     "latitude": 1.298471892307692,
     "longitude": 103.83899354615386,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Somerset"
   },
   {
@@ -6716,7 +6716,7 @@
     "count": 53,
     "latitude": 1.3136849446540881,
     "longitude": 103.90281416918236,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 16,
     "subzone": "Paya Lebar East"
   },
   {
@@ -6728,7 +6728,7 @@
     "count": 15,
     "latitude": 1.3364922666666668,
     "longitude": 103.63858763999998,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Tuas Bay"
   },
   {
@@ -6740,7 +6740,7 @@
     "count": 13,
     "latitude": 1.3113100615384614,
     "longitude": 103.8584318307692,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Farrer Court"
   },
   {
@@ -6752,7 +6752,7 @@
     "count": 84,
     "latitude": 1.343481286904762,
     "longitude": 103.77504079863945,
-    "number_of_charging_station": 17,
+    "number_of_charging_station": 26,
     "subzone": "Anak Bukit"
   },
   {
@@ -6764,7 +6764,7 @@
     "count": 45,
     "latitude": 1.3326655733333328,
     "longitude": 103.64466177333335,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Tuas Bay"
   },
   {
@@ -6776,7 +6776,7 @@
     "count": 16,
     "latitude": 1.306358,
     "longitude": 103.8524882,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Sungei Road"
   },
   {
@@ -6788,7 +6788,7 @@
     "count": 7,
     "latitude": 1.3216106285714286,
     "longitude": 103.87642788571429,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kallang Way"
   },
   {
@@ -6800,7 +6800,7 @@
     "count": 12,
     "latitude": 1.3112449333333334,
     "longitude": 103.87994063333333,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Mountbatten"
   },
   {
@@ -6812,7 +6812,7 @@
     "count": 14,
     "latitude": 1.2780406000000002,
     "longitude": 103.84499075714282,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -6824,7 +6824,7 @@
     "count": 36,
     "latitude": 1.2939507277777775,
     "longitude": 103.84454190555556,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Fort Canning"
   },
   {
@@ -6836,7 +6836,7 @@
     "count": 10,
     "latitude": 1.3925148200000002,
     "longitude": 103.91568984,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Punggol Field"
   },
   {
@@ -6848,7 +6848,7 @@
     "count": 5,
     "latitude": 1.31792528,
     "longitude": 103.90035040000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Paya Lebar East"
   },
   {
@@ -6860,7 +6860,7 @@
     "count": 131,
     "latitude": 1.3741929053435116,
     "longitude": 103.9518112183206,
-    "number_of_charging_station": 26,
+    "number_of_charging_station": 41,
     "subzone": "Pasir Ris Central"
   },
   {
@@ -6872,7 +6872,7 @@
     "count": 12,
     "latitude": 1.3049676833333332,
     "longitude": 103.856723,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Rochor Canal"
   },
   {
@@ -6884,7 +6884,7 @@
     "count": 10,
     "latitude": 1.3750167800000002,
     "longitude": 103.97200493999999,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Loyang East"
   },
   {
@@ -6896,7 +6896,7 @@
     "count": 22,
     "latitude": 1.358532590909091,
     "longitude": 103.83723944545454,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Midview"
   },
   {
@@ -6908,7 +6908,7 @@
     "count": 34,
     "latitude": 1.3031632882352944,
     "longitude": 103.85658256470592,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Rochor Canal"
   },
   {
@@ -6920,7 +6920,7 @@
     "count": 52,
     "latitude": 1.3884880726495732,
     "longitude": 103.9872133128816,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 16,
     "subzone": "Loyang East"
   },
   {
@@ -6932,7 +6932,7 @@
     "count": 5,
     "latitude": 1.27881572,
     "longitude": 103.84431520000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -6956,7 +6956,7 @@
     "count": 15,
     "latitude": 1.36422972,
     "longitude": 103.8653582,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Serangoon Garden"
   },
   {
@@ -6980,7 +6980,7 @@
     "count": 29,
     "latitude": 1.3113291753694585,
     "longitude": 103.79761741970441,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Holland Drive"
   },
   {
@@ -6992,7 +6992,7 @@
     "count": 20,
     "latitude": 1.28622543,
     "longitude": 103.84897104,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Boat Quay"
   },
   {
@@ -7004,7 +7004,7 @@
     "count": 6,
     "latitude": 1.3257371999999998,
     "longitude": 103.87444806666667,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kallang Way"
   },
   {
@@ -7016,7 +7016,7 @@
     "count": 23,
     "latitude": 1.3024783826086956,
     "longitude": 103.86159723478264,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Kampong Glam"
   },
   {
@@ -7028,7 +7028,7 @@
     "count": 17,
     "latitude": 1.31819911372549,
     "longitude": 103.66687964117648,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Gul Circle"
   },
   {
@@ -7040,7 +7040,7 @@
     "count": 10,
     "latitude": 1.27688412,
     "longitude": 103.83705072000001,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Everton Park"
   },
   {
@@ -7052,7 +7052,7 @@
     "count": 44,
     "latitude": 1.278652933982684,
     "longitude": 103.84324817474747,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -7064,7 +7064,7 @@
     "count": 48,
     "latitude": 1.3251350715277779,
     "longitude": 103.87335747569445,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Kallang Way"
   },
   {
@@ -7076,7 +7076,7 @@
     "count": 85,
     "latitude": 1.3046972729411763,
     "longitude": 103.80209409882357,
-    "number_of_charging_station": 17,
+    "number_of_charging_station": 26,
     "subzone": "Commonwealth"
   },
   {
@@ -7088,7 +7088,7 @@
     "count": 5,
     "latitude": 1.31868932,
     "longitude": 103.86610392000003,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kallang Bahru"
   },
   {
@@ -7100,7 +7100,7 @@
     "count": 45,
     "latitude": 1.3074344133333333,
     "longitude": 103.83081472444444,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Goodwood Park"
   },
   {
@@ -7112,7 +7112,7 @@
     "count": 21,
     "latitude": 1.327295342857143,
     "longitude": 103.65448602857143,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Gul Circle"
   },
   {
@@ -7124,7 +7124,7 @@
     "count": 7,
     "latitude": 1.3131532857142858,
     "longitude": 103.65299745714286,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Gul Circle"
   },
   {
@@ -7136,7 +7136,7 @@
     "count": 71,
     "latitude": 1.2915849797451375,
     "longitude": 103.82137843910125,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 22,
     "subzone": "Redhill"
   },
   {
@@ -7148,7 +7148,7 @@
     "count": 112,
     "latitude": 1.4198149136577716,
     "longitude": 103.74432295847718,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 35,
     "subzone": "Mandai Estate"
   },
   {
@@ -7160,7 +7160,7 @@
     "count": 72,
     "latitude": 1.3150800777777774,
     "longitude": 103.88722289722227,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 22,
     "subzone": "Guilin"
   },
   {
@@ -7172,7 +7172,7 @@
     "count": 37,
     "latitude": 1.3412832486486486,
     "longitude": 103.77685552972973,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Anak Bukit"
   },
   {
@@ -7196,7 +7196,7 @@
     "count": 46,
     "latitude": 1.3589496416149067,
     "longitude": 103.88184826956522,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Kovan"
   },
   {
@@ -7208,7 +7208,7 @@
     "count": 27,
     "latitude": 1.2929156962962962,
     "longitude": 103.83819536296299,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Institution Hill"
   },
   {
@@ -7220,7 +7220,7 @@
     "count": 30,
     "latitude": 1.332555828888889,
     "longitude": 103.71049181666669,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Tukang"
   },
   {
@@ -7232,7 +7232,7 @@
     "count": 22,
     "latitude": 1.3932012909090907,
     "longitude": 103.91658011818181,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Punggol Field"
   },
   {
@@ -7244,7 +7244,7 @@
     "count": 18,
     "latitude": 1.3628226777777777,
     "longitude": 103.88815052222223,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Kovan"
   },
   {
@@ -7256,7 +7256,7 @@
     "count": 45,
     "latitude": 1.4638202755555556,
     "longitude": 103.80502500444445,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Sembawang Central"
   },
   {
@@ -7268,7 +7268,7 @@
     "count": 46,
     "latitude": 1.2855094260869564,
     "longitude": 103.84600671304347,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "China Square"
   },
   {
@@ -7280,7 +7280,7 @@
     "count": 29,
     "latitude": 1.4258441724137927,
     "longitude": 103.82581077931034,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Yishun East"
   },
   {
@@ -7292,7 +7292,7 @@
     "count": 31,
     "latitude": 1.2806493483870967,
     "longitude": 103.84083616129031,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "People's Park"
   },
   {
@@ -7304,7 +7304,7 @@
     "count": 14,
     "latitude": 1.2984747571428574,
     "longitude": 103.80664945714285,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Margaret Drive"
   },
   {
@@ -7316,7 +7316,7 @@
     "count": 67,
     "latitude": 1.3004781343283578,
     "longitude": 103.80292533432831,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 21,
     "subzone": "Queensway"
   },
   {
@@ -7328,7 +7328,7 @@
     "count": 40,
     "latitude": 1.3069670949999994,
     "longitude": 103.853030975,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Sungei Road"
   },
   {
@@ -7364,7 +7364,7 @@
     "count": 11,
     "latitude": 1.3467755636363636,
     "longitude": 103.88039494545455,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Lorong Ah Soo"
   },
   {
@@ -7376,7 +7376,7 @@
     "count": 12,
     "latitude": 1.3044807547619046,
     "longitude": 103.75836358333332,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Clementi Woods"
   },
   {
@@ -7388,7 +7388,7 @@
     "count": 19,
     "latitude": 1.315296589473684,
     "longitude": 103.89980515789476,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Paya Lebar East"
   },
   {
@@ -7400,7 +7400,7 @@
     "count": 27,
     "latitude": 1.3486388148148143,
     "longitude": 103.96727473333331,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Flora Drive"
   },
   {
@@ -7412,7 +7412,7 @@
     "count": 9,
     "latitude": 1.3550284666666665,
     "longitude": 103.88452628888889,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Lorong Ah Soo"
   },
   {
@@ -7424,7 +7424,7 @@
     "count": 111,
     "latitude": 1.3003595027027026,
     "longitude": 103.85659431891891,
-    "number_of_charging_station": 22,
+    "number_of_charging_station": 34,
     "subzone": "Bugis"
   },
   {
@@ -7448,7 +7448,7 @@
     "count": 32,
     "latitude": 1.3140396812500001,
     "longitude": 103.85859120625,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Bendemeer"
   },
   {
@@ -7460,7 +7460,7 @@
     "count": 36,
     "latitude": 1.468365938888889,
     "longitude": 103.81229971666669,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Sembawang Central"
   },
   {
@@ -7472,7 +7472,7 @@
     "count": 89,
     "latitude": 1.298515752434457,
     "longitude": 103.85668817865167,
-    "number_of_charging_station": 18,
+    "number_of_charging_station": 28,
     "subzone": "Bugis"
   },
   {
@@ -7484,7 +7484,7 @@
     "count": 11,
     "latitude": 1.3150097636363636,
     "longitude": 103.88783981818183,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Guilin"
   },
   {
@@ -7496,7 +7496,7 @@
     "count": 15,
     "latitude": 1.3868817333333334,
     "longitude": 103.8452194,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Yio Chu Kang"
   },
   {
@@ -7508,7 +7508,7 @@
     "count": 37,
     "latitude": 1.382741410810811,
     "longitude": 103.97200447567566,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Loyang East"
   },
   {
@@ -7520,7 +7520,7 @@
     "count": 14,
     "latitude": 1.3126157714285716,
     "longitude": 103.88856455714287,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Guilin"
   },
   {
@@ -7532,7 +7532,7 @@
     "count": 14,
     "latitude": 1.3258988714285718,
     "longitude": 103.68608219999999,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Joo Koon"
   },
   {
@@ -7544,7 +7544,7 @@
     "count": 167,
     "latitude": 1.3591326419161678,
     "longitude": 103.75253507065874,
-    "number_of_charging_station": 33,
+    "number_of_charging_station": 52,
     "subzone": "Gombak"
   },
   {
@@ -7556,7 +7556,7 @@
     "count": 9,
     "latitude": 1.2892190000000001,
     "longitude": 103.81159297777779,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Redhill"
   },
   {
@@ -7568,7 +7568,7 @@
     "count": 14,
     "latitude": 1.3345916285714285,
     "longitude": 103.88313017142856,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Joo Seng"
   },
   {
@@ -7580,7 +7580,7 @@
     "count": 9,
     "latitude": 1.319468862962963,
     "longitude": 103.91062417407407,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kembangan"
   },
   {
@@ -7592,7 +7592,7 @@
     "count": 21,
     "latitude": 1.3628913999999999,
     "longitude": 103.87111739047619,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Serangoon Garden"
   },
   {
@@ -7604,7 +7604,7 @@
     "count": 17,
     "latitude": 1.2799736588235295,
     "longitude": 103.8407093294118,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Everton Park"
   },
   {
@@ -7616,7 +7616,7 @@
     "count": 20,
     "latitude": 1.3380087616666665,
     "longitude": 103.88367040333335,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Joo Seng"
   },
   {
@@ -7628,7 +7628,7 @@
     "count": 10,
     "latitude": 1.3191338366666665,
     "longitude": 103.90896919333336,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kembangan"
   },
   {
@@ -7640,7 +7640,7 @@
     "count": 34,
     "latitude": 1.307736511764706,
     "longitude": 103.63079621764709,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Tuas Bay"
   },
   {
@@ -7652,7 +7652,7 @@
     "count": 29,
     "latitude": 1.3106270021346471,
     "longitude": 103.85911996288996,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Bendemeer"
   },
   {
@@ -7664,7 +7664,7 @@
     "count": 11,
     "latitude": 1.3122906727272727,
     "longitude": 103.84189323636362,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Newton Circus"
   },
   {
@@ -7676,7 +7676,7 @@
     "count": 10,
     "latitude": 1.2990926600000001,
     "longitude": 103.85246742,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Bencoolen"
   },
   {
@@ -7688,7 +7688,7 @@
     "count": 20,
     "latitude": 1.3142101800000001,
     "longitude": 103.89855961999997,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Paya Lebar East"
   },
   {
@@ -7700,7 +7700,7 @@
     "count": 19,
     "latitude": 1.3164693368421052,
     "longitude": 103.90142805263159,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Paya Lebar East"
   },
   {
@@ -7712,7 +7712,7 @@
     "count": 23,
     "latitude": 1.4412328173913043,
     "longitude": 103.82304947826086,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Sembawang Springs"
   },
   {
@@ -7724,7 +7724,7 @@
     "count": 23,
     "latitude": 1.3131530318840579,
     "longitude": 103.90239269710148,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Paya Lebar East"
   },
   {
@@ -7736,7 +7736,7 @@
     "count": 21,
     "latitude": 1.3746325523809526,
     "longitude": 103.96677614285714,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Loyang East"
   },
   {
@@ -7748,7 +7748,7 @@
     "count": 21,
     "latitude": 1.3023905904761903,
     "longitude": 103.74966513333332,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "West Coast"
   },
   {
@@ -7760,7 +7760,7 @@
     "count": 7,
     "latitude": 1.4084087428571428,
     "longitude": 103.75110562857144,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Mandai Estate"
   },
   {
@@ -7772,7 +7772,7 @@
     "count": 11,
     "latitude": 1.3165541454545453,
     "longitude": 103.9039335090909,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kembangan"
   },
   {
@@ -7784,7 +7784,7 @@
     "count": 45,
     "latitude": 1.3025066533333334,
     "longitude": 103.74029139555554,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Penjuru Crescent"
   },
   {
@@ -7820,7 +7820,7 @@
     "count": 14,
     "latitude": 1.3496499530612245,
     "longitude": 103.97008709999999,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Flora Drive"
   },
   {
@@ -7832,7 +7832,7 @@
     "count": 26,
     "latitude": 1.2925689461538459,
     "longitude": 103.83052603076924,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 8,
     "subzone": "Bukit Ho Swee"
   },
   {
@@ -7844,7 +7844,7 @@
     "count": 36,
     "latitude": 1.4418761111111118,
     "longitude": 103.82359786111112,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Sembawang Springs"
   },
   {
@@ -7856,7 +7856,7 @@
     "count": 7,
     "latitude": 1.2824284285714287,
     "longitude": 103.84710362857142,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "China Square"
   },
   {
@@ -7868,7 +7868,7 @@
     "count": 29,
     "latitude": 1.2958459586206894,
     "longitude": 103.66739057241378,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Gul Circle"
   },
   {
@@ -7880,7 +7880,7 @@
     "count": 6,
     "latitude": 1.3097931333333335,
     "longitude": 103.85591686666665,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Farrer Court"
   },
   {
@@ -7892,7 +7892,7 @@
     "count": 13,
     "latitude": 1.3483473025641026,
     "longitude": 103.96983974102562,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Flora Drive"
   },
   {
@@ -7904,7 +7904,7 @@
     "count": 9,
     "latitude": 1.3511645333333333,
     "longitude": 103.9665416888889,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Flora Drive"
   },
   {
@@ -7916,7 +7916,7 @@
     "count": 18,
     "latitude": 1.3364602666666667,
     "longitude": 103.88932815555556,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Tai Seng"
   },
   {
@@ -7928,7 +7928,7 @@
     "count": 40,
     "latitude": 1.3039114449999998,
     "longitude": 103.89688277,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Katong"
   },
   {
@@ -7940,7 +7940,7 @@
     "count": 17,
     "latitude": 1.3652604117647058,
     "longitude": 103.83124715294113,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Midview"
   },
   {
@@ -7964,7 +7964,7 @@
     "count": 38,
     "latitude": 1.3589404631578945,
     "longitude": 103.9283034736842,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 12,
     "subzone": "Upper Paya Lebar"
   },
   {
@@ -7976,7 +7976,7 @@
     "count": 6,
     "latitude": 1.3112394333333333,
     "longitude": 103.90066476666665,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Katong"
   },
   {
@@ -8000,7 +8000,7 @@
     "count": 12,
     "latitude": 1.3321769333333333,
     "longitude": 103.95252013333332,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Simei"
   },
   {
@@ -8012,7 +8012,7 @@
     "count": 11,
     "latitude": 1.3132379636363636,
     "longitude": 103.88855250909091,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Guilin"
   },
   {
@@ -8024,7 +8024,7 @@
     "count": 15,
     "latitude": 1.3353132,
     "longitude": 103.88556101333333,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Joo Seng"
   },
   {
@@ -8036,7 +8036,7 @@
     "count": 29,
     "latitude": 1.316531,
     "longitude": 103.85421735862069,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Farrer Court"
   },
   {
@@ -8048,7 +8048,7 @@
     "count": 9,
     "latitude": 1.3246926666666667,
     "longitude": 103.84962271111111,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Balestier"
   },
   {
@@ -8060,7 +8060,7 @@
     "count": 65,
     "latitude": 1.3132751076923082,
     "longitude": 103.87648062153843,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Geylang Bahru"
   },
   {
@@ -8084,7 +8084,7 @@
     "count": 10,
     "latitude": 1.32701802,
     "longitude": 103.84294878,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Balestier"
   },
   {
@@ -8096,7 +8096,7 @@
     "count": 12,
     "latitude": 1.27959365,
     "longitude": 103.8419388,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Everton Park"
   },
   {
@@ -8108,7 +8108,7 @@
     "count": 13,
     "latitude": 1.3096318461538463,
     "longitude": 103.85694476923075,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Farrer Court"
   },
   {
@@ -8120,7 +8120,7 @@
     "count": 22,
     "latitude": 1.2887703181818182,
     "longitude": 103.84811947272729,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Clarke Quay"
   },
   {
@@ -8132,7 +8132,7 @@
     "count": 34,
     "latitude": 1.3856743294117646,
     "longitude": 103.87310817058827,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Fernvale"
   },
   {
@@ -8144,7 +8144,7 @@
     "count": 30,
     "latitude": 1.3409634600000002,
     "longitude": 103.88863326666666,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Tai Seng"
   },
   {
@@ -8156,7 +8156,7 @@
     "count": 6,
     "latitude": 1.3225060666666666,
     "longitude": 103.91402729999999,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kembangan"
   },
   {
@@ -8180,7 +8180,7 @@
     "count": 7,
     "latitude": 1.2792799142857143,
     "longitude": 103.84214308571427,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Everton Park"
   },
   {
@@ -8192,7 +8192,7 @@
     "count": 18,
     "latitude": 1.317141349206349,
     "longitude": 103.72592306190478,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Jurong River"
   },
   {
@@ -8204,7 +8204,7 @@
     "count": 54,
     "latitude": 1.3030207962962963,
     "longitude": 103.67847241111112,
-    "number_of_charging_station": 11,
+    "number_of_charging_station": 17,
     "subzone": "Samulun"
   },
   {
@@ -8216,7 +8216,7 @@
     "count": 48,
     "latitude": 1.3075005541666667,
     "longitude": 103.85795651250002,
-    "number_of_charging_station": 10,
+    "number_of_charging_station": 15,
     "subzone": "Rochor Canal"
   },
   {
@@ -8228,7 +8228,7 @@
     "count": 12,
     "latitude": 1.31449285,
     "longitude": 103.89849285000001,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Paya Lebar East"
   },
   {
@@ -8240,7 +8240,7 @@
     "count": 6,
     "latitude": 1.3262678999999997,
     "longitude": 103.84951813333333,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Boon Teck"
   },
   {
@@ -8252,7 +8252,7 @@
     "count": 60,
     "latitude": 1.2801586466666661,
     "longitude": 103.84916588000002,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 19,
     "subzone": "Cecil"
   },
   {
@@ -8264,7 +8264,7 @@
     "count": 28,
     "latitude": 1.36176335,
     "longitude": 103.88577954285714,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 9,
     "subzone": "Kovan"
   },
   {
@@ -8276,7 +8276,7 @@
     "count": 32,
     "latitude": 1.301816175,
     "longitude": 103.86102354999998,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Kampong Glam"
   },
   {
@@ -8288,7 +8288,7 @@
     "count": 17,
     "latitude": 1.2990495509803923,
     "longitude": 103.8540001745098,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Bugis"
   },
   {
@@ -8300,7 +8300,7 @@
     "count": 21,
     "latitude": 1.3912394000000001,
     "longitude": 103.98526850476189,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Loyang East"
   },
   {
@@ -8312,7 +8312,7 @@
     "count": 5,
     "latitude": 1.3105052799999999,
     "longitude": 103.86120468000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Bendemeer"
   },
   {
@@ -8324,7 +8324,7 @@
     "count": 22,
     "latitude": 1.3001209545454544,
     "longitude": 103.85442505454544,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Bugis"
   },
   {
@@ -8336,7 +8336,7 @@
     "count": 45,
     "latitude": 1.3150607644444443,
     "longitude": 103.88943312444447,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 14,
     "subzone": "Guilin"
   },
   {
@@ -8348,7 +8348,7 @@
     "count": 21,
     "latitude": 1.2812358666666666,
     "longitude": 103.84536066666665,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "China Square"
   },
   {
@@ -8360,7 +8360,7 @@
     "count": 43,
     "latitude": 1.3436469573643408,
     "longitude": 103.77559110387595,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 13,
     "subzone": "Anak Bukit"
   },
   {
@@ -8372,7 +8372,7 @@
     "count": 20,
     "latitude": 1.2777307500000001,
     "longitude": 103.84322559000002,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -8396,7 +8396,7 @@
     "count": 15,
     "latitude": 1.31094128,
     "longitude": 103.85392261333331,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Farrer Court"
   },
   {
@@ -8420,7 +8420,7 @@
     "count": 18,
     "latitude": 1.4535149666666665,
     "longitude": 103.83249972222221,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Sembawang Straits"
   },
   {
@@ -8432,7 +8432,7 @@
     "count": 21,
     "latitude": 1.2848083142857143,
     "longitude": 103.83609678095239,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Pearl's Hill"
   },
   {
@@ -8444,7 +8444,7 @@
     "count": 43,
     "latitude": 1.2855983581395347,
     "longitude": 103.84843265116278,
-    "number_of_charging_station": 9,
+    "number_of_charging_station": 13,
     "subzone": "Boat Quay"
   },
   {
@@ -8456,7 +8456,7 @@
     "count": 19,
     "latitude": 1.3016578105263157,
     "longitude": 103.8595630105263,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Kampong Glam"
   },
   {
@@ -8468,7 +8468,7 @@
     "count": 18,
     "latitude": 1.294201777777778,
     "longitude": 103.84157524444444,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Institution Hill"
   },
   {
@@ -8480,7 +8480,7 @@
     "count": 10,
     "latitude": 1.30246012,
     "longitude": 103.85842004000001,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kampong Glam"
   },
   {
@@ -8492,7 +8492,7 @@
     "count": 12,
     "latitude": 1.2811487999999998,
     "longitude": 103.8435433333333,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Chinatown"
   },
   {
@@ -8504,7 +8504,7 @@
     "count": 9,
     "latitude": 1.3127978666666669,
     "longitude": 103.85705842222222,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Farrer Court"
   },
   {
@@ -8516,7 +8516,7 @@
     "count": 12,
     "latitude": 1.2972862166666665,
     "longitude": 103.85630466666667,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Bugis"
   },
   {
@@ -8540,7 +8540,7 @@
     "count": 507,
     "latitude": 1.3290531928994087,
     "longitude": 103.66827532938863,
-    "number_of_charging_station": 101,
+    "number_of_charging_station": 157,
     "subzone": "Joo Koon"
   },
   {
@@ -8552,7 +8552,7 @@
     "count": 22,
     "latitude": 1.2987731272727272,
     "longitude": 103.85157841818182,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "Bencoolen"
   },
   {
@@ -8564,7 +8564,7 @@
     "count": 32,
     "latitude": 1.38325634375,
     "longitude": 103.87581135,
-    "number_of_charging_station": 6,
+    "number_of_charging_station": 10,
     "subzone": "Fernvale"
   },
   {
@@ -8588,7 +8588,7 @@
     "count": 5,
     "latitude": 1.3149798400000001,
     "longitude": 103.90077188000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Paya Lebar East"
   },
   {
@@ -8600,7 +8600,7 @@
     "count": 6,
     "latitude": 1.3094291333333332,
     "longitude": 103.8551687,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Farrer Court"
   },
   {
@@ -8612,7 +8612,7 @@
     "count": 11,
     "latitude": 1.3017792545454543,
     "longitude": 103.84855469090911,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Selegie"
   },
   {
@@ -8636,7 +8636,7 @@
     "count": 16,
     "latitude": 1.3365482000000002,
     "longitude": 103.6405807875,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Tuas Bay"
   },
   {
@@ -8648,7 +8648,7 @@
     "count": 9,
     "latitude": 1.3339494666666667,
     "longitude": 103.88559702222221,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Joo Seng"
   },
   {
@@ -8660,7 +8660,7 @@
     "count": 11,
     "latitude": 1.3051085,
     "longitude": 103.85238432121213,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Sungei Road"
   },
   {
@@ -8672,7 +8672,7 @@
     "count": 5,
     "latitude": 1.3050498400000001,
     "longitude": 103.85311887999998,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Sungei Road"
   },
   {
@@ -8696,7 +8696,7 @@
     "count": 9,
     "latitude": 1.3148988444444447,
     "longitude": 103.85502102222222,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Farrer Court"
   },
   {
@@ -8708,7 +8708,7 @@
     "count": 7,
     "latitude": 1.3097318857142857,
     "longitude": 103.8529564,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Farrer Court"
   },
   {
@@ -8720,7 +8720,7 @@
     "count": 16,
     "latitude": 1.2976351270833333,
     "longitude": 103.85590202708333,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Bugis"
   },
   {
@@ -8744,7 +8744,7 @@
     "count": 20,
     "latitude": 1.2841154000000001,
     "longitude": 103.84465405,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Chinatown"
   },
   {
@@ -8756,7 +8756,7 @@
     "count": 18,
     "latitude": 1.302436388888889,
     "longitude": 103.86139211111109,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Kampong Glam"
   },
   {
@@ -8768,7 +8768,7 @@
     "count": 58,
     "latitude": 1.3952931078817732,
     "longitude": 103.74182314482756,
-    "number_of_charging_station": 12,
+    "number_of_charging_station": 18,
     "subzone": "Yew Tee"
   },
   {
@@ -8804,7 +8804,7 @@
     "count": 15,
     "latitude": 1.2785635466666667,
     "longitude": 103.84417421333335,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -8816,7 +8816,7 @@
     "count": 10,
     "latitude": 1.30666834,
     "longitude": 103.85255563999999,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Sungei Road"
   },
   {
@@ -8840,7 +8840,7 @@
     "count": 12,
     "latitude": 1.3080814166666668,
     "longitude": 103.83713176666667,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Cairnhill"
   },
   {
@@ -8864,7 +8864,7 @@
     "count": 16,
     "latitude": 1.2819358125000002,
     "longitude": 103.8478500125,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "China Square"
   },
   {
@@ -8876,7 +8876,7 @@
     "count": 6,
     "latitude": 1.2821382333333333,
     "longitude": 103.84562416666665,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "China Square"
   },
   {
@@ -8888,7 +8888,7 @@
     "count": 23,
     "latitude": 1.3098638608695654,
     "longitude": 103.89943286086958,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Katong"
   },
   {
@@ -8900,7 +8900,7 @@
     "count": 16,
     "latitude": 1.3330100000000003,
     "longitude": 103.71810886250002,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Taman Jurong"
   },
   {
@@ -8912,7 +8912,7 @@
     "count": 10,
     "latitude": 1.28331168,
     "longitude": 103.84366054000002,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Chinatown"
   },
   {
@@ -8924,7 +8924,7 @@
     "count": 6,
     "latitude": 1.3086969999999998,
     "longitude": 103.85420843333333,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Farrer Court"
   },
   {
@@ -8948,7 +8948,7 @@
     "count": 7,
     "latitude": 1.2801083523809527,
     "longitude": 103.84182273809525,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "People's Park"
   },
   {
@@ -8960,7 +8960,7 @@
     "count": 13,
     "latitude": 1.2822050769230768,
     "longitude": 103.84488618461539,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Chinatown"
   },
   {
@@ -8972,7 +8972,7 @@
     "count": 34,
     "latitude": 1.2994982294117645,
     "longitude": 103.85344349411763,
-    "number_of_charging_station": 7,
+    "number_of_charging_station": 11,
     "subzone": "Bugis"
   },
   {
@@ -8984,7 +8984,7 @@
     "count": 12,
     "latitude": 1.3071874166666666,
     "longitude": 103.85383718333334,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Sungei Road"
   },
   {
@@ -9008,7 +9008,7 @@
     "count": 5,
     "latitude": 1.31143752,
     "longitude": 103.88605312,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Guilin"
   },
   {
@@ -9020,7 +9020,7 @@
     "count": 15,
     "latitude": 1.2833042933333332,
     "longitude": 103.84313893333334,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Chinatown"
   },
   {
@@ -9032,7 +9032,7 @@
     "count": 24,
     "latitude": 1.2814779749999998,
     "longitude": 103.848680975,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Cecil"
   },
   {
@@ -9044,7 +9044,7 @@
     "count": 5,
     "latitude": 1.3095336,
     "longitude": 103.85835836000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Rochor Canal"
   },
   {
@@ -9056,7 +9056,7 @@
     "count": 18,
     "latitude": 1.277405811111111,
     "longitude": 103.84455873333333,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -9068,7 +9068,7 @@
     "count": 9,
     "latitude": 1.284601688888889,
     "longitude": 103.84913824444445,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Boat Quay"
   },
   {
@@ -9080,7 +9080,7 @@
     "count": 9,
     "latitude": 1.2727403873015877,
     "longitude": 103.80572084920635,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Telok Blangah Drive"
   },
   {
@@ -9092,7 +9092,7 @@
     "count": 6,
     "latitude": 1.31675,
     "longitude": 103.90326186666668,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kembangan"
   },
   {
@@ -9104,7 +9104,7 @@
     "count": 5,
     "latitude": 1.30328592,
     "longitude": 103.85962688,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kampong Glam"
   },
   {
@@ -9116,7 +9116,7 @@
     "count": 15,
     "latitude": 1.3366660000000001,
     "longitude": 103.88459742666669,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Joo Seng"
   },
   {
@@ -9140,7 +9140,7 @@
     "count": 16,
     "latitude": 1.2871762249999998,
     "longitude": 103.84477252500001,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 5,
     "subzone": "Clarke Quay"
   },
   {
@@ -9152,7 +9152,7 @@
     "count": 6,
     "latitude": 1.3099473,
     "longitude": 103.9016241,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Katong"
   },
   {
@@ -9164,7 +9164,7 @@
     "count": 64,
     "latitude": 1.2917456562499996,
     "longitude": 103.86216773125001,
-    "number_of_charging_station": 13,
+    "number_of_charging_station": 20,
     "subzone": "Boulevard"
   },
   {
@@ -9176,7 +9176,7 @@
     "count": 10,
     "latitude": 1.30126578,
     "longitude": 103.86027859999999,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Kampong Glam"
   },
   {
@@ -9188,7 +9188,7 @@
     "count": 11,
     "latitude": 1.323706690909091,
     "longitude": 103.91927079999999,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Siglap"
   },
   {
@@ -9200,7 +9200,7 @@
     "count": 9,
     "latitude": 1.2964398000000001,
     "longitude": 103.85570962222221,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Bugis"
   },
   {
@@ -9212,7 +9212,7 @@
     "count": 72,
     "latitude": 1.444520863327722,
     "longitude": 103.78037910413663,
-    "number_of_charging_station": 14,
+    "number_of_charging_station": 22,
     "subzone": "Woodlands East"
   },
   {
@@ -9224,7 +9224,7 @@
     "count": 6,
     "latitude": 1.4567151999999999,
     "longitude": 103.79365756666668,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Admiralty"
   },
   {
@@ -9248,7 +9248,7 @@
     "count": 18,
     "latitude": 1.273833,
     "longitude": 103.84600636666667,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Anson"
   },
   {
@@ -9260,7 +9260,7 @@
     "count": 6,
     "latitude": 1.3035818666666665,
     "longitude": 103.85898656666666,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Rochor Canal"
   },
   {
@@ -9272,7 +9272,7 @@
     "count": 432,
     "latitude": 1.327045690740741,
     "longitude": 103.75093976898152,
-    "number_of_charging_station": 86,
+    "number_of_charging_station": 134,
     "subzone": "International Business Park"
   },
   {
@@ -9284,7 +9284,7 @@
     "count": 10,
     "latitude": 1.27905824,
     "longitude": 103.84423260000001,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Tanjong Pagar"
   },
   {
@@ -9308,7 +9308,7 @@
     "count": 7,
     "latitude": 1.2984094285714285,
     "longitude": 103.83971665714286,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Oxley"
   },
   {
@@ -9320,7 +9320,7 @@
     "count": 11,
     "latitude": 1.2769252,
     "longitude": 103.83673370909092,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Singapore General Hospital"
   },
   {
@@ -9344,7 +9344,7 @@
     "count": 12,
     "latitude": 1.2785566166666669,
     "longitude": 103.84082571666666,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 4,
     "subzone": "Everton Park"
   },
   {
@@ -9368,7 +9368,7 @@
     "count": 6,
     "latitude": 1.2825251333333334,
     "longitude": 103.84721316666668,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "China Square"
   },
   {
@@ -9380,7 +9380,7 @@
     "count": 22,
     "latitude": 1.3213816363636364,
     "longitude": 103.74821630000001,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 7,
     "subzone": "International Business Park"
   },
   {
@@ -9392,7 +9392,7 @@
     "count": 10,
     "latitude": 1.30737928,
     "longitude": 103.85619114,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Rochor Canal"
   },
   {
@@ -9428,7 +9428,7 @@
     "count": 9,
     "latitude": 1.323646977777778,
     "longitude": 103.91885204444446,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Siglap"
   },
   {
@@ -9464,7 +9464,7 @@
     "count": 5,
     "latitude": 1.3056260800000001,
     "longitude": 103.85423204000001,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Sungei Road"
   },
   {
@@ -9476,7 +9476,7 @@
     "count": 331,
     "latitude": 1.320842947432025,
     "longitude": 103.63030208036248,
-    "number_of_charging_station": 66,
+    "number_of_charging_station": 103,
     "subzone": "Tuas Bay"
   },
   {
@@ -9488,7 +9488,7 @@
     "count": 7,
     "latitude": 1.2877221142857143,
     "longitude": 103.84807474285716,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Clarke Quay"
   },
   {
@@ -9500,7 +9500,7 @@
     "count": 5,
     "latitude": 1.3072407866666667,
     "longitude": 103.92959133333332,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Frankel"
   },
   {
@@ -9524,7 +9524,7 @@
     "count": 9,
     "latitude": 1.288648866666667,
     "longitude": 103.84771417777776,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Clarke Quay"
   },
   {
@@ -9536,7 +9536,7 @@
     "count": 42,
     "latitude": 1.3633098571428572,
     "longitude": 103.92637788571426,
-    "number_of_charging_station": 8,
+    "number_of_charging_station": 13,
     "subzone": "Upper Paya Lebar"
   },
   {
@@ -9548,7 +9548,7 @@
     "count": 118,
     "latitude": 1.2755654152542375,
     "longitude": 103.62491903389827,
-    "number_of_charging_station": 24,
+    "number_of_charging_station": 37,
     "subzone": "Tuas Bay"
   },
   {
@@ -9560,7 +9560,7 @@
     "count": 23,
     "latitude": 1.4235481378881987,
     "longitude": 103.74743614782608,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Kranji"
   },
   {
@@ -9572,7 +9572,7 @@
     "count": 23,
     "latitude": 1.2920383391304349,
     "longitude": 103.62892238260872,
-    "number_of_charging_station": 5,
+    "number_of_charging_station": 7,
     "subzone": "Tuas Bay"
   },
   {
@@ -9584,7 +9584,7 @@
     "count": 13,
     "latitude": 1.3202390461538462,
     "longitude": 103.68986047692307,
-    "number_of_charging_station": 3,
+    "number_of_charging_station": 4,
     "subzone": "Kian Teck"
   },
   {
@@ -9596,7 +9596,7 @@
     "count": 10,
     "latitude": 1.41558696,
     "longitude": 103.748246,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Mandai Estate"
   },
   {
@@ -9620,7 +9620,7 @@
     "count": 11,
     "latitude": 1.3252992,
     "longitude": 103.65150523636363,
-    "number_of_charging_station": 2,
+    "number_of_charging_station": 3,
     "subzone": "Gul Circle"
   },
   {
@@ -9632,7 +9632,7 @@
     "count": 6,
     "latitude": 1.3196013666666666,
     "longitude": 103.65214866666668,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Gul Circle"
   },
   {
@@ -9644,7 +9644,7 @@
     "count": 20,
     "latitude": 1.3023995800000001,
     "longitude": 103.62770069999999,
-    "number_of_charging_station": 4,
+    "number_of_charging_station": 6,
     "subzone": "Tuas Bay"
   },
   {
@@ -9668,7 +9668,7 @@
     "count": 6,
     "latitude": 1.3305942333333334,
     "longitude": 103.69351333333333,
-    "number_of_charging_station": 1,
+    "number_of_charging_station": 2,
     "subzone": "Kian Teck"
   }
 ]
