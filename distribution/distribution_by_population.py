@@ -10,7 +10,10 @@ with open("population_distribution.json") as f:
 for item in population_distribution:
     item["latitude"] = float(item["latitude"])
     item["longitude"] = float(item["longitude"])
-    item["number_of_CS"] = round(float(item["population"].replace(',', '')) * EV_PER_CAPITA)
-
+    number_of_CS = round(float(item["population"].replace(',', '')) * EV_PER_CAPITA)
+    if number_of_CS ==0:
+        item["number_of_CS"] = 1
+    else:
+        item["number_of_CS"] = number_of_CS
 with open('population_distribution.json', 'w') as f:
     json.dump(population_distribution, f)

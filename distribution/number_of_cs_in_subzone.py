@@ -7,6 +7,7 @@ with open('population_distribution.json', 'r') as f:
 for item in population_distribution:
     result = {
         "name": item["label"],
+        "population": item["population"],
         "number_of_CS": item["number_of_CS"],
         "latitude": item["latitude"],
         "longitude": item["longitude"]

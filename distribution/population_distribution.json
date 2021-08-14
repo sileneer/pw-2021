@@ -109,14 +109,14 @@
     "population": "10",
     "latitude": 1.27944885,
     "longitude": 103.8362805,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Marina Centre",
     "population": "20",
     "latitude": 1.27958235,
     "longitude": 103.8538296,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Cecil",
@@ -298,7 +298,7 @@
     "population": "10",
     "latitude": 1.2968214,
     "longitude": 103.8506658,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Tanjong Rhu",
@@ -424,7 +424,7 @@
     "population": "10",
     "latitude": 1.302728,
     "longitude": 103.6974283,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Selegie",
@@ -473,14 +473,14 @@
     "population": "10",
     "latitude": 1.30562985,
     "longitude": 103.7212514,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Rochor Canal",
     "population": "10",
     "latitude": 1.3057009,
     "longitude": 103.8582073,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Kampong Bugis",
@@ -627,7 +627,7 @@
     "population": "10",
     "latitude": 1.3135155,
     "longitude": 103.7274968,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Orange Grove",
@@ -697,7 +697,7 @@
     "population": "10",
     "latitude": 1.3163699,
     "longitude": 103.7813952,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Ulu Pandan",
@@ -718,7 +718,7 @@
     "population": "10",
     "latitude": 1.3165214,
     "longitude": 103.7321354,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "West Coast",
@@ -739,14 +739,14 @@
     "population": "10",
     "latitude": 1.3174795,
     "longitude": 103.8923525,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Paya Lebar North",
     "population": "20",
     "latitude": 1.3174795,
     "longitude": 103.8923525,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Siglap",
@@ -844,7 +844,7 @@
     "population": "10",
     "latitude": 1.3253215,
     "longitude": 103.7092754,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Macpherson",
@@ -872,7 +872,7 @@
     "population": "10",
     "latitude": 1.3273734,
     "longitude": 103.7476106,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Joo Koon",
@@ -935,21 +935,21 @@
     "population": "20",
     "latitude": 1.3300518,
     "longitude": 103.6395694,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Tuas North",
     "population": "20",
     "latitude": 1.3300518,
     "longitude": 103.6395694,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Tuas View",
     "population": "10",
     "latitude": 1.3300518,
     "longitude": 103.6395694,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Toh Tuck",
@@ -1033,7 +1033,7 @@
     "population": "20",
     "latitude": 1.3364281,
     "longitude": 103.746847,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Pei Chun",
@@ -1047,7 +1047,7 @@
     "population": "20",
     "latitude": 1.3375104,
     "longitude": 103.9289504,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Yunnan",
@@ -1061,7 +1061,7 @@
     "population": "10",
     "latitude": 1.33846645,
     "longitude": 103.8748981,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Woodleigh",
@@ -1222,7 +1222,7 @@
     "population": "20",
     "latitude": 1.35161105,
     "longitude": 103.892045,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Bishan East",
@@ -1355,7 +1355,7 @@
     "population": "10",
     "latitude": 1.3624531,
     "longitude": 103.7250401,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Serangoon Garden",
@@ -1383,7 +1383,7 @@
     "population": "10",
     "latitude": 1.3700592,
     "longitude": 103.8034477,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Hougang East",
@@ -1425,7 +1425,7 @@
     "population": "20",
     "latitude": 1.3713383,
     "longitude": 103.8727563,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Sembawang Hills",
@@ -1537,7 +1537,7 @@
     "population": "20",
     "latitude": 1.3818691,
     "longitude": 103.7658303,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Senja",
@@ -1621,7 +1621,7 @@
     "population": "10",
     "latitude": 1.39192365,
     "longitude": 103.8954909,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Compassvale",
@@ -1698,7 +1698,7 @@
     "population": "20",
     "latitude": 1.4087181,
     "longitude": 103.8682223,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Seletar",
@@ -1754,7 +1754,7 @@
     "population": "20",
     "latitude": 1.4252189,
     "longitude": 103.7619891,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Yishun Central",
@@ -1873,21 +1873,21 @@
     "population": "20",
     "latitude": 1.4602965,
     "longitude": 103.8374046,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Senoko South",
     "population": "20",
     "latitude": 1.4602965,
     "longitude": 103.8374046,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Senoko West",
     "population": "20",
     "latitude": 1.4602965,
     "longitude": 103.8374046,
-    "number_of_CS": 0
+    "number_of_CS": 1
   },
   {
     "label": "Trafalgar",
