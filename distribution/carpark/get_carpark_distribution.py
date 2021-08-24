@@ -2,7 +2,7 @@ import math
 
 import geojson, json
 
-with open("ura-parking-lot-geojson.geojson") as f:
+with open("../raw_data/ura-parking-lot-geojson.geojson") as f:
     carpark_geojson_file = geojson.load(f)
 
 carpark_origin_data = carpark_geojson_file["features"]
@@ -85,5 +85,5 @@ for item in stage_2_results:
     item["number_of_charging_station"] = number_of_charging_station
 print(count_number_of_charging_stations)
 
-with open('carpark_distribution.json', 'w') as f:
+with open('cs_and_carpark_distribution.json', 'w') as f:
     json.dump(stage_2_results, f)

@@ -1,9 +1,9 @@
 import json, math
 
-with open("population_distribution.json") as f:
+with open("../population/cs_and_population_distribution.json") as f:
     population_distribution = json.load(f)
 
-with open("carpark_distribution.json") as f:
+with open("cs_and_carpark_distribution.json") as f:
     carpark_distribution = json.load(f)
 
 subzone_data = []
@@ -25,5 +25,5 @@ for carpark in carpark_distribution:
     carpark["subzone"] = temp_name_of_subzone
 
 
-with open('carpark_distribution.json', 'w') as f:
+with open('cs_and_carpark_distribution.json', 'w') as f:
     json.dump(carpark_distribution, f)
