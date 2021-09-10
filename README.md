@@ -1,4 +1,4 @@
-# pw-2021 (Hwa Chong Institution, Cat 8-27)
+# pw-2021 (Cat 8-27)
 
 Updated on 24 Aug 2021
 
